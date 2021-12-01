@@ -13,7 +13,7 @@ public class Puits extends Noeud {
     // Pour chaque noeud du réseau, ajouter un arc de capacité noeud.getA()
     for (Noeud noeud : reseau.getNoeuds()) {
       if (!noeud.getId().equals("source") && !noeud.getId().equals("puits")) {
-        Arc arc = new Arc(this, noeud, noeud.getB());
+        Arc arc = new Arc(noeud, this, noeud.getB());
         reseau.ajouterArc(arc);
       }
     }

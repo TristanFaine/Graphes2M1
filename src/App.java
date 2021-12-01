@@ -38,6 +38,11 @@ public class App {
     return null;
   }
 
+  // Calculer le flot max avec Ford Fulkerson
+  static public void CalculFlotMax(Reseau reseau) {
+
+  }
+
 
   public static void main(String[] args) {
     // new Loader().load()
