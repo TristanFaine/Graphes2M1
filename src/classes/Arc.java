@@ -1,18 +1,18 @@
 package src.classes;
 
-public class Edge {
+public class Arc {
   private int id;
   private int capacity;
   private int flow;
 
-  private Node parent;
-  private Node child;
+  private Noeud parent;
+  private Noeud enfant;
 
-  public Edge(int id, int capacity, Node parent, Node child) {
+  public Arc(int id, int capacity, Noeud parent, Noeud child) {
     this.id = id;
     this.capacity = capacity;
     this.parent = parent;
-    this.child = child;
+    this.enfant = child;
   }
 
   public int getId() {

@@ -8,17 +8,17 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 
 // A class used to load a txt file given a path as string
-public class Loader {
+public class Lecteur {
   // Parse 4 different paragraphs from a text file given a path
-  public static String[] parseParagraphs(String path) {
-    List<String> paragraphs = new ArrayList<>();
-    List<String> lines = Loader.load(path);
+  public static String[] parseParagraphs(String chemin) {
+    List<String> paragraphes = new ArrayList<>();
+    List<String> lignes = Lecteur.load(chemin);
 
     int i = 0;
 
-    for (String line : lines) {
-      if (line.length() > 0) {
-        System.out.println(line);
+    for (String ligne : lignes) {
+      if (ligne.length() > 0) {
+        System.out.println(ligne);
       }
     }
 
@@ -30,7 +30,7 @@ public class Loader {
     List<String> lines = new ArrayList<>();
 
     try {
-      lines = Files.readAllLines(Paths.get(path), new Charset("UTF-8", "UTF-8"));
+      lines = Files.readAllLines(Paths.get(path), Charset.forName("UTF-8"));
     } catch (Exception e) {
       e.printStackTrace();
     }

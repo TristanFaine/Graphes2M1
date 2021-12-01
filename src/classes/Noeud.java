@@ -3,23 +3,23 @@ package src.classes;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Node {
-  private List<Edge> inboundEdges;
-  private List<Edge> outboundEdges;
+public class Noeud {
+  private List<Arc> arcsEntrants;
+  private List<Arc> arcsSortants;
 
   private int id;
   private int a;
   private int b;
 
   private boolean source;
-  private boolean sink;
+  private boolean puit;
 
-  public Node(int id, int a, int b) {
+  public Noeud(int id, int a, int b) {
     this.id = id;
     this.a = a;
     this.b = b;
-    this.inboundEdges = new ArrayList<Edge>();
-    this.outboundEdges = new ArrayList<Edge>();
+    this.arcsEntrants = new ArrayList<Arc>();
+    this.arcsSortants = new ArrayList<Arc>();
   }
 
   public int getId() {
