@@ -47,7 +47,9 @@ public class Reseau {
         Noeud enfant = this.getNoeudParId(identifiantEnfant);
 
         Arc arc = new Arc(parent, enfant, PLigne[i][j]);
+        Arc arcRetour = new Arc(enfant, parent, PLigne[i][j]);
         this.ajouterArc(arc);
+        this.ajouterArc(arcRetour);
       }
     }
 
@@ -63,7 +65,9 @@ public class Reseau {
         Noeud enfant = this.getNoeudParId(identifiantEnfant);
 
         Arc arc = new Arc(parent, enfant, PColonne[i][j]);
+        Arc arcRetour = new Arc(enfant, parent, PColonne[i][j]);
         this.ajouterArc(arc);
+        this.ajouterArc(arcRetour);
       }
     }
 

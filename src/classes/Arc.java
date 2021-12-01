@@ -38,6 +38,14 @@ public class Arc {
     return this.flot;
   }
 
+  public Noeud getParent() {
+    return this.parent;
+  }
+
+  public Noeud getEnfant() {
+    return this.enfant;
+  }
+
   public void setFlot(int flot) {
     this.flot = flot;
   }

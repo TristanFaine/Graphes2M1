@@ -1,11 +1,11 @@
 package src.classes;
 
-public class Source extends Noeud {
-  public Source(Reseau reseau) {
-    super("source", 0, 0);
+public class Puits extends Noeud {
+  public Puits(Reseau reseau) {
+    super("puits", 0, 0);
 
-    reseau.setSource(this);
-    this.setSource(true);
+    reseau.setPuits(this);
+    this.setPuits(true);
 
     // Ajouter au réseau un noeud "source", de coordonnées non précisé, son id est "source"
     reseau.ajouterNoeud(this);
@@ -13,7 +13,7 @@ public class Source extends Noeud {
     // Pour chaque noeud du réseau, ajouter un arc de capacité noeud.getA()
     for (Noeud noeud : reseau.getNoeuds()) {
       if (!noeud.getId().equals("source") && !noeud.getId().equals("puits")) {
-        Arc arc = new Arc(this, noeud, noeud.getA());
+        Arc arc = new Arc(this, noeud, noeud.getB());
         reseau.ajouterArc(arc);
       }
     }

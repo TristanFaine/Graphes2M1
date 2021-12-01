@@ -1,7 +1,9 @@
 package src;
 
 import java.util.HashMap;
+import src.classes.Puits;
 import src.classes.Reseau;
+import src.classes.Source;
 import src.utils.Lecteur;
 
 public class App {
@@ -25,6 +27,10 @@ public class App {
     Integer[][] PColonne = (Integer[][]) donnees.get("PColonne");
 
     Reseau reseau = new Reseau(n, m, A, B, PLigne, PColonne);
+
+    new Source(reseau);
+    new Puits(reseau);
+
     System.out.println(reseau);
     // En extraire les nodes & arcs
     // return new Network();

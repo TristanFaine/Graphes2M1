@@ -55,6 +55,14 @@ public class Noeud {
     return this.b;
   }
 
+  public void setPuits(boolean value) {
+    this.puits = value;
+  }
+
+  public void setSource(boolean value) {
+    this.source = value;
+  }
+
   public void setA(int a) {
     this.a = a;
   }
