@@ -1,6 +1,6 @@
 package src;
 
-import java.util.List;
+import java.util.HashMap;
 import src.classes.Reseau;
 import src.utils.Lecteur;
 
@@ -12,9 +12,14 @@ public class App {
    */
   static public Reseau ConstructionReseau(String chemin) {
     // Lire le fichier de données
-    List<String> lignes = new Lecteur().load(chemin);
-    System.out.println(lignes);
+    HashMap<String, Object> donnees = new Lecteur().chargerDonnees(chemin);
 
+    // Créer le réseau de transport
+    int n = (int) donnees.get("n");
+    int m = (int) donnees.get("m");
+
+    Integer[][] A = (Integer[][]) donnees.get("A");
+    Integer[][] B = (Integer[][]) donnees.get("B");
 
     // En extraire les nodes & arcs
     // return new Network();
