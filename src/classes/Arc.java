@@ -1,35 +1,44 @@
 package src.classes;
 
 public class Arc {
-  private int id;
-  private int capacity;
-  private int flow;
+  private String id;
+  private int capacite;
+  private int flot;
 
   private Noeud parent;
   private Noeud enfant;
 
-  public Arc(int id, int capacity, Noeud parent, Noeud child) {
-    this.id = id;
-    this.capacity = capacity;
+  public Arc(Noeud parent, Noeud enfant, int capacite) {
+    // System.out.println(parent);
+    // System.out.println(enfant);
+    // System.out.println(parent.getId() + ":" + enfant.getId());
+    this.id = parent.getId() + ":" + enfant.getId();
+    this.capacite = capacite;
     this.parent = parent;
-    this.enfant = child;
+    this.enfant = enfant;
+
+    this.parent.ajouterArcSortant(this);
+    this.enfant.ajouterArcEntrant(this);
   }
 
-  public int getId() {
-    return id;
+  @Override
+  public String toString() {
+    return "Arc [id=" + this.id + ", capacite=" + this.capacite + ", flot=" + this.flot + "]\n";
   }
 
-  public int getCapacity() {
-    return capacity;
+  public String getId() {
+    return this.id;
   }
 
-  public int getFlow() {
-    return flow;
+  public int getCapacite() {
+    return this.capacite;
   }
 
-  public void setFlow(int flow) {
-    this.flow = flow;
+  public int getFlot() {
+    return this.flot;
   }
 
-
+  public void setFlot(int flot) {
+    this.flot = flot;
+  }
 }

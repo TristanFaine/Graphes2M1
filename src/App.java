@@ -21,6 +21,11 @@ public class App {
     Integer[][] A = (Integer[][]) donnees.get("A");
     Integer[][] B = (Integer[][]) donnees.get("B");
 
+    Integer[][] PLigne = (Integer[][]) donnees.get("PLigne");
+    Integer[][] PColonne = (Integer[][]) donnees.get("PColonne");
+
+    Reseau reseau = new Reseau(n, m, A, B, PLigne, PColonne);
+    System.out.println(reseau);
     // En extraire les nodes & arcs
     // return new Network();
 

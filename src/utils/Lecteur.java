@@ -16,6 +16,9 @@ public class Lecteur {
 
     Integer[][] A = null;
     Integer[][] B = null;
+    Integer[][] PLigne = null;
+    Integer[][] PColonne = null;
+
     String[] valeursLigne = null;
 
     int n = 0;
@@ -33,7 +36,9 @@ public class Lecteur {
 
             A = new Integer[n][m];
             B = new Integer[n][m];
-            // On est sur n m
+
+            PColonne = new Integer[n - 1][m];
+            PLigne = new Integer[n][m - 1];
             break;
           case 1:
             valeursLigne = ligne.split(" ");
@@ -56,16 +61,36 @@ public class Lecteur {
             i++;
             break;
           case 3:
-            // On a pour chaque ligne ai1 à aim
-            // Pénalités pour p1112 --> p1213
-            // p122
+            valeursLigne = ligne.split(" ");
+            // Pénalités par "ligne" | voisin horizontal
+            // couple : (1,1) => (1,2) par exemple
+            // Suite : (1,2) => (1,3)
+            // Lecture nv colonne : => (2,1) => (2,2)
+            // Exemple sur clavier : couple A,Z => Z,E => E,R
+            for (int j = 0; j < valeursLigne.length; j++) {
+              PLigne[i][j] = Integer.valueOf(valeursLigne[j]);
+            }
 
+            i++;
             break;
           case 4:
+            valeursLigne = ligne.split(" ");
+            // Pénalités par "colonne" | voisin vertical
+            // couple : (1,1) => (2,1) par exemple
+            // Suite : (1,2) => (2,2)
+            // Lecture nv colonne : => (2,1) => (3,1)
+            // Exemple sur clavier : couple A,Q => Z,S => E,D
+            for (int j = 0; j < valeursLigne.length; j++) {
+              PColonne[i][j] = Integer.valueOf(valeursLigne[j]);
+            }
 
+            i++;
             break;
         }
-      } else {
+      }
+
+      // Lorsqu'on rencontre une ligne vide on change de mode
+      else {
         i = 0;
         mode++; // On passe au mode suivant
       }
@@ -76,6 +101,8 @@ public class Lecteur {
     result.put("B", B);
     result.put("n", n);
     result.put("m", m);
+    result.put("PColonne", PColonne);
+    result.put("PLigne", PLigne);
 
     return result;
   }
