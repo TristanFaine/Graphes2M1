@@ -70,5 +70,9 @@ public class ReseauTransport extends Reseau {
         this.ajouterArc(arcRetour);
       }
     }
+
+    new Source(this);
+    new Puits(this);
+
   }
 }

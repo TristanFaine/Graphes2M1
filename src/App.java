@@ -29,9 +29,6 @@ public class App {
 
     ReseauTransport reseau = new ReseauTransport(n, m, A, B, PLigne, PColonne);
 
-    new Source(reseau);
-    new Puits(reseau);
-
     System.out.println(reseau);
     // En extraire les nodes & arcs
     // return new Network();

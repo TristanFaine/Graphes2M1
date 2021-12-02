@@ -49,6 +49,8 @@ public class ReseauResiduel extends Reseau {
       }
       // this.arcs.put(arc.getId(), arc);
     }
-    // Construire le réseau résiduel
+
+    new Source(this);
+    new Puits(this);
   }
 }
