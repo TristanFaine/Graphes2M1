@@ -78,4 +78,8 @@ public class Noeud {
   public void ajouterArcSortant(Arc arc) {
     this.arcsSortants.add(arc);
   }
+
+  public Object clone() throws CloneNotSupportedException {
+    return super.clone();
+  }
 }

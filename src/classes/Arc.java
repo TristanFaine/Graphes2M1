@@ -49,4 +49,8 @@ public class Arc {
   public void setFlot(int flot) {
     this.flot = flot;
   }
+
+  public Object clone() throws CloneNotSupportedException {
+    return super.clone();
+  }
 }

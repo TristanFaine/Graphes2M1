@@ -7,7 +7,6 @@ import java.util.HashMap;
 public class ReseauTransport extends Reseau {
   private HashMap<String, Noeud> noeuds;
   private HashMap<String, Arc> arcs;
-  // Les mettre dans des hashmaps comme ça on les recupere en O(1)
 
   private Noeud source;
   private Noeud puits;
@@ -71,18 +70,5 @@ public class ReseauTransport extends Reseau {
         this.ajouterArc(arcRetour);
       }
     }
-
-    // System.out.println(this.noeuds);
-  }
-
-  @Override
-  public String toString() {
-    String str = "";
-
-    for (Noeud noeud : this.noeuds.values()) {
-      str += "Noeud : " + noeud.toString() + "\n";
-    }
-
-    return str;
   }
 }
