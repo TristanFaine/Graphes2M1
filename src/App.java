@@ -3,6 +3,7 @@ package src;
 import java.util.HashMap;
 import src.classes.Puits;
 import src.classes.Reseau;
+import src.classes.ReseauTransport;
 import src.classes.Source;
 import src.utils.Lecteur;
 
@@ -26,7 +27,7 @@ public class App {
     Integer[][] PLigne = (Integer[][]) donnees.get("PLigne");
     Integer[][] PColonne = (Integer[][]) donnees.get("PColonne");
 
-    Reseau reseau = new Reseau(n, m, A, B, PLigne, PColonne);
+    ReseauTransport reseau = new ReseauTransport(n, m, A, B, PLigne, PColonne);
 
     new Source(reseau);
     new Puits(reseau);
