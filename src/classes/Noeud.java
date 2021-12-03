@@ -79,6 +79,14 @@ public class Noeud {
     this.arcsSortants.add(arc);
   }
 
+  public List<Arc> getArcsEntrants() {
+    return this.arcsEntrants;
+  }
+
+  public List<Arc> getArcsSortants() {
+    return this.arcsSortants;
+  }
+
   public Object clone() throws CloneNotSupportedException {
     return super.clone();
   }

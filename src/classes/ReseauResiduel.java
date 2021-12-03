@@ -1,6 +1,8 @@
 package src.classes;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 // Prend un reseau de transport dans le constructeur et retourne son reseau residuel
 public class ReseauResiduel extends Reseau {
@@ -28,7 +30,8 @@ public class ReseauResiduel extends Reseau {
       if (arc.getFlot() < arc.getCapacite()) {
         Noeud parent = this.getNoeudParId(arc.getParent().getId());
         Noeud enfant = this.getNoeudParId(arc.getEnfant().getId());
-        Arc arcResiduelAller = new Arc(parent, enfant, arc.getCapacite());
+
+        Arc arcResiduelAller = new Arc(parent, enfant, arc.getCapacite() - arc.getFlot());
         // arcResiduelAller.setFlot(arc.getFlot()); si nécessaire
 
         this.ajouterArc(arcResiduelAller);
@@ -42,7 +45,7 @@ public class ReseauResiduel extends Reseau {
         Noeud enfant = this.getNoeudParId(arc.getEnfant().getId());
 
         // Inversion normale car on veut faire un arc retour
-        Arc arcResiduelRetour = new Arc(enfant, parent, arc.getCapacite());
+        Arc arcResiduelRetour = new Arc(enfant, parent, arc.getFlot());
         // arcResiduelRetour.setFlot(arc.getFlot()); si nécessaire
 
         this.ajouterArc(arcResiduelRetour);

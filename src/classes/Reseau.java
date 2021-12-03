@@ -12,6 +12,10 @@ public class Reseau {
   private Noeud source;
   private Noeud puits;
 
+  // TODO: Create sink & source in constructor
+  // and add edge when constructing graph
+  // to avoid re-looping on every node later
+
   public Reseau() {
     this.noeuds = new HashMap<String, Noeud>();
     this.arcs = new HashMap<String, Arc>();
@@ -39,7 +43,7 @@ public class Reseau {
   }
 
   public Noeud getSource() {
-    return source;
+    return this.source;
   }
 
   public void setSource(Noeud source) {
@@ -47,7 +51,7 @@ public class Reseau {
   }
 
   public Noeud getPuits() {
-    return puits;
+    return this.puits;
   }
 
   public void setPuits(Noeud puits) {
