@@ -24,8 +24,9 @@ public class FordFulkerson {
 
     ReseauResiduel reseauResiduel = new ReseauResiduel(reseau);
     List<String> chemin = this.trouverCheminCroissance(reseauResiduel);
+    int capaciteMinimum = this.capaciteMinimumChemin(reseau, chemin);
 
-    System.out.println("Chemin augmentant : " + chemin);
+    System.out.println("Chemin augmentant : " + chemin + "\nCapacite minimum : " + capaciteMinimum);
 
     // while () {
     // Trouver le flot le plus petit
@@ -35,6 +36,22 @@ public class FordFulkerson {
     // }
 
     return null;
+  }
+
+  public int capaciteMinimumChemin(Reseau reseau, List<String> chemin) {
+    int min = Integer.MAX_VALUE;
+
+    for (int i = 0; i < chemin.size() - 1; i++) {
+      String identifiantParent = chemin.get(i);
+      String identifiantEnfant = chemin.get(i + 1);
+
+      String identifiantArc = identifiantParent + ":" + identifiantEnfant;
+      Arc arc = reseau.getArcParId(identifiantArc);
+
+      min = Math.min(min, arc.getCapacite());
+    }
+
+    return min;
   }
 
   public List<String> trouverCheminCroissance(Reseau reseau) {
