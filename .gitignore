@@ -1,3 +1,4 @@
 *.class
 data/graph.txt
 graph.txt
+.DS_Store
