@@ -13,7 +13,7 @@ public class FordFulkerson {
 
   // Return le reseau avec son flot maximal
   // Algorithme de Ford Fulkerson
-  public Reseau calculFlotMax(ReseauTransport reseau) throws CloneNotSupportedException {
+  public int calculFlotMax(ReseauTransport reseau) throws CloneNotSupportedException {
     // Commencer à partir de la source:
     // Tant qu'il existe un arc sortant avec flot < capacité:
     // Passer la sauce (ajouter val flot)
@@ -22,20 +22,46 @@ public class FordFulkerson {
     // Si existance un chemin de croissance (avoir réseau résiduel?)
     // Ajouter val flot le plus petit sur chaque arc (faire -val si arc retour)
 
+    int tours = 0;
+
     ReseauResiduel reseauResiduel = new ReseauResiduel(reseau);
     List<String> chemin = this.trouverCheminCroissance(reseauResiduel);
-    int capaciteMinimum = this.capaciteMinimumChemin(reseau, chemin);
 
-    System.out.println("Chemin augmentant : " + chemin + "\nCapacite minimum : " + capaciteMinimum);
+    while (chemin != null) {
+      int capaciteMinimum = this.capaciteMinimumChemin(reseau, chemin);
+      System.out.println("Tour : " + tours + " \n- Chemin : " + chemin + " \n- Capacité minimum : "
+          + capaciteMinimum + "\n\n");
 
-    // while () {
-    // Trouver le flot le plus petit
-    // int flot = new ReseauResiduel(reseau).getFlotLePlusPetit();
-    // Ajouter le flot sur chaque arc
-    // reseau.ajouterFlot(flot);
-    // }
+      for (int i = 0; i < chemin.size() - 1; i++) {
+        String identifiantParent = chemin.get(i);
+        String identifiantEnfant = chemin.get(i + 1);
 
-    return null;
+        String identifiantArc = identifiantParent + ":" + identifiantEnfant;
+        Arc arc = reseau.getArcParId(identifiantArc);
+        arc.setFlot(arc.getFlot() + capaciteMinimum);
+
+        // TODO: Gérer le cas des arcs retours où on soustrait
+        // la capacité minimum (actuellement le flot
+        // retourné dépasse la capacité parfois)
+      }
+
+      reseauResiduel = new ReseauResiduel(reseau);
+      chemin = this.trouverCheminCroissance(reseauResiduel);
+
+      tours++;
+    }
+
+    Noeud puits = reseau.getPuits();
+    int flotMax = 0;
+
+    for (Arc arcFinal : puits.getArcsEntrants()) {
+      flotMax += arcFinal.getFlot();
+    }
+
+    System.out.println("FLOT MAXIMAL: " + flotMax);
+    reseau.saveForVisualization();
+
+    return flotMax;
   }
 
   public int capaciteMinimumChemin(Reseau reseau, List<String> chemin) {
@@ -48,6 +74,8 @@ public class FordFulkerson {
       String identifiantArc = identifiantParent + ":" + identifiantEnfant;
       Arc arc = reseau.getArcParId(identifiantArc);
 
+      System.out.println(arc.getId() + " : " + arc.getFlot() + " / " + arc.getCapacite());
+
       min = Math.min(min, arc.getCapacite());
     }
 
@@ -56,13 +84,20 @@ public class FordFulkerson {
 
   public List<String> trouverCheminCroissance(Reseau reseau) {
     this.visites = new ArrayList<>();
-    List<String> chemin = this.parcoursProfondeur(reseau, reseau.getSource(), null);
+    List<String> chemin;
 
-    return chemin;
+    for (Noeud noeud : reseau.getNoeuds()) {
+      chemin = this.parcoursProfondeur(reseau, reseau.getSource(), null);
+
+      if (chemin != null) {
+        return chemin;
+      }
+    }
+
+    return null;
   }
 
   public List<String> parcoursProfondeur(Reseau reseau, Noeud noeud, List<String> chemin) {
-
     if (chemin == null) {
       chemin = new ArrayList<>();
     }

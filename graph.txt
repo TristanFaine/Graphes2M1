@@ -1,0 +1,1730 @@
+ID=8-10 a=1 b=13
+ID=8-11 a=9 b=4
+ID=8-12 a=10 b=4
+ID=8-13 a=1 b=13
+ID=8-14 a=1 b=13
+ID=8-15 a=13 b=1
+ID=12-13 a=13 b=1
+ID=12-14 a=13 b=1
+ID=12-11 a=1 b=13
+ID=12-12 a=1 b=13
+ID=12-10 a=1 b=13
+ID=12-15 a=1 b=13
+ID=4-14 a=13 b=1
+ID=4-15 a=1 b=13
+ID=4-12 a=10 b=4
+ID=4-13 a=1 b=13
+ID=4-10 a=9 b=4
+ID=4-11 a=10 b=4
+ID=14-4 a=1 b=13
+ID=13-1 a=1 b=13
+ID=14-5 a=1 b=13
+ID=13-2 a=13 b=1
+ID=14-2 a=13 b=1
+ID=14-3 a=13 b=1
+ID=13-0 a=1 b=13
+ID=14-8 a=1 b=13
+ID=1-15 a=1 b=13
+ID=14-9 a=1 b=13
+ID=14-6 a=1 b=13
+ID=14-7 a=1 b=13
+ID=15-12 a=13 b=1
+ID=13-9 a=1 b=13
+ID=15-13 a=1 b=13
+ID=15-10 a=13 b=1
+ID=13-7 a=1 b=13
+ID=15-11 a=13 b=1
+ID=13-8 a=1 b=13
+ID=14-0 a=1 b=13
+ID=13-5 a=1 b=13
+ID=14-1 a=1 b=13
+ID=13-6 a=1 b=13
+ID=15-14 a=1 b=13
+ID=13-3 a=1 b=13
+ID=15-15 a=1 b=13
+ID=13-4 a=1 b=13
+ID=0-14 a=1 b=13
+ID=0-15 a=1 b=13
+ID=11-9 a=13 b=1
+ID=12-3 a=1 b=13
+ID=11-8 a=1 b=13
+ID=12-2 a=13 b=1
+ID=11-7 a=1 b=13
+ID=12-1 a=13 b=1
+ID=11-6 a=13 b=1
+ID=12-0 a=1 b=13
+ID=11-5 a=1 b=13
+ID=14-13 a=13 b=1
+ID=12-7 a=1 b=13
+ID=11-4 a=1 b=13
+ID=14-14 a=1 b=13
+ID=12-6 a=13 b=1
+ID=11-3 a=13 b=1
+ID=14-15 a=1 b=13
+ID=12-5 a=1 b=13
+ID=11-2 a=13 b=1
+ID=12-4 a=1 b=13
+ID=11-1 a=13 b=1
+ID=11-0 a=13 b=1
+ID=14-10 a=1 b=13
+ID=14-11 a=1 b=13
+ID=12-9 a=13 b=1
+ID=14-12 a=13 b=1
+ID=12-8 a=1 b=13
+ID=15-5 a=13 b=1
+ID=15-6 a=13 b=1
+ID=15-7 a=13 b=1
+ID=15-8 a=13 b=1
+ID=15-1 a=1 b=13
+ID=15-2 a=1 b=13
+ID=15-3 a=13 b=1
+ID=15-4 a=13 b=1
+ID=10-12 a=13 b=1
+ID=10-11 a=13 b=1
+ID=10-10 a=13 b=1
+ID=15-0 a=1 b=13
+ID=0-11 a=1 b=13
+ID=0-10 a=13 b=1
+ID=0-13 a=1 b=13
+ID=0-12 a=1 b=13
+ID=2-10 a=1 b=13
+ID=2-11 a=1 b=13
+ID=2-12 a=13 b=1
+ID=10-15 a=13 b=1
+ID=2-13 a=13 b=1
+ID=2-14 a=1 b=13
+ID=10-13 a=9 b=4
+ID=2-15 a=1 b=13
+ID=10-14 a=9 b=4
+ID=15-9 a=13 b=1
+ID=3-1 a=13 b=1
+ID=2-6 a=1 b=13
+ID=3-0 a=1 b=13
+ID=2-5 a=1 b=13
+ID=2-4 a=1 b=13
+ID=2-3 a=13 b=1
+ID=7-9 a=1 b=13
+ID=2-9 a=1 b=13
+ID=7-8 a=1 b=13
+ID=2-8 a=10 b=4
+ID=7-7 a=1 b=13
+ID=5-10 a=9 b=4
+ID=2-7 a=9 b=4
+ID=7-6 a=1 b=13
+ID=5-11 a=10 b=4
+ID=3-9 a=9 b=4
+ID=5-12 a=1 b=13
+ID=3-8 a=9 b=4
+ID=6-9 a=1 b=13
+ID=5-13 a=1 b=13
+ID=3-7 a=9 b=4
+ID=6-8 a=1 b=13
+ID=5-14 a=13 b=1
+ID=3-6 a=9 b=4
+ID=6-7 a=1 b=13
+ID=5-15 a=13 b=1
+ID=3-5 a=1 b=13
+ID=2-2 a=13 b=1
+ID=3-4 a=1 b=13
+ID=2-1 a=1 b=13
+ID=3-3 a=9 b=4
+ID=2-0 a=1 b=13
+ID=3-2 a=13 b=1
+ID=13-11 a=1 b=13
+ID=13-10 a=1 b=13
+ID=13-13 a=13 b=1
+ID=13-12 a=1 b=13
+ID=13-15 a=1 b=13
+ID=13-14 a=1 b=13
+ID=3-14 a=13 b=1
+ID=3-13 a=13 b=1
+ID=6-0 a=13 b=1
+ID=6-1 a=1 b=13
+ID=3-15 a=1 b=13
+ID=6-2 a=1 b=13
+ID=source a=0 b=0
+ID=3-10 a=1 b=13
+ID=6-3 a=1 b=13
+ID=6-4 a=9 b=4
+ID=3-12 a=9 b=4
+ID=6-5 a=1 b=13
+ID=3-11 a=1 b=13
+ID=6-6 a=1 b=13
+ID=1-10 a=13 b=1
+ID=7-2 a=1 b=13
+ID=7-3 a=1 b=13
+ID=7-4 a=9 b=4
+ID=7-5 a=1 b=13
+ID=1-14 a=1 b=13
+ID=1-13 a=1 b=13
+ID=1-12 a=13 b=1
+ID=7-0 a=13 b=1
+ID=1-11 a=13 b=1
+ID=7-1 a=1 b=13
+ID=8-4 a=9 b=4
+ID=8-3 a=9 b=4
+ID=8-2 a=1 b=13
+ID=8-1 a=1 b=13
+ID=8-0 a=13 b=1
+ID=1-5 a=13 b=1
+ID=0-2 a=1 b=13
+ID=1-4 a=13 b=1
+ID=0-1 a=1 b=13
+ID=9-10 a=9 b=4
+ID=1-7 a=9 b=4
+ID=0-4 a=1 b=13
+ID=1-6 a=1 b=13
+ID=0-3 a=1 b=13
+ID=1-9 a=1 b=13
+ID=9-13 a=9 b=4
+ID=1-8 a=10 b=4
+ID=9-14 a=9 b=4
+ID=0-0 a=1 b=13
+ID=9-11 a=9 b=4
+ID=9-12 a=9 b=4
+ID=8-9 a=1 b=13
+ID=0-9 a=13 b=1
+ID=9-15 a=13 b=1
+ID=1-1 a=1 b=13
+ID=0-6 a=13 b=1
+ID=8-5 a=1 b=13
+ID=1-0 a=1 b=13
+ID=0-5 a=13 b=1
+ID=8-6 a=1 b=13
+ID=1-3 a=13 b=1
+ID=0-8 a=13 b=1
+ID=8-7 a=1 b=13
+ID=1-2 a=1 b=13
+ID=0-7 a=13 b=1
+ID=8-8 a=1 b=13
+ID=7-13 a=1 b=13
+ID=7-14 a=1 b=13
+ID=7-15 a=13 b=1
+ID=6-15 a=13 b=1
+ID=6-14 a=1 b=13
+ID=6-13 a=1 b=13
+ID=6-12 a=1 b=13
+ID=6-11 a=10 b=4
+ID=6-10 a=1 b=13
+ID=7-10 a=1 b=13
+ID=7-11 a=10 b=4
+ID=7-12 a=1 b=13
+ID=10-2 a=10 b=4
+ID=11-12 a=13 b=1
+ID=10-3 a=13 b=1
+ID=11-13 a=13 b=1
+ID=10-4 a=13 b=1
+ID=11-10 a=1 b=13
+ID=10-5 a=13 b=1
+ID=11-11 a=1 b=13
+ID=10-0 a=13 b=1
+ID=10-1 a=9 b=4
+ID=10-6 a=13 b=1
+ID=10-7 a=13 b=1
+ID=10-8 a=13 b=1
+ID=10-9 a=13 b=1
+ID=puits a=0 b=0
+ID=11-15 a=13 b=1
+ID=11-14 a=13 b=1
+ID=9-3 a=9 b=4
+ID=9-2 a=9 b=4
+ID=9-1 a=9 b=4
+ID=9-0 a=13 b=1
+ID=9-4 a=9 b=4
+ID=9-5 a=9 b=4
+ID=9-6 a=1 b=13
+ID=9-7 a=1 b=13
+ID=9-8 a=1 b=13
+ID=9-9 a=1 b=13
+ID=5-4 a=9 b=4
+ID=5-5 a=9 b=4
+ID=5-6 a=1 b=13
+ID=5-7 a=1 b=13
+ID=5-0 a=13 b=1
+ID=5-1 a=13 b=1
+ID=5-2 a=1 b=13
+ID=5-3 a=1 b=13
+ID=4-0 a=1 b=13
+ID=4-1 a=13 b=1
+ID=4-2 a=1 b=13
+ID=4-3 a=9 b=4
+ID=4-4 a=9 b=4
+ID=4-5 a=9 b=4
+ID=4-6 a=9 b=4
+ID=4-7 a=9 b=4
+ID=4-8 a=9 b=4
+ID=4-9 a=9 b=4
+ID=5-9 a=1 b=13
+ID=5-8 a=1 b=13
+ID=source:9-1 parent=source enfant=9-1 flot=1 capacite=9
+ID=15-9:15-10 parent=15-9 enfant=15-10 flot=0 capacite=0
+ID=source:9-2 parent=source enfant=9-2 flot=9 capacite=9
+ID=source:15-1 parent=source enfant=15-1 flot=1 capacite=1
+ID=source:9-0 parent=source enfant=9-0 flot=1 capacite=13
+ID=source:15-0 parent=source enfant=15-0 flot=1 capacite=1
+ID=6-15:7-15 parent=6-15 enfant=7-15 flot=0 capacite=0
+ID=14-8:puits parent=14-8 enfant=puits flot=13 capacite=13
+ID=source:15-7 parent=source enfant=15-7 flot=13 capacite=13
+ID=source:15-13 parent=source enfant=15-13 flot=1 capacite=1
+ID=source:15-6 parent=source enfant=15-6 flot=13 capacite=13
+ID=source:15-14 parent=source enfant=15-14 flot=1 capacite=1
+ID=source:15-9 parent=source enfant=15-9 flot=13 capacite=13
+ID=source:15-15 parent=source enfant=15-15 flot=1 capacite=1
+ID=source:15-8 parent=source enfant=15-8 flot=13 capacite=13
+ID=source:15-3 parent=source enfant=15-3 flot=14 capacite=13
+ID=11-2:12-2 parent=11-2 enfant=12-2 flot=0 capacite=0
+ID=10-11:11-11 parent=10-11 enfant=11-11 flot=0 capacite=12
+ID=source:15-2 parent=source enfant=15-2 flot=1 capacite=1
+ID=source:15-10 parent=source enfant=15-10 flot=13 capacite=13
+ID=5-8:5-9 parent=5-8 enfant=5-9 flot=0 capacite=0
+ID=source:15-5 parent=source enfant=15-5 flot=13 capacite=13
+ID=source:15-11 parent=source enfant=15-11 flot=14 capacite=13
+ID=source:15-4 parent=source enfant=15-4 flot=13 capacite=13
+ID=source:15-12 parent=source enfant=15-12 flot=13 capacite=13
+ID=5-8:5-7 parent=5-8 enfant=5-7 flot=0 capacite=0
+ID=13-6:13-7 parent=13-6 enfant=13-7 flot=0 capacite=0
+ID=13-6:13-5 parent=13-6 enfant=13-5 flot=0 capacite=0
+ID=10-0:9-0 parent=10-0 enfant=9-0 flot=0 capacite=0
+ID=11-0:12-0 parent=11-0 enfant=12-0 flot=12 capacite=12
+ID=11-2:10-2 parent=11-2 enfant=10-2 flot=4 capacite=3
+ID=14-1:14-2 parent=14-1 enfant=14-2 flot=1 capacite=12
+ID=3-3:4-3 parent=3-3 enfant=4-3 flot=0 capacite=0
+ID=14-1:14-0 parent=14-1 enfant=14-0 flot=0 capacite=0
+ID=4-5:5-5 parent=4-5 enfant=5-5 flot=0 capacite=0
+ID=8-2:puits parent=8-2 enfant=puits flot=19 capacite=13
+ID=8-15:9-15 parent=8-15 enfant=9-15 flot=0 capacite=0
+ID=1-13:puits parent=1-13 enfant=puits flot=13 capacite=13
+ID=3-8:3-9 parent=3-8 enfant=3-9 flot=0 capacite=0
+ID=13-14:14-14 parent=13-14 enfant=14-14 flot=0 capacite=0
+ID=15-7:puits parent=15-7 enfant=puits flot=1 capacite=1
+ID=source:13-9 parent=source enfant=13-9 flot=1 capacite=1
+ID=3-8:3-7 parent=3-8 enfant=3-7 flot=0 capacite=0
+ID=source:13-8 parent=source enfant=13-8 flot=1 capacite=1
+ID=source:13-7 parent=source enfant=13-7 flot=1 capacite=1
+ID=source:13-6 parent=source enfant=13-6 flot=1 capacite=1
+ID=source:13-5 parent=source enfant=13-5 flot=1 capacite=1
+ID=4-10:4-9 parent=4-10 enfant=4-9 flot=0 capacite=0
+ID=source:13-4 parent=source enfant=13-4 flot=1 capacite=1
+ID=source:13-3 parent=source enfant=13-3 flot=1 capacite=1
+ID=source:13-2 parent=source enfant=13-2 flot=13 capacite=13
+ID=9-1:10-1 parent=9-1 enfant=10-1 flot=0 capacite=0
+ID=13-12:13-13 parent=13-12 enfant=13-13 flot=12 capacite=12
+ID=source:13-1 parent=source enfant=13-1 flot=1 capacite=1
+ID=source:13-0 parent=source enfant=13-0 flot=1 capacite=1
+ID=13-12:13-11 parent=13-12 enfant=13-11 flot=0 capacite=0
+ID=5-2:puits parent=5-2 enfant=puits flot=13 capacite=13
+ID=8-14:puits parent=8-14 enfant=puits flot=13 capacite=13
+ID=12-2:13-2 parent=12-2 enfant=13-2 flot=0 capacite=0
+ID=12-12:11-12 parent=12-12 enfant=11-12 flot=13 capacite=12
+ID=source:11-4 parent=source enfant=11-4 flot=1 capacite=1
+ID=7-6:8-6 parent=7-6 enfant=8-6 flot=0 capacite=0
+ID=source:11-5 parent=source enfant=11-5 flot=1 capacite=1
+ID=source:11-2 parent=source enfant=11-2 flot=5 capacite=13
+ID=source:11-3 parent=source enfant=11-3 flot=24 capacite=13
+ID=source:8-10 parent=source enfant=8-10 flot=1 capacite=1
+ID=2-14:3-14 parent=2-14 enfant=3-14 flot=2 capacite=12
+ID=source:11-0 parent=source enfant=11-0 flot=13 capacite=13
+ID=source:8-11 parent=source enfant=8-11 flot=13 capacite=9
+ID=source:11-1 parent=source enfant=11-1 flot=1 capacite=13
+ID=source:8-12 parent=source enfant=8-12 flot=18 capacite=10
+ID=source:8-13 parent=source enfant=8-13 flot=1 capacite=1
+ID=8-12:7-12 parent=8-12 enfant=7-12 flot=9 capacite=9
+ID=source:8-14 parent=source enfant=8-14 flot=1 capacite=1
+ID=source:8-15 parent=source enfant=8-15 flot=13 capacite=13
+ID=9-10:9-9 parent=9-10 enfant=9-9 flot=0 capacite=9
+ID=0-5:puits parent=0-5 enfant=puits flot=1 capacite=1
+ID=3-13:puits parent=3-13 enfant=puits flot=1 capacite=1
+ID=source:11-8 parent=source enfant=11-8 flot=1 capacite=1
+ID=3-3:2-3 parent=3-3 enfant=2-3 flot=4 capacite=3
+ID=source:11-9 parent=source enfant=11-9 flot=13 capacite=13
+ID=source:11-6 parent=source enfant=11-6 flot=13 capacite=13
+ID=7-9:6-9 parent=7-9 enfant=6-9 flot=0 capacite=0
+ID=source:11-7 parent=source enfant=11-7 flot=1 capacite=1
+ID=15-5:15-6 parent=15-5 enfant=15-6 flot=0 capacite=0
+ID=15-5:15-4 parent=15-5 enfant=15-4 flot=0 capacite=0
+ID=5-11:5-10 parent=5-11 enfant=5-10 flot=0 capacite=0
+ID=5-11:5-12 parent=5-11 enfant=5-12 flot=0 capacite=9
+ID=8-5:7-5 parent=8-5 enfant=7-5 flot=0 capacite=0
+ID=8-10:7-10 parent=8-10 enfant=7-10 flot=0 capacite=0
+ID=source:13-15 parent=source enfant=13-15 flot=1 capacite=1
+ID=10-5:puits parent=10-5 enfant=puits flot=1 capacite=1
+ID=source:13-14 parent=source enfant=13-14 flot=1 capacite=1
+ID=source:13-13 parent=source enfant=13-13 flot=0 capacite=13
+ID=14-0:15-0 parent=14-0 enfant=15-0 flot=0 capacite=0
+ID=source:13-12 parent=source enfant=13-12 flot=0 capacite=1
+ID=source:13-11 parent=source enfant=13-11 flot=1 capacite=1
+ID=source:13-10 parent=source enfant=13-10 flot=1 capacite=1
+ID=8-13:puits parent=8-13 enfant=puits flot=19 capacite=13
+ID=14-13:14-14 parent=14-13 enfant=14-14 flot=13 capacite=12
+ID=14-13:14-12 parent=14-13 enfant=14-12 flot=0 capacite=0
+ID=source:12-15 parent=source enfant=12-15 flot=1 capacite=1
+ID=source:12-14 parent=source enfant=12-14 flot=12 capacite=13
+ID=0-3:1-3 parent=0-3 enfant=1-3 flot=1 capacite=12
+ID=13-7:puits parent=13-7 enfant=puits flot=1 capacite=13
+ID=7-1:puits parent=7-1 enfant=puits flot=13 capacite=13
+ID=0-1:puits parent=0-1 enfant=puits flot=1 capacite=13
+ID=13-9:14-9 parent=13-9 enfant=14-9 flot=0 capacite=0
+ID=10-9:10-10 parent=10-9 enfant=10-10 flot=0 capacite=0
+ID=source:9-4 parent=source enfant=9-4 flot=2 capacite=9
+ID=source:12-10 parent=source enfant=12-10 flot=1 capacite=1
+ID=11-3:puits parent=11-3 enfant=puits flot=1 capacite=1
+ID=source:9-3 parent=source enfant=9-3 flot=10 capacite=9
+ID=source:12-11 parent=source enfant=12-11 flot=1 capacite=1
+ID=source:9-6 parent=source enfant=9-6 flot=1 capacite=1
+ID=source:12-12 parent=source enfant=12-12 flot=1 capacite=1
+ID=source:9-5 parent=source enfant=9-5 flot=1 capacite=9
+ID=source:12-13 parent=source enfant=12-13 flot=13 capacite=13
+ID=source:9-8 parent=source enfant=9-8 flot=1 capacite=1
+ID=source:9-7 parent=source enfant=9-7 flot=1 capacite=1
+ID=7-8:puits parent=7-8 enfant=puits flot=1 capacite=13
+ID=source:9-9 parent=source enfant=9-9 flot=1 capacite=1
+ID=6-13:5-13 parent=6-13 enfant=5-13 flot=0 capacite=0
+ID=3-11:puits parent=3-11 enfant=puits flot=19 capacite=13
+ID=14-14:14-15 parent=14-14 enfant=14-15 flot=0 capacite=0
+ID=9-14:10-14 parent=9-14 enfant=10-14 flot=0 capacite=0
+ID=1-6:1-5 parent=1-6 enfant=1-5 flot=12 capacite=12
+ID=1-0:puits parent=1-0 enfant=puits flot=1 capacite=13
+ID=1-6:1-7 parent=1-6 enfant=1-7 flot=1 capacite=9
+ID=12-3:13-3 parent=12-3 enfant=13-3 flot=0 capacite=0
+ID=6-11:6-10 parent=6-11 enfant=6-10 flot=9 capacite=9
+ID=2-5:2-4 parent=2-5 enfant=2-4 flot=0 capacite=0
+ID=6-11:6-12 parent=6-11 enfant=6-12 flot=9 capacite=9
+ID=12-5:puits parent=12-5 enfant=puits flot=1 capacite=13
+ID=2-5:2-6 parent=2-5 enfant=2-6 flot=0 capacite=0
+ID=1-9:1-10 parent=1-9 enfant=1-10 flot=0 capacite=12
+ID=10-12:9-12 parent=10-12 enfant=9-12 flot=3 capacite=3
+ID=13-1:13-0 parent=13-1 enfant=13-0 flot=0 capacite=0
+ID=2-3:puits parent=2-3 enfant=puits flot=1 capacite=1
+ID=12-6:13-6 parent=12-6 enfant=13-6 flot=12 capacite=12
+ID=13-1:13-2 parent=13-1 enfant=13-2 flot=13 capacite=12
+ID=12-4:12-3 parent=12-4 enfant=12-3 flot=0 capacite=0
+ID=7-3:7-4 parent=7-3 enfant=7-4 flot=0 capacite=9
+ID=9-6:9-7 parent=9-6 enfant=9-7 flot=0 capacite=0
+ID=12-4:12-5 parent=12-4 enfant=12-5 flot=0 capacite=0
+ID=9-6:9-5 parent=9-6 enfant=9-5 flot=1 capacite=9
+ID=2-15:2-14 parent=2-15 enfant=2-14 flot=0 capacite=0
+ID=0-5:0-4 parent=0-5 enfant=0-4 flot=12 capacite=12
+ID=8-9:8-8 parent=8-9 enfant=8-8 flot=0 capacite=0
+ID=13-10:12-10 parent=13-10 enfant=12-10 flot=0 capacite=0
+ID=0-5:0-6 parent=0-5 enfant=0-6 flot=0 capacite=0
+ID=7-0:8-0 parent=7-0 enfant=8-0 flot=0 capacite=0
+ID=3-10:2-10 parent=3-10 enfant=2-10 flot=0 capacite=0
+ID=3-11:3-10 parent=3-11 enfant=3-10 flot=0 capacite=0
+ID=3-11:3-12 parent=3-11 enfant=3-12 flot=0 capacite=9
+ID=14-15:15-15 parent=14-15 enfant=15-15 flot=0 capacite=0
+ID=13-4:14-4 parent=13-4 enfant=14-4 flot=0 capacite=0
+ID=7-0:6-0 parent=7-0 enfant=6-0 flot=0 capacite=0
+ID=6-5:puits parent=6-5 enfant=puits flot=1 capacite=13
+ID=12-7:11-7 parent=12-7 enfant=11-7 flot=0 capacite=0
+ID=11-10:11-11 parent=11-10 enfant=11-11 flot=0 capacite=0
+ID=12-6:11-6 parent=12-6 enfant=11-6 flot=0 capacite=0
+ID=9-0:9-1 parent=9-0 enfant=9-1 flot=0 capacite=3
+ID=14-14:14-13 parent=14-14 enfant=14-13 flot=0 capacite=12
+ID=5-3:puits parent=5-3 enfant=puits flot=18 capacite=13
+ID=8-5:puits parent=8-5 enfant=puits flot=11 capacite=13
+ID=13-8:puits parent=13-8 enfant=puits flot=1 capacite=13
+ID=5-11:puits parent=5-11 enfant=puits flot=4 capacite=4
+ID=2-9:1-9 parent=2-9 enfant=1-9 flot=0 capacite=0
+ID=11-12:12-12 parent=11-12 enfant=12-12 flot=0 capacite=12
+ID=1-0:1-1 parent=1-0 enfant=1-1 flot=0 capacite=0
+ID=5-9:4-9 parent=5-9 enfant=4-9 flot=4 capacite=9
+ID=5-11:6-11 parent=5-11 enfant=6-11 flot=0 capacite=0
+ID=15-5:puits parent=15-5 enfant=puits flot=1 capacite=1
+ID=10-4:9-4 parent=10-4 enfant=9-4 flot=0 capacite=3
+ID=3-14:4-14 parent=3-14 enfant=4-14 flot=0 capacite=0
+ID=6-14:7-14 parent=6-14 enfant=7-14 flot=0 capacite=0
+ID=3-0:puits parent=3-0 enfant=puits flot=13 capacite=13
+ID=9-14:8-14 parent=9-14 enfant=8-14 flot=0 capacite=9
+ID=9-6:10-6 parent=9-6 enfant=10-6 flot=1 capacite=12
+ID=1-14:1-15 parent=1-14 enfant=1-15 flot=0 capacite=0
+ID=1-14:1-13 parent=1-14 enfant=1-13 flot=0 capacite=0
+ID=5-7:4-7 parent=5-7 enfant=4-7 flot=1 capacite=9
+ID=7-14:7-13 parent=7-14 enfant=7-13 flot=0 capacite=0
+ID=4-10:3-10 parent=4-10 enfant=3-10 flot=8 capacite=9
+ID=7-14:7-15 parent=7-14 enfant=7-15 flot=1 capacite=12
+ID=7-3:7-2 parent=7-3 enfant=7-2 flot=0 capacite=0
+ID=6-14:puits parent=6-14 enfant=puits flot=13 capacite=13
+ID=14-7:puits parent=14-7 enfant=puits flot=13 capacite=13
+ID=6-3:7-3 parent=6-3 enfant=7-3 flot=0 capacite=0
+ID=10-12:puits parent=10-12 enfant=puits flot=1 capacite=1
+ID=7-2:8-2 parent=7-2 enfant=8-2 flot=0 capacite=0
+ID=6-11:7-11 parent=6-11 enfant=7-11 flot=0 capacite=0
+ID=2-2:2-1 parent=2-2 enfant=2-1 flot=12 capacite=12
+ID=12-12:13-12 parent=12-12 enfant=13-12 flot=0 capacite=0
+ID=14-11:14-10 parent=14-11 enfant=14-10 flot=0 capacite=0
+ID=2-2:2-3 parent=2-2 enfant=2-3 flot=0 capacite=0
+ID=14-11:14-12 parent=14-11 enfant=14-12 flot=13 capacite=12
+ID=0-9:0-8 parent=0-9 enfant=0-8 flot=0 capacite=0
+ID=13-10:13-9 parent=13-10 enfant=13-9 flot=0 capacite=0
+ID=0-6:puits parent=0-6 enfant=puits flot=1 capacite=1
+ID=11-13:10-13 parent=11-13 enfant=10-13 flot=0 capacite=3
+ID=8-3:puits parent=8-3 enfant=puits flot=4 capacite=4
+ID=7-5:7-6 parent=7-5 enfant=7-6 flot=0 capacite=0
+ID=7-5:7-4 parent=7-5 enfant=7-4 flot=0 capacite=9
+ID=1-3:0-3 parent=1-3 enfant=0-3 flot=24 capacite=12
+ID=6-7:5-7 parent=6-7 enfant=5-7 flot=0 capacite=0
+ID=8-3:8-4 parent=8-3 enfant=8-4 flot=0 capacite=0
+ID=11-3:10-3 parent=11-3 enfant=10-3 flot=0 capacite=0
+ID=8-3:8-2 parent=8-3 enfant=8-2 flot=9 capacite=9
+ID=12-14:12-13 parent=12-14 enfant=12-13 flot=0 capacite=0
+ID=7-2:6-2 parent=7-2 enfant=6-2 flot=0 capacite=0
+ID=9-1:8-1 parent=9-1 enfant=8-1 flot=1 capacite=9
+ID=12-14:12-15 parent=12-14 enfant=12-15 flot=12 capacite=12
+ID=3-0:4-0 parent=3-0 enfant=4-0 flot=0 capacite=0
+ID=0-11:0-12 parent=0-11 enfant=0-12 flot=0 capacite=0
+ID=2-5:puits parent=2-5 enfant=puits flot=13 capacite=13
+ID=0-11:0-10 parent=0-11 enfant=0-10 flot=1 capacite=12
+ID=2-1:3-1 parent=2-1 enfant=3-1 flot=13 capacite=12
+ID=2-8:2-9 parent=2-8 enfant=2-9 flot=0 capacite=9
+ID=11-14:11-15 parent=11-14 enfant=11-15 flot=0 capacite=0
+ID=11-14:11-13 parent=11-14 enfant=11-13 flot=0 capacite=0
+ID=1-11:puits parent=1-11 enfant=puits flot=1 capacite=1
+ID=7-15:8-15 parent=7-15 enfant=8-15 flot=0 capacite=0
+ID=12-10:13-10 parent=12-10 enfant=13-10 flot=0 capacite=0
+ID=2-6:3-6 parent=2-6 enfant=3-6 flot=0 capacite=9
+ID=4-9:5-9 parent=4-9 enfant=5-9 flot=9 capacite=9
+ID=2-6:1-6 parent=2-6 enfant=1-6 flot=0 capacite=0
+ID=1-9:2-9 parent=1-9 enfant=2-9 flot=0 capacite=0
+ID=6-13:7-13 parent=6-13 enfant=7-13 flot=0 capacite=0
+ID=4-8:4-7 parent=4-8 enfant=4-7 flot=0 capacite=0
+ID=10-7:10-6 parent=10-7 enfant=10-6 flot=0 capacite=0
+ID=3-15:4-15 parent=3-15 enfant=4-15 flot=0 capacite=0
+ID=4-8:4-9 parent=4-8 enfant=4-9 flot=0 capacite=0
+ID=6-5:6-6 parent=6-5 enfant=6-6 flot=0 capacite=0
+ID=10-7:10-8 parent=10-7 enfant=10-8 flot=0 capacite=0
+ID=11-0:10-0 parent=11-0 enfant=10-0 flot=0 capacite=0
+ID=6-5:6-4 parent=6-5 enfant=6-4 flot=0 capacite=9
+ID=10-12:11-12 parent=10-12 enfant=11-12 flot=0 capacite=0
+ID=15-6:15-5 parent=15-6 enfant=15-5 flot=0 capacite=0
+ID=15-6:15-7 parent=15-6 enfant=15-7 flot=0 capacite=0
+ID=3-6:2-6 parent=3-6 enfant=2-6 flot=4 capacite=9
+ID=12-13:13-13 parent=12-13 enfant=13-13 flot=0 capacite=0
+ID=3-9:3-8 parent=3-9 enfant=3-8 flot=0 capacite=0
+ID=5-1:4-1 parent=5-1 enfant=4-1 flot=0 capacite=0
+ID=11-6:puits parent=11-6 enfant=puits flot=1 capacite=1
+ID=12-2:11-2 parent=12-2 enfant=11-2 flot=0 capacite=0
+ID=5-15:5-14 parent=5-15 enfant=5-14 flot=0 capacite=0
+ID=6-8:5-8 parent=6-8 enfant=5-8 flot=0 capacite=0
+ID=9-12:puits parent=9-12 enfant=puits flot=7 capacite=4
+ID=6-13:puits parent=6-13 enfant=puits flot=1 capacite=13
+ID=3-13:3-12 parent=3-13 enfant=3-12 flot=0 capacite=3
+ID=11-14:12-14 parent=11-14 enfant=12-14 flot=0 capacite=0
+ID=0-0:0-1 parent=0-0 enfant=0-1 flot=0 capacite=0
+ID=3-13:3-14 parent=3-13 enfant=3-14 flot=0 capacite=0
+ID=3-6:4-6 parent=3-6 enfant=4-6 flot=0 capacite=0
+ID=10-2:10-1 parent=10-2 enfant=10-1 flot=0 capacite=0
+ID=0-15:1-15 parent=0-15 enfant=1-15 flot=0 capacite=0
+ID=4-1:3-1 parent=4-1 enfant=3-1 flot=0 capacite=0
+ID=10-2:10-3 parent=10-2 enfant=10-3 flot=4 capacite=3
+ID=10-15:10-14 parent=10-15 enfant=10-14 flot=1 capacite=3
+ID=12-5:11-5 parent=12-5 enfant=11-5 flot=0 capacite=0
+ID=4-11:3-11 parent=4-11 enfant=3-11 flot=9 capacite=9
+ID=10-15:11-15 parent=10-15 enfant=11-15 flot=0 capacite=0
+ID=2-4:2-3 parent=2-4 enfant=2-3 flot=1 capacite=12
+ID=0-2:puits parent=0-2 enfant=puits flot=1 capacite=13
+ID=14-0:13-0 parent=14-0 enfant=13-0 flot=0 capacite=0
+ID=2-4:2-5 parent=2-4 enfant=2-5 flot=0 capacite=0
+ID=5-13:4-13 parent=5-13 enfant=4-13 flot=0 capacite=0
+ID=10-0:10-1 parent=10-0 enfant=10-1 flot=0 capacite=3
+ID=0-7:0-8 parent=0-7 enfant=0-8 flot=0 capacite=0
+ID=14-2:puits parent=14-2 enfant=puits flot=1 capacite=1
+ID=0-7:0-6 parent=0-7 enfant=0-6 flot=0 capacite=0
+ID=5-3:4-3 parent=5-3 enfant=4-3 flot=1 capacite=9
+ID=4-7:4-8 parent=4-7 enfant=4-8 flot=0 capacite=0
+ID=5-5:puits parent=5-5 enfant=puits flot=4 capacite=4
+ID=4-7:4-6 parent=4-7 enfant=4-6 flot=0 capacite=0
+ID=14-5:14-4 parent=14-5 enfant=14-4 flot=0 capacite=0
+ID=14-5:14-6 parent=14-5 enfant=14-6 flot=0 capacite=0
+ID=2-13:1-13 parent=2-13 enfant=1-13 flot=12 capacite=12
+ID=11-5:puits parent=11-5 enfant=puits flot=13 capacite=13
+ID=7-8:7-9 parent=7-8 enfant=7-9 flot=0 capacite=0
+ID=7-8:7-7 parent=7-8 enfant=7-7 flot=0 capacite=0
+ID=source:4-10 parent=source enfant=4-10 flot=8 capacite=9
+ID=15-2:14-2 parent=15-2 enfant=14-2 flot=13 capacite=12
+ID=0-14:puits parent=0-14 enfant=puits flot=1 capacite=13
+ID=5-3:6-3 parent=5-3 enfant=6-3 flot=0 capacite=0
+ID=2-11:1-11 parent=2-11 enfant=1-11 flot=0 capacite=12
+ID=2-8:2-7 parent=2-8 enfant=2-7 flot=0 capacite=0
+ID=12-1:11-1 parent=12-1 enfant=11-1 flot=0 capacite=0
+ID=source:4-15 parent=source enfant=4-15 flot=1 capacite=1
+ID=source:4-14 parent=source enfant=4-14 flot=0 capacite=13
+ID=source:4-13 parent=source enfant=4-13 flot=1 capacite=1
+ID=source:4-12 parent=source enfant=4-12 flot=4 capacite=10
+ID=15-3:puits parent=15-3 enfant=puits flot=1 capacite=1
+ID=source:4-11 parent=source enfant=4-11 flot=13 capacite=10
+ID=9-8:10-8 parent=9-8 enfant=10-8 flot=1 capacite=12
+ID=5-4:4-4 parent=5-4 enfant=4-4 flot=0 capacite=0
+ID=14-15:puits parent=14-15 enfant=puits flot=1 capacite=13
+ID=11-8:puits parent=11-8 enfant=puits flot=3 capacite=13
+ID=4-15:5-15 parent=4-15 enfant=5-15 flot=1 capacite=12
+ID=10-9:9-9 parent=10-9 enfant=9-9 flot=0 capacite=12
+ID=14-9:15-9 parent=14-9 enfant=15-9 flot=0 capacite=12
+ID=15-2:puits parent=15-2 enfant=puits flot=2 capacite=13
+ID=12-11:12-12 parent=12-11 enfant=12-12 flot=0 capacite=0
+ID=0-6:1-6 parent=0-6 enfant=1-6 flot=12 capacite=12
+ID=12-11:12-10 parent=12-11 enfant=12-10 flot=0 capacite=0
+ID=14-9:13-9 parent=14-9 enfant=13-9 flot=0 capacite=0
+ID=2-12:1-12 parent=2-12 enfant=1-12 flot=0 capacite=0
+ID=7-11:puits parent=7-11 enfant=puits flot=4 capacite=4
+ID=6-10:7-10 parent=6-10 enfant=7-10 flot=0 capacite=0
+ID=0-0:puits parent=0-0 enfant=puits flot=1 capacite=13
+ID=5-4:6-4 parent=5-4 enfant=6-4 flot=0 capacite=0
+ID=9-11:8-11 parent=9-11 enfant=8-11 flot=0 capacite=0
+ID=9-15:10-15 parent=9-15 enfant=10-15 flot=0 capacite=0
+ID=14-4:15-4 parent=14-4 enfant=15-4 flot=0 capacite=12
+ID=12-3:11-3 parent=12-3 enfant=11-3 flot=0 capacite=12
+ID=8-0:puits parent=8-0 enfant=puits flot=1 capacite=1
+ID=15-10:14-10 parent=15-10 enfant=14-10 flot=12 capacite=12
+ID=14-4:13-4 parent=14-4 enfant=13-4 flot=0 capacite=0
+ID=5-7:puits parent=5-7 enfant=puits flot=9 capacite=13
+ID=15-8:15-7 parent=15-8 enfant=15-7 flot=0 capacite=0
+ID=13-5:puits parent=13-5 enfant=puits flot=1 capacite=13
+ID=9-9:10-9 parent=9-9 enfant=10-9 flot=1 capacite=12
+ID=15-8:15-9 parent=15-8 enfant=15-9 flot=0 capacite=0
+ID=12-8:puits parent=12-8 enfant=puits flot=13 capacite=13
+ID=13-4:12-4 parent=13-4 enfant=12-4 flot=0 capacite=0
+ID=14-10:15-10 parent=14-10 enfant=15-10 flot=0 capacite=12
+ID=2-7:1-7 parent=2-7 enfant=1-7 flot=0 capacite=0
+ID=14-12:15-12 parent=14-12 enfant=15-12 flot=0 capacite=0
+ID=1-13:2-13 parent=1-13 enfant=2-13 flot=0 capacite=12
+ID=3-0:2-0 parent=3-0 enfant=2-0 flot=0 capacite=0
+ID=2-1:puits parent=2-1 enfant=puits flot=0 capacite=13
+ID=15-3:15-4 parent=15-3 enfant=15-4 flot=0 capacite=0
+ID=8-12:9-12 parent=8-12 enfant=9-12 flot=0 capacite=0
+ID=15-3:15-2 parent=15-3 enfant=15-2 flot=13 capacite=12
+ID=11-11:puits parent=11-11 enfant=puits flot=13 capacite=13
+ID=6-7:7-7 parent=6-7 enfant=7-7 flot=0 capacite=0
+ID=7-9:puits parent=7-9 enfant=puits flot=1 capacite=13
+ID=14-6:15-6 parent=14-6 enfant=15-6 flot=0 capacite=12
+ID=8-0:9-0 parent=8-0 enfant=9-0 flot=0 capacite=0
+ID=8-0:7-0 parent=8-0 enfant=7-0 flot=0 capacite=0
+ID=8-1:8-2 parent=8-1 enfant=8-2 flot=0 capacite=0
+ID=8-1:8-0 parent=8-1 enfant=8-0 flot=1 capacite=12
+ID=8-15:puits parent=8-15 enfant=puits flot=1 capacite=1
+ID=14-6:13-6 parent=14-6 enfant=13-6 flot=0 capacite=0
+ID=14-8:14-9 parent=14-8 enfant=14-9 flot=0 capacite=0
+ID=14-8:14-7 parent=14-8 enfant=14-7 flot=0 capacite=0
+ID=11-10:11-9 parent=11-10 enfant=11-9 flot=1 capacite=12
+ID=source:1-11 parent=source enfant=1-11 flot=2 capacite=13
+ID=source:1-10 parent=source enfant=1-10 flot=2 capacite=13
+ID=source:1-15 parent=source enfant=1-15 flot=1 capacite=1
+ID=12-11:puits parent=12-11 enfant=puits flot=1 capacite=13
+ID=source:1-14 parent=source enfant=1-14 flot=1 capacite=1
+ID=source:1-13 parent=source enfant=1-13 flot=1 capacite=1
+ID=1-5:2-5 parent=1-5 enfant=2-5 flot=12 capacite=12
+ID=source:1-12 parent=source enfant=1-12 flot=13 capacite=13
+ID=13-15:14-15 parent=13-15 enfant=14-15 flot=0 capacite=0
+ID=2-3:1-3 parent=2-3 enfant=1-3 flot=0 capacite=0
+ID=15-1:15-2 parent=15-1 enfant=15-2 flot=0 capacite=0
+ID=4-2:3-2 parent=4-2 enfant=3-2 flot=5 capacite=12
+ID=15-1:15-0 parent=15-1 enfant=15-0 flot=0 capacite=0
+ID=13-3:12-3 parent=13-3 enfant=12-3 flot=0 capacite=0
+ID=5-10:4-10 parent=5-10 enfant=4-10 flot=0 capacite=0
+ID=4-14:5-14 parent=4-14 enfant=5-14 flot=0 capacite=0
+ID=7-10:puits parent=7-10 enfant=puits flot=1 capacite=13
+ID=4-0:4-1 parent=4-0 enfant=4-1 flot=0 capacite=12
+ID=5-7:6-7 parent=5-7 enfant=6-7 flot=0 capacite=0
+ID=1-10:puits parent=1-10 enfant=puits flot=1 capacite=1
+ID=0-2:0-1 parent=0-2 enfant=0-1 flot=0 capacite=0
+ID=0-2:0-3 parent=0-2 enfant=0-3 flot=0 capacite=0
+ID=12-0:puits parent=12-0 enfant=puits flot=12 capacite=13
+ID=4-2:5-2 parent=4-2 enfant=5-2 flot=0 capacite=0
+ID=0-1:1-1 parent=0-1 enfant=1-1 flot=0 capacite=0
+ID=1-2:0-2 parent=1-2 enfant=0-2 flot=0 capacite=0
+ID=2-8:puits parent=2-8 enfant=puits flot=4 capacite=4
+ID=2-1:1-1 parent=2-1 enfant=1-1 flot=0 capacite=0
+ID=1-7:puits parent=1-7 enfant=puits flot=4 capacite=4
+ID=1-3:2-3 parent=1-3 enfant=2-3 flot=0 capacite=0
+ID=4-11:puits parent=4-11 enfant=puits flot=4 capacite=4
+ID=6-8:7-8 parent=6-8 enfant=7-8 flot=0 capacite=0
+ID=8-11:puits parent=8-11 enfant=puits flot=4 capacite=4
+ID=1-1:1-2 parent=1-1 enfant=1-2 flot=0 capacite=0
+ID=1-8:2-8 parent=1-8 enfant=2-8 flot=0 capacite=0
+ID=7-11:7-12 parent=7-11 enfant=7-12 flot=4 capacite=9
+ID=7-11:7-10 parent=7-11 enfant=7-10 flot=0 capacite=9
+ID=1-8:0-8 parent=1-8 enfant=0-8 flot=1 capacite=3
+ID=source:0-10 parent=source enfant=0-10 flot=0 capacite=13
+ID=source:0-12 parent=source enfant=0-12 flot=1 capacite=1
+ID=source:0-11 parent=source enfant=0-11 flot=0 capacite=1
+ID=1-1:1-0 parent=1-1 enfant=1-0 flot=0 capacite=0
+ID=source:0-14 parent=source enfant=0-14 flot=1 capacite=1
+ID=2-9:2-8 parent=2-9 enfant=2-8 flot=4 capacite=9
+ID=source:0-13 parent=source enfant=0-13 flot=1 capacite=1
+ID=4-0:puits parent=4-0 enfant=puits flot=13 capacite=13
+ID=14-9:puits parent=14-9 enfant=puits flot=12 capacite=13
+ID=9-10:10-10 parent=9-10 enfant=10-10 flot=0 capacite=3
+ID=12-9:11-9 parent=12-9 enfant=11-9 flot=0 capacite=0
+ID=13-0:13-1 parent=13-0 enfant=13-1 flot=0 capacite=0
+ID=6-2:6-1 parent=6-2 enfant=6-1 flot=0 capacite=0
+ID=9-3:puits parent=9-3 enfant=puits flot=7 capacite=4
+ID=6-6:7-6 parent=6-6 enfant=7-6 flot=0 capacite=0
+ID=10-9:11-9 parent=10-9 enfant=11-9 flot=0 capacite=0
+ID=1-5:1-6 parent=1-5 enfant=1-6 flot=0 capacite=12
+ID=6-2:6-3 parent=6-2 enfant=6-3 flot=0 capacite=0
+ID=11-7:puits parent=11-7 enfant=puits flot=13 capacite=13
+ID=2-15:puits parent=2-15 enfant=puits flot=1 capacite=13
+ID=source:0-15 parent=source enfant=0-15 flot=1 capacite=1
+ID=10-7:9-7 parent=10-7 enfant=9-7 flot=12 capacite=12
+ID=1-5:1-4 parent=1-5 enfant=1-4 flot=0 capacite=0
+ID=14-12:14-11 parent=14-12 enfant=14-11 flot=0 capacite=12
+ID=5-12:4-12 parent=5-12 enfant=4-12 flot=0 capacite=9
+ID=14-8:13-8 parent=14-8 enfant=13-8 flot=0 capacite=0
+ID=14-12:14-13 parent=14-12 enfant=14-13 flot=0 capacite=0
+ID=8-2:9-2 parent=8-2 enfant=9-2 flot=0 capacite=9
+ID=6-10:6-9 parent=6-10 enfant=6-9 flot=0 capacite=0
+ID=5-5:5-4 parent=5-5 enfant=5-4 flot=0 capacite=0
+ID=7-12:6-12 parent=7-12 enfant=6-12 flot=0 capacite=0
+ID=1-3:puits parent=1-3 enfant=puits flot=1 capacite=1
+ID=7-12:8-12 parent=7-12 enfant=8-12 flot=5 capacite=9
+ID=7-15:7-14 parent=7-15 enfant=7-14 flot=24 capacite=12
+ID=14-13:13-13 parent=14-13 enfant=13-13 flot=0 capacite=0
+ID=4-1:4-2 parent=4-1 enfant=4-2 flot=5 capacite=12
+ID=2-0:puits parent=2-0 enfant=puits flot=1 capacite=13
+ID=4-1:4-0 parent=4-1 enfant=4-0 flot=0 capacite=12
+ID=15-0:puits parent=15-0 enfant=puits flot=1 capacite=13
+ID=12-10:12-11 parent=12-10 enfant=12-11 flot=0 capacite=0
+ID=0-8:0-9 parent=0-8 enfant=0-9 flot=0 capacite=0
+ID=11-13:11-12 parent=11-13 enfant=11-12 flot=0 capacite=0
+ID=5-5:5-6 parent=5-5 enfant=5-6 flot=9 capacite=9
+ID=13-7:14-7 parent=13-7 enfant=14-7 flot=0 capacite=0
+ID=11-13:11-14 parent=11-13 enfant=11-14 flot=0 capacite=0
+ID=12-11:13-11 parent=12-11 enfant=13-11 flot=0 capacite=0
+ID=0-8:0-7 parent=0-8 enfant=0-7 flot=0 capacite=0
+ID=11-9:puits parent=11-9 enfant=puits flot=1 capacite=1
+ID=source:4-5 parent=source enfant=4-5 flot=4 capacite=9
+ID=source:4-4 parent=source enfant=4-4 flot=9 capacite=9
+ID=source:4-7 parent=source enfant=4-7 flot=9 capacite=9
+ID=3-10:3-11 parent=3-10 enfant=3-11 flot=0 capacite=0
+ID=source:4-6 parent=source enfant=4-6 flot=13 capacite=9
+ID=1-4:2-4 parent=1-4 enfant=2-4 flot=24 capacite=12
+ID=source:4-1 parent=source enfant=4-1 flot=5 capacite=13
+ID=5-2:5-1 parent=5-2 enfant=5-1 flot=1 capacite=12
+ID=source:4-0 parent=source enfant=4-0 flot=1 capacite=1
+ID=1-15:puits parent=1-15 enfant=puits flot=1 capacite=13
+ID=source:4-3 parent=source enfant=4-3 flot=9 capacite=9
+ID=5-2:5-3 parent=5-2 enfant=5-3 flot=0 capacite=0
+ID=source:4-2 parent=source enfant=4-2 flot=0 capacite=1
+ID=7-4:7-3 parent=7-4 enfant=7-3 flot=0 capacite=9
+ID=13-5:13-6 parent=13-5 enfant=13-6 flot=0 capacite=0
+ID=7-4:7-5 parent=7-4 enfant=7-5 flot=0 capacite=9
+ID=13-5:13-4 parent=13-5 enfant=13-4 flot=0 capacite=0
+ID=15-15:15-14 parent=15-15 enfant=15-14 flot=0 capacite=0
+ID=6-11:puits parent=6-11 enfant=puits flot=1 capacite=4
+ID=6-1:7-1 parent=6-1 enfant=7-1 flot=0 capacite=0
+ID=1-7:1-6 parent=1-7 enfant=1-6 flot=0 capacite=9
+ID=1-7:1-8 parent=1-7 enfant=1-8 flot=0 capacite=0
+ID=12-15:puits parent=12-15 enfant=puits flot=13 capacite=13
+ID=4-5:3-5 parent=4-5 enfant=3-5 flot=4 capacite=9
+ID=0-6:0-5 parent=0-6 enfant=0-5 flot=0 capacite=0
+ID=9-4:10-4 parent=9-4 enfant=10-4 flot=2 capacite=3
+ID=9-8:puits parent=9-8 enfant=puits flot=24 capacite=13
+ID=8-11:9-11 parent=8-11 enfant=9-11 flot=0 capacite=0
+ID=15-14:15-13 parent=15-14 enfant=15-13 flot=0 capacite=0
+ID=15-14:15-15 parent=15-14 enfant=15-15 flot=0 capacite=0
+ID=0-6:0-7 parent=0-6 enfant=0-7 flot=0 capacite=0
+ID=12-15:12-14 parent=12-15 enfant=12-14 flot=0 capacite=12
+ID=15-14:14-14 parent=15-14 enfant=14-14 flot=0 capacite=0
+ID=3-9:puits parent=3-9 enfant=puits flot=4 capacite=4
+ID=3-14:puits parent=3-14 enfant=puits flot=1 capacite=1
+ID=1-6:puits parent=1-6 enfant=puits flot=0 capacite=13
+ID=8-8:9-8 parent=8-8 enfant=9-8 flot=0 capacite=0
+ID=source:10-10 parent=source enfant=10-10 flot=1 capacite=13
+ID=4-6:4-7 parent=4-6 enfant=4-7 flot=0 capacite=0
+ID=1-2:2-2 parent=1-2 enfant=2-2 flot=0 capacite=12
+ID=source:10-11 parent=source enfant=10-11 flot=0 capacite=13
+ID=15-1:puits parent=15-1 enfant=puits flot=1 capacite=13
+ID=source:10-15 parent=source enfant=10-15 flot=1 capacite=13
+ID=source:10-14 parent=source enfant=10-14 flot=0 capacite=9
+ID=5-13:5-12 parent=5-13 enfant=5-12 flot=0 capacite=0
+ID=15-11:puits parent=15-11 enfant=puits flot=1 capacite=1
+ID=source:10-13 parent=source enfant=10-13 flot=4 capacite=9
+ID=source:10-12 parent=source enfant=10-12 flot=1 capacite=13
+ID=5-13:5-14 parent=5-13 enfant=5-14 flot=1 capacite=12
+ID=9-5:9-6 parent=9-5 enfant=9-6 flot=1 capacite=9
+ID=9-5:9-4 parent=9-5 enfant=9-4 flot=0 capacite=0
+ID=15-12:15-11 parent=15-12 enfant=15-11 flot=0 capacite=0
+ID=6-9:6-8 parent=6-9 enfant=6-8 flot=0 capacite=0
+ID=15-12:15-13 parent=15-12 enfant=15-13 flot=12 capacite=12
+ID=0-14:0-13 parent=0-14 enfant=0-13 flot=0 capacite=0
+ID=0-7:1-7 parent=0-7 enfant=1-7 flot=3 capacite=3
+ID=9-8:8-8 parent=9-8 enfant=8-8 flot=0 capacite=0
+ID=0-14:0-15 parent=0-14 enfant=0-15 flot=0 capacite=0
+ID=7-7:8-7 parent=7-7 enfant=8-7 flot=0 capacite=0
+ID=15-4:14-4 parent=15-4 enfant=14-4 flot=12 capacite=12
+ID=6-0:5-0 parent=6-0 enfant=5-0 flot=0 capacite=0
+ID=13-6:puits parent=13-6 enfant=puits flot=13 capacite=13
+ID=0-4:puits parent=0-4 enfant=puits flot=15 capacite=13
+ID=0-4:1-4 parent=0-4 enfant=1-4 flot=0 capacite=12
+ID=10-13:9-13 parent=10-13 enfant=9-13 flot=0 capacite=0
+ID=4-12:5-12 parent=4-12 enfant=5-12 flot=4 capacite=9
+ID=14-2:13-2 parent=14-2 enfant=13-2 flot=0 capacite=0
+ID=0-10:0-9 parent=0-10 enfant=0-9 flot=0 capacite=0
+ID=11-1:11-0 parent=11-1 enfant=11-0 flot=0 capacite=0
+ID=6-0:7-0 parent=6-0 enfant=7-0 flot=0 capacite=0
+ID=9-7:9-8 parent=9-7 enfant=9-8 flot=0 capacite=0
+ID=12-7:13-7 parent=12-7 enfant=13-7 flot=0 capacite=0
+ID=11-1:11-2 parent=11-1 enfant=11-2 flot=0 capacite=0
+ID=9-7:9-6 parent=9-7 enfant=9-6 flot=0 capacite=0
+ID=13-4:puits parent=13-4 enfant=puits flot=1 capacite=13
+ID=3-7:2-7 parent=3-7 enfant=2-7 flot=0 capacite=0
+ID=1-10:1-9 parent=1-10 enfant=1-9 flot=1 capacite=12
+ID=3-5:3-4 parent=3-5 enfant=3-4 flot=0 capacite=0
+ID=14-0:puits parent=14-0 enfant=puits flot=1 capacite=13
+ID=3-5:3-6 parent=3-5 enfant=3-6 flot=4 capacite=9
+ID=8-2:7-2 parent=8-2 enfant=7-2 flot=0 capacite=0
+ID=2-10:puits parent=2-10 enfant=puits flot=1 capacite=13
+ID=12-14:11-14 parent=12-14 enfant=11-14 flot=0 capacite=0
+ID=8-13:8-14 parent=8-13 enfant=8-14 flot=0 capacite=0
+ID=11-5:10-5 parent=11-5 enfant=10-5 flot=0 capacite=12
+ID=8-13:8-12 parent=8-13 enfant=8-12 flot=0 capacite=9
+ID=9-11:9-12 parent=9-11 enfant=9-12 flot=0 capacite=0
+ID=4-3:4-2 parent=4-3 enfant=4-2 flot=0 capacite=9
+ID=2-14:puits parent=2-14 enfant=puits flot=24 capacite=13
+ID=14-12:puits parent=14-12 enfant=puits flot=1 capacite=1
+ID=9-11:9-10 parent=9-11 enfant=9-10 flot=0 capacite=0
+ID=4-3:4-4 parent=4-3 enfant=4-4 flot=0 capacite=0
+ID=8-12:8-11 parent=8-12 enfant=8-11 flot=0 capacite=0
+ID=2-12:2-13 parent=2-12 enfant=2-13 flot=0 capacite=0
+ID=11-9:12-9 parent=11-9 enfant=12-9 flot=0 capacite=0
+ID=10-14:11-14 parent=10-14 enfant=11-14 flot=1 capacite=3
+ID=8-12:8-13 parent=8-12 enfant=8-13 flot=9 capacite=9
+ID=2-12:2-11 parent=2-12 enfant=2-11 flot=12 capacite=12
+ID=3-9:2-9 parent=3-9 enfant=2-9 flot=4 capacite=9
+ID=12-8:12-9 parent=12-8 enfant=12-9 flot=0 capacite=12
+ID=5-1:6-1 parent=5-1 enfant=6-1 flot=1 capacite=12
+ID=12-8:12-7 parent=12-8 enfant=12-7 flot=0 capacite=0
+ID=9-2:8-2 parent=9-2 enfant=8-2 flot=9 capacite=9
+ID=5-14:puits parent=5-14 enfant=puits flot=1 capacite=1
+ID=2-12:puits parent=2-12 enfant=puits flot=1 capacite=1
+ID=8-7:7-7 parent=8-7 enfant=7-7 flot=0 capacite=0
+ID=4-8:3-8 parent=4-8 enfant=3-8 flot=0 capacite=0
+ID=8-4:8-5 parent=8-4 enfant=8-5 flot=9 capacite=9
+ID=4-4:4-3 parent=4-4 enfant=4-3 flot=0 capacite=0
+ID=5-13:puits parent=5-13 enfant=puits flot=24 capacite=13
+ID=4-4:4-5 parent=4-4 enfant=4-5 flot=0 capacite=0
+ID=8-4:8-3 parent=8-4 enfant=8-3 flot=0 capacite=0
+ID=13-8:12-8 parent=13-8 enfant=12-8 flot=0 capacite=0
+ID=3-2:3-1 parent=3-2 enfant=3-1 flot=0 capacite=0
+ID=3-2:3-3 parent=3-2 enfant=3-3 flot=4 capacite=3
+ID=8-15:7-15 parent=8-15 enfant=7-15 flot=0 capacite=0
+ID=15-9:puits parent=15-9 enfant=puits flot=1 capacite=1
+ID=12-6:puits parent=12-6 enfant=puits flot=1 capacite=1
+ID=10-6:9-6 parent=10-6 enfant=9-6 flot=0 capacite=12
+ID=11-10:12-10 parent=11-10 enfant=12-10 flot=0 capacite=0
+ID=8-6:8-5 parent=8-6 enfant=8-5 flot=0 capacite=0
+ID=13-8:14-8 parent=13-8 enfant=14-8 flot=0 capacite=0
+ID=9-9:8-9 parent=9-9 enfant=8-9 flot=0 capacite=0
+ID=15-9:14-9 parent=15-9 enfant=14-9 flot=12 capacite=12
+ID=4-6:4-5 parent=4-6 enfant=4-5 flot=0 capacite=0
+ID=12-9:12-8 parent=12-9 enfant=12-8 flot=12 capacite=12
+ID=12-10:puits parent=12-10 enfant=puits flot=13 capacite=13
+ID=12-13:11-13 parent=12-13 enfant=11-13 flot=0 capacite=0
+ID=11-7:11-8 parent=11-7 enfant=11-8 flot=0 capacite=0
+ID=11-7:11-6 parent=11-7 enfant=11-6 flot=0 capacite=12
+ID=1-13:0-13 parent=1-13 enfant=0-13 flot=0 capacite=0
+ID=6-9:7-9 parent=6-9 enfant=7-9 flot=0 capacite=0
+ID=8-6:8-7 parent=8-6 enfant=8-7 flot=0 capacite=0
+ID=2-0:3-0 parent=2-0 enfant=3-0 flot=0 capacite=0
+ID=source:9-11 parent=source enfant=9-11 flot=4 capacite=9
+ID=source:9-10 parent=source enfant=9-10 flot=0 capacite=9
+ID=source:9-15 parent=source enfant=9-15 flot=0 capacite=13
+ID=source:9-14 parent=source enfant=9-14 flot=0 capacite=9
+ID=source:9-13 parent=source enfant=9-13 flot=9 capacite=9
+ID=source:9-12 parent=source enfant=9-12 flot=4 capacite=9
+ID=2-14:1-14 parent=2-14 enfant=1-14 flot=0 capacite=0
+ID=3-4:4-4 parent=3-4 enfant=4-4 flot=6 capacite=9
+ID=12-1:puits parent=12-1 enfant=puits flot=1 capacite=1
+ID=14-3:15-3 parent=14-3 enfant=15-3 flot=0 capacite=0
+ID=3-4:2-4 parent=3-4 enfant=2-4 flot=0 capacite=0
+ID=12-4:puits parent=12-4 enfant=puits flot=1 capacite=13
+ID=5-9:puits parent=5-9 enfant=puits flot=9 capacite=13
+ID=8-7:puits parent=8-7 enfant=puits flot=1 capacite=13
+ID=15-15:14-15 parent=15-15 enfant=14-15 flot=0 capacite=0
+ID=7-6:6-6 parent=7-6 enfant=6-6 flot=0 capacite=0
+ID=10-9:puits parent=10-9 enfant=puits flot=1 capacite=1
+ID=9-11:puits parent=9-11 enfant=puits flot=4 capacite=4
+ID=3-1:2-1 parent=3-1 enfant=2-1 flot=1 capacite=12
+ID=6-3:6-4 parent=6-3 enfant=6-4 flot=1 capacite=9
+ID=6-3:6-2 parent=6-3 enfant=6-2 flot=0 capacite=0
+ID=14-3:13-3 parent=14-3 enfant=13-3 flot=12 capacite=12
+ID=12-5:13-5 parent=12-5 enfant=13-5 flot=0 capacite=0
+ID=9-4:puits parent=9-4 enfant=puits flot=0 capacite=4
+ID=2-7:puits parent=2-7 enfant=puits flot=4 capacite=4
+ID=6-6:5-6 parent=6-6 enfant=5-6 flot=0 capacite=0
+ID=14-11:15-11 parent=14-11 enfant=15-11 flot=0 capacite=12
+ID=10-3:puits parent=10-3 enfant=puits flot=1 capacite=1
+ID=13-9:puits parent=13-9 enfant=puits flot=1 capacite=13
+ID=15-3:14-3 parent=15-3 enfant=14-3 flot=0 capacite=0
+ID=8-1:9-1 parent=8-1 enfant=9-1 flot=0 capacite=9
+ID=13-11:13-10 parent=13-11 enfant=13-10 flot=0 capacite=0
+ID=8-5:9-5 parent=8-5 enfant=9-5 flot=0 capacite=9
+ID=13-11:13-12 parent=13-11 enfant=13-12 flot=0 capacite=0
+ID=4-6:puits parent=4-6 enfant=puits flot=4 capacite=4
+ID=4-9:4-10 parent=4-9 enfant=4-10 flot=0 capacite=0
+ID=15-0:15-1 parent=15-0 enfant=15-1 flot=0 capacite=0
+ID=3-10:3-9 parent=3-10 enfant=3-9 flot=8 capacite=9
+ID=14-10:13-10 parent=14-10 enfant=13-10 flot=0 capacite=0
+ID=5-15:4-15 parent=5-15 enfant=4-15 flot=0 capacite=12
+ID=9-4:8-4 parent=9-4 enfant=8-4 flot=0 capacite=0
+ID=15-11:14-11 parent=15-11 enfant=14-11 flot=13 capacite=12
+ID=5-0:4-0 parent=5-0 enfant=4-0 flot=12 capacite=12
+ID=13-11:14-11 parent=13-11 enfant=14-11 flot=0 capacite=0
+ID=6-4:5-4 parent=6-4 enfant=5-4 flot=0 capacite=0
+ID=1-12:2-12 parent=1-12 enfant=2-12 flot=0 capacite=0
+ID=12-12:12-11 parent=12-12 enfant=12-11 flot=0 capacite=0
+ID=0-9:0-10 parent=0-9 enfant=0-10 flot=0 capacite=0
+ID=14-5:puits parent=14-5 enfant=puits flot=13 capacite=13
+ID=source:2-0 parent=source enfant=2-0 flot=1 capacite=1
+ID=1-15:1-14 parent=1-15 enfant=1-14 flot=0 capacite=0
+ID=1-11:1-12 parent=1-11 enfant=1-12 flot=0 capacite=0
+ID=source:2-1 parent=source enfant=2-1 flot=1 capacite=1
+ID=1-11:1-10 parent=1-11 enfant=1-10 flot=0 capacite=0
+ID=source:2-8 parent=source enfant=2-8 flot=0 capacite=10
+ID=source:2-9 parent=source enfant=2-9 flot=0 capacite=1
+ID=12-0:12-1 parent=12-0 enfant=12-1 flot=0 capacite=12
+ID=source:2-6 parent=source enfant=2-6 flot=0 capacite=1
+ID=11-10:puits parent=11-10 enfant=puits flot=12 capacite=13
+ID=source:2-7 parent=source enfant=2-7 flot=0 capacite=9
+ID=source:2-4 parent=source enfant=2-4 flot=1 capacite=1
+ID=4-15:4-14 parent=4-15 enfant=4-14 flot=0 capacite=12
+ID=9-6:8-6 parent=9-6 enfant=8-6 flot=0 capacite=0
+ID=source:2-5 parent=source enfant=2-5 flot=1 capacite=1
+ID=12-4:13-4 parent=12-4 enfant=13-4 flot=0 capacite=0
+ID=source:2-2 parent=source enfant=2-2 flot=24 capacite=13
+ID=source:2-3 parent=source enfant=2-3 flot=9 capacite=13
+ID=5-0:6-0 parent=5-0 enfant=6-0 flot=0 capacite=0
+ID=14-11:puits parent=14-11 enfant=puits flot=0 capacite=13
+ID=source:2-15 parent=source enfant=2-15 flot=1 capacite=1
+ID=source:2-13 parent=source enfant=2-13 flot=13 capacite=13
+ID=source:2-14 parent=source enfant=2-14 flot=1 capacite=1
+ID=13-12:14-12 parent=13-12 enfant=14-12 flot=0 capacite=12
+ID=source:2-11 parent=source enfant=2-11 flot=1 capacite=1
+ID=source:2-12 parent=source enfant=2-12 flot=13 capacite=13
+ID=3-11:2-11 parent=3-11 enfant=2-11 flot=0 capacite=0
+ID=source:2-10 parent=source enfant=2-10 flot=1 capacite=1
+ID=source:6-3 parent=source enfant=6-3 flot=1 capacite=1
+ID=0-12:puits parent=0-12 enfant=puits flot=13 capacite=13
+ID=source:6-2 parent=source enfant=6-2 flot=1 capacite=1
+ID=1-4:0-4 parent=1-4 enfant=0-4 flot=3 capacite=12
+ID=6-12:puits parent=6-12 enfant=puits flot=10 capacite=13
+ID=source:6-5 parent=source enfant=6-5 flot=1 capacite=1
+ID=source:6-4 parent=source enfant=6-4 flot=9 capacite=9
+ID=10-1:10-2 parent=10-1 enfant=10-2 flot=0 capacite=0
+ID=0-12:1-12 parent=0-12 enfant=1-12 flot=0 capacite=12
+ID=source:6-1 parent=source enfant=6-1 flot=1 capacite=1
+ID=10-3:11-3 parent=10-3 enfant=11-3 flot=0 capacite=0
+ID=10-1:10-0 parent=10-1 enfant=10-0 flot=1 capacite=3
+ID=source:6-0 parent=source enfant=6-0 flot=13 capacite=13
+ID=7-5:puits parent=7-5 enfant=puits flot=0 capacite=13
+ID=5-14:6-14 parent=5-14 enfant=6-14 flot=0 capacite=12
+ID=11-8:11-7 parent=11-8 enfant=11-7 flot=0 capacite=0
+ID=12-12:12-13 parent=12-12 enfant=12-13 flot=0 capacite=12
+ID=11-8:11-9 parent=11-8 enfant=11-9 flot=0 capacite=12
+ID=3-7:4-7 parent=3-7 enfant=4-7 flot=0 capacite=0
+ID=10-2:9-2 parent=10-2 enfant=9-2 flot=0 capacite=0
+ID=4-9:4-8 parent=4-9 enfant=4-8 flot=0 capacite=0
+ID=source:8-6 parent=source enfant=8-6 flot=1 capacite=1
+ID=source:8-7 parent=source enfant=8-7 flot=1 capacite=1
+ID=12-11:11-11 parent=12-11 enfant=11-11 flot=0 capacite=0
+ID=14-1:puits parent=14-1 enfant=puits flot=24 capacite=13
+ID=source:8-4 parent=source enfant=8-4 flot=9 capacite=9
+ID=15-13:14-13 parent=15-13 enfant=14-13 flot=13 capacite=12
+ID=source:8-5 parent=source enfant=8-5 flot=1 capacite=1
+ID=3-14:3-15 parent=3-14 enfant=3-15 flot=1 capacite=12
+ID=3-12:puits parent=3-12 enfant=puits flot=4 capacite=4
+ID=13-14:puits parent=13-14 enfant=puits flot=13 capacite=13
+ID=source:8-8 parent=source enfant=8-8 flot=1 capacite=1
+ID=source:8-9 parent=source enfant=8-9 flot=1 capacite=1
+ID=3-14:3-13 parent=3-14 enfant=3-13 flot=0 capacite=0
+ID=5-4:puits parent=5-4 enfant=puits flot=4 capacite=4
+ID=4-9:puits parent=4-9 enfant=puits flot=4 capacite=4
+ID=9-13:10-13 parent=9-13 enfant=10-13 flot=0 capacite=0
+ID=2-11:3-11 parent=2-11 enfant=3-11 flot=0 capacite=0
+ID=14-13:15-13 parent=14-13 enfant=15-13 flot=0 capacite=12
+ID=source:6-9 parent=source enfant=6-9 flot=1 capacite=1
+ID=source:6-8 parent=source enfant=6-8 flot=1 capacite=1
+ID=1-11:0-11 parent=1-11 enfant=0-11 flot=1 capacite=12
+ID=4-12:puits parent=4-12 enfant=puits flot=0 capacite=4
+ID=source:6-7 parent=source enfant=6-7 flot=1 capacite=1
+ID=source:6-6 parent=source enfant=6-6 flot=1 capacite=1
+ID=11-9:11-10 parent=11-9 enfant=11-10 flot=12 capacite=12
+ID=7-7:6-7 parent=7-7 enfant=6-7 flot=0 capacite=0
+ID=11-4:11-3 parent=11-4 enfant=11-3 flot=2 capacite=12
+ID=11-4:11-5 parent=11-4 enfant=11-5 flot=0 capacite=0
+ID=5-6:puits parent=5-6 enfant=puits flot=19 capacite=13
+ID=6-12:5-12 parent=6-12 enfant=5-12 flot=0 capacite=0
+ID=10-4:10-3 parent=10-4 enfant=10-3 flot=0 capacite=0
+ID=13-13:12-13 parent=13-13 enfant=12-13 flot=0 capacite=0
+ID=1-10:1-11 parent=1-10 enfant=1-11 flot=0 capacite=0
+ID=10-4:10-5 parent=10-4 enfant=10-5 flot=0 capacite=0
+ID=11-6:11-5 parent=11-6 enfant=11-5 flot=12 capacite=12
+ID=0-8:puits parent=0-8 enfant=puits flot=1 capacite=1
+ID=10-8:11-8 parent=10-8 enfant=11-8 flot=1 capacite=12
+ID=11-6:11-7 parent=11-6 enfant=11-7 flot=1 capacite=12
+ID=6-3:puits parent=6-3 enfant=puits flot=9 capacite=13
+ID=6-4:7-4 parent=6-4 enfant=7-4 flot=0 capacite=0
+ID=2-15:1-15 parent=2-15 enfant=1-15 flot=0 capacite=0
+ID=source:4-9 parent=source enfant=4-9 flot=9 capacite=9
+ID=source:4-8 parent=source enfant=4-8 flot=9 capacite=9
+ID=2-7:3-7 parent=2-7 enfant=3-7 flot=0 capacite=0
+ID=6-7:puits parent=6-7 enfant=puits flot=1 capacite=13
+ID=12-7:puits parent=12-7 enfant=puits flot=1 capacite=13
+ID=13-2:12-2 parent=13-2 enfant=12-2 flot=0 capacite=0
+ID=7-13:7-14 parent=7-13 enfant=7-14 flot=0 capacite=0
+ID=2-10:1-10 parent=2-10 enfant=1-10 flot=0 capacite=12
+ID=5-6:6-6 parent=5-6 enfant=6-6 flot=0 capacite=0
+ID=7-13:7-12 parent=7-13 enfant=7-12 flot=0 capacite=0
+ID=source:10-8 parent=source enfant=10-8 flot=24 capacite=13
+ID=14-7:14-6 parent=14-7 enfant=14-6 flot=0 capacite=0
+ID=source:10-7 parent=source enfant=10-7 flot=24 capacite=13
+ID=11-15:10-15 parent=11-15 enfant=10-15 flot=0 capacite=0
+ID=14-7:14-8 parent=14-7 enfant=14-8 flot=0 capacite=0
+ID=source:10-9 parent=source enfant=10-9 flot=0 capacite=13
+ID=7-6:puits parent=7-6 enfant=puits flot=1 capacite=13
+ID=source:10-4 parent=source enfant=10-4 flot=0 capacite=13
+ID=source:10-3 parent=source enfant=10-3 flot=0 capacite=13
+ID=13-13:13-14 parent=13-13 enfant=13-14 flot=12 capacite=12
+ID=source:10-6 parent=source enfant=10-6 flot=0 capacite=13
+ID=source:10-5 parent=source enfant=10-5 flot=2 capacite=13
+ID=source:10-0 parent=source enfant=10-0 flot=0 capacite=13
+ID=source:10-2 parent=source enfant=10-2 flot=0 capacite=10
+ID=source:10-1 parent=source enfant=10-1 flot=0 capacite=9
+ID=source:0-3 parent=source enfant=0-3 flot=1 capacite=1
+ID=source:0-2 parent=source enfant=0-2 flot=1 capacite=1
+ID=source:0-1 parent=source enfant=0-1 flot=1 capacite=1
+ID=source:0-0 parent=source enfant=0-0 flot=1 capacite=1
+ID=10-15:9-15 parent=10-15 enfant=9-15 flot=0 capacite=0
+ID=10-13:10-12 parent=10-13 enfant=10-12 flot=3 capacite=3
+ID=2-0:1-0 parent=2-0 enfant=1-0 flot=0 capacite=0
+ID=9-9:puits parent=9-9 enfant=puits flot=0 capacite=13
+ID=source:0-9 parent=source enfant=0-9 flot=1 capacite=13
+ID=13-2:14-2 parent=13-2 enfant=14-2 flot=0 capacite=0
+ID=10-13:10-14 parent=10-13 enfant=10-14 flot=0 capacite=0
+ID=source:0-8 parent=source enfant=0-8 flot=0 capacite=13
+ID=source:0-7 parent=source enfant=0-7 flot=4 capacite=13
+ID=source:0-6 parent=source enfant=0-6 flot=13 capacite=13
+ID=0-9:puits parent=0-9 enfant=puits flot=1 capacite=1
+ID=source:0-5 parent=source enfant=0-5 flot=13 capacite=13
+ID=0-10:0-11 parent=0-10 enfant=0-11 flot=0 capacite=12
+ID=source:0-4 parent=source enfant=0-4 flot=0 capacite=1
+ID=8-7:9-7 parent=8-7 enfant=9-7 flot=0 capacite=0
+ID=7-12:puits parent=7-12 enfant=puits flot=9 capacite=13
+ID=6-10:5-10 parent=6-10 enfant=5-10 flot=0 capacite=9
+ID=9-3:9-4 parent=9-3 enfant=9-4 flot=0 capacite=0
+ID=2-10:2-9 parent=2-10 enfant=2-9 flot=0 capacite=0
+ID=9-3:9-2 parent=9-3 enfant=9-2 flot=0 capacite=0
+ID=13-13:puits parent=13-13 enfant=puits flot=0 capacite=1
+ID=11-9:10-9 parent=11-9 enfant=10-9 flot=0 capacite=0
+ID=14-10:14-9 parent=14-10 enfant=14-9 flot=0 capacite=0
+ID=3-8:puits parent=3-8 enfant=puits flot=4 capacite=4
+ID=10-1:9-1 parent=10-1 enfant=9-1 flot=0 capacite=0
+ID=13-13:13-12 parent=13-13 enfant=13-12 flot=0 capacite=12
+ID=10-14:puits parent=10-14 enfant=puits flot=0 capacite=4
+ID=10-6:puits parent=10-6 enfant=puits flot=1 capacite=1
+ID=11-4:puits parent=11-4 enfant=puits flot=24 capacite=13
+ID=6-14:6-13 parent=6-14 enfant=6-13 flot=0 capacite=0
+ID=9-1:puits parent=9-1 enfant=puits flot=0 capacite=4
+ID=6-14:6-15 parent=6-14 enfant=6-15 flot=0 capacite=12
+ID=0-0:1-0 parent=0-0 enfant=1-0 flot=0 capacite=0
+ID=4-5:puits parent=4-5 enfant=puits flot=0 capacite=4
+ID=2-7:2-8 parent=2-7 enfant=2-8 flot=0 capacite=0
+ID=5-0:puits parent=5-0 enfant=puits flot=1 capacite=1
+ID=12-10:11-10 parent=12-10 enfant=11-10 flot=0 capacite=0
+ID=8-8:puits parent=8-8 enfant=puits flot=1 capacite=13
+ID=13-1:puits parent=13-1 enfant=puits flot=24 capacite=13
+ID=2-7:2-6 parent=2-7 enfant=2-6 flot=0 capacite=9
+ID=11-13:puits parent=11-13 enfant=puits flot=1 capacite=1
+ID=3-13:2-13 parent=3-13 enfant=2-13 flot=0 capacite=0
+ID=1-6:2-6 parent=1-6 enfant=2-6 flot=0 capacite=0
+ID=11-12:11-13 parent=11-12 enfant=11-13 flot=0 capacite=0
+ID=0-3:puits parent=0-3 enfant=puits flot=24 capacite=13
+ID=11-12:11-11 parent=11-12 enfant=11-11 flot=13 capacite=12
+ID=1-6:0-6 parent=1-6 enfant=0-6 flot=0 capacite=12
+ID=0-7:puits parent=0-7 enfant=puits flot=1 capacite=1
+ID=14-1:13-1 parent=14-1 enfant=13-1 flot=0 capacite=0
+ID=1-15:0-15 parent=1-15 enfant=0-15 flot=0 capacite=0
+ID=10-3:9-3 parent=10-3 enfant=9-3 flot=3 capacite=3
+ID=10-5:11-5 parent=10-5 enfant=11-5 flot=1 capacite=12
+ID=11-14:puits parent=11-14 enfant=puits flot=1 capacite=1
+ID=4-11:4-10 parent=4-11 enfant=4-10 flot=0 capacite=0
+ID=0-15:0-14 parent=0-15 enfant=0-14 flot=0 capacite=0
+ID=4-11:4-12 parent=4-11 enfant=4-12 flot=0 capacite=0
+ID=8-14:9-14 parent=8-14 enfant=9-14 flot=0 capacite=9
+ID=3-8:4-8 parent=3-8 enfant=4-8 flot=0 capacite=0
+ID=7-0:7-1 parent=7-0 enfant=7-1 flot=12 capacite=12
+ID=14-14:15-14 parent=14-14 enfant=15-14 flot=0 capacite=0
+ID=3-5:puits parent=3-5 enfant=puits flot=0 capacite=13
+ID=12-4:11-4 parent=12-4 enfant=11-4 flot=0 capacite=0
+ID=13-12:puits parent=13-12 enfant=puits flot=0 capacite=13
+ID=5-9:5-8 parent=5-9 enfant=5-8 flot=0 capacite=0
+ID=7-14:6-14 parent=7-14 enfant=6-14 flot=0 capacite=0
+ID=9-10:9-11 parent=9-10 enfant=9-11 flot=0 capacite=0
+ID=7-2:puits parent=7-2 enfant=puits flot=1 capacite=13
+ID=5-10:5-9 parent=5-10 enfant=5-9 flot=4 capacite=9
+ID=5-7:5-8 parent=5-7 enfant=5-8 flot=0 capacite=0
+ID=source:14-10 parent=source enfant=14-10 flot=0 capacite=1
+ID=10-10:10-9 parent=10-10 enfant=10-9 flot=0 capacite=0
+ID=source:14-11 parent=source enfant=14-11 flot=0 capacite=1
+ID=source:14-12 parent=source enfant=14-12 flot=0 capacite=13
+ID=source:14-13 parent=source enfant=14-13 flot=0 capacite=13
+ID=source:14-14 parent=source enfant=14-14 flot=0 capacite=1
+ID=4-7:3-7 parent=4-7 enfant=3-7 flot=0 capacite=0
+ID=source:14-15 parent=source enfant=14-15 flot=1 capacite=1
+ID=6-9:6-10 parent=6-9 enfant=6-10 flot=0 capacite=0
+ID=5-7:5-6 parent=5-7 enfant=5-6 flot=0 capacite=0
+ID=15-1:14-1 parent=15-1 enfant=14-1 flot=0 capacite=0
+ID=13-9:13-8 parent=13-9 enfant=13-8 flot=0 capacite=0
+ID=1-14:2-14 parent=1-14 enfant=2-14 flot=0 capacite=0
+ID=2-10:2-11 parent=2-10 enfant=2-11 flot=0 capacite=0
+ID=3-12:3-11 parent=3-12 enfant=3-11 flot=9 capacite=9
+ID=3-12:3-13 parent=3-12 enfant=3-13 flot=0 capacite=3
+ID=4-12:4-13 parent=4-12 enfant=4-13 flot=0 capacite=9
+ID=4-12:4-11 parent=4-12 enfant=4-11 flot=0 capacite=0
+ID=6-7:6-8 parent=6-7 enfant=6-8 flot=0 capacite=0
+ID=7-5:6-5 parent=7-5 enfant=6-5 flot=0 capacite=0
+ID=6-7:6-6 parent=6-7 enfant=6-6 flot=0 capacite=0
+ID=15-2:15-3 parent=15-2 enfant=15-3 flot=0 capacite=12
+ID=7-14:puits parent=7-14 enfant=puits flot=24 capacite=13
+ID=15-2:15-1 parent=15-2 enfant=15-1 flot=0 capacite=0
+ID=7-11:8-11 parent=7-11 enfant=8-11 flot=0 capacite=0
+ID=8-3:7-3 parent=8-3 enfant=7-3 flot=0 capacite=9
+ID=6-15:5-15 parent=6-15 enfant=5-15 flot=0 capacite=0
+ID=6-13:6-14 parent=6-13 enfant=6-14 flot=0 capacite=0
+ID=11-5:12-5 parent=11-5 enfant=12-5 flot=0 capacite=0
+ID=6-13:6-12 parent=6-13 enfant=6-12 flot=0 capacite=0
+ID=14-10:14-11 parent=14-10 enfant=14-11 flot=0 capacite=0
+ID=8-13:9-13 parent=8-13 enfant=9-13 flot=0 capacite=9
+ID=13-6:12-6 parent=13-6 enfant=12-6 flot=0 capacite=12
+ID=9-1:9-2 parent=9-1 enfant=9-2 flot=0 capacite=0
+ID=6-1:5-1 parent=6-1 enfant=5-1 flot=13 capacite=12
+ID=11-2:11-3 parent=11-2 enfant=11-3 flot=0 capacite=0
+ID=5-8:6-8 parent=5-8 enfant=6-8 flot=0 capacite=0
+ID=11-2:11-1 parent=11-2 enfant=11-1 flot=0 capacite=0
+ID=4-15:3-15 parent=4-15 enfant=3-15 flot=0 capacite=0
+ID=10-8:9-8 parent=10-8 enfant=9-8 flot=24 capacite=12
+ID=11-0:puits parent=11-0 enfant=puits flot=1 capacite=1
+ID=source:8-2 parent=source enfant=8-2 flot=1 capacite=1
+ID=source:8-3 parent=source enfant=8-3 flot=13 capacite=9
+ID=source:8-0 parent=source enfant=8-0 flot=0 capacite=13
+ID=14-15:13-15 parent=14-15 enfant=13-15 flot=0 capacite=0
+ID=source:8-1 parent=source enfant=8-1 flot=0 capacite=1
+ID=source:12-7 parent=source enfant=12-7 flot=1 capacite=1
+ID=source:12-8 parent=source enfant=12-8 flot=1 capacite=1
+ID=source:12-5 parent=source enfant=12-5 flot=1 capacite=1
+ID=3-15:3-14 parent=3-15 enfant=3-14 flot=1 capacite=12
+ID=source:12-6 parent=source enfant=12-6 flot=13 capacite=13
+ID=5-12:5-13 parent=5-12 enfant=5-13 flot=0 capacite=0
+ID=5-6:4-6 parent=5-6 enfant=4-6 flot=0 capacite=9
+ID=source:12-9 parent=source enfant=12-9 flot=24 capacite=13
+ID=5-12:5-11 parent=5-12 enfant=5-11 flot=4 capacite=9
+ID=8-9:9-9 parent=8-9 enfant=9-9 flot=0 capacite=0
+ID=source:12-0 parent=source enfant=12-0 flot=0 capacite=1
+ID=source:12-3 parent=source enfant=12-3 flot=0 capacite=1
+ID=7-6:7-7 parent=7-6 enfant=7-7 flot=0 capacite=0
+ID=source:12-4 parent=source enfant=12-4 flot=1 capacite=1
+ID=12-6:12-5 parent=12-6 enfant=12-5 flot=0 capacite=12
+ID=source:12-1 parent=source enfant=12-1 flot=13 capacite=13
+ID=7-6:7-5 parent=7-6 enfant=7-5 flot=0 capacite=0
+ID=source:12-2 parent=source enfant=12-2 flot=0 capacite=13
+ID=12-6:12-7 parent=12-6 enfant=12-7 flot=0 capacite=12
+ID=2-13:2-14 parent=2-13 enfant=2-14 flot=1 capacite=12
+ID=12-2:12-1 parent=12-2 enfant=12-1 flot=0 capacite=0
+ID=2-13:2-12 parent=2-13 enfant=2-12 flot=0 capacite=0
+ID=12-2:12-3 parent=12-2 enfant=12-3 flot=0 capacite=12
+ID=9-0:8-0 parent=9-0 enfant=8-0 flot=0 capacite=0
+ID=7-9:7-10 parent=7-9 enfant=7-10 flot=0 capacite=0
+ID=7-9:7-8 parent=7-9 enfant=7-8 flot=0 capacite=0
+ID=14-11:13-11 parent=14-11 enfant=13-11 flot=0 capacite=0
+ID=13-4:13-5 parent=13-4 enfant=13-5 flot=0 capacite=0
+ID=8-9:7-9 parent=8-9 enfant=7-9 flot=0 capacite=0
+ID=13-4:13-3 parent=13-4 enfant=13-3 flot=0 capacite=0
+ID=13-7:12-7 parent=13-7 enfant=12-7 flot=0 capacite=0
+ID=9-8:9-9 parent=9-8 enfant=9-9 flot=0 capacite=0
+ID=9-8:9-7 parent=9-8 enfant=9-7 flot=0 capacite=0
+ID=10-10:puits parent=10-10 enfant=puits flot=1 capacite=1
+ID=13-14:12-14 parent=13-14 enfant=12-14 flot=0 capacite=12
+ID=9-15:9-14 parent=9-15 enfant=9-14 flot=0 capacite=3
+ID=11-8:12-8 parent=11-8 enfant=12-8 flot=0 capacite=0
+ID=7-13:6-13 parent=7-13 enfant=6-13 flot=0 capacite=0
+ID=10-11:10-12 parent=10-11 enfant=10-12 flot=0 capacite=0
+ID=9-2:puits parent=9-2 enfant=puits flot=0 capacite=4
+ID=1-0:0-0 parent=1-0 enfant=0-0 flot=0 capacite=0
+ID=10-11:10-10 parent=10-11 enfant=10-10 flot=0 capacite=0
+ID=8-5:8-6 parent=8-5 enfant=8-6 flot=0 capacite=0
+ID=6-11:5-11 parent=6-11 enfant=5-11 flot=0 capacite=0
+ID=14-0:14-1 parent=14-0 enfant=14-1 flot=0 capacite=0
+ID=8-5:8-4 parent=8-5 enfant=8-4 flot=0 capacite=9
+ID=7-3:6-3 parent=7-3 enfant=6-3 flot=0 capacite=0
+ID=3-1:4-1 parent=3-1 enfant=4-1 flot=0 capacite=0
+ID=8-6:puits parent=8-6 enfant=puits flot=1 capacite=13
+ID=2-11:puits parent=2-11 enfant=puits flot=13 capacite=13
+ID=4-1:puits parent=4-1 enfant=puits flot=0 capacite=1
+ID=13-11:puits parent=13-11 enfant=puits flot=1 capacite=13
+ID=0-11:1-11 parent=0-11 enfant=1-11 flot=0 capacite=12
+ID=5-12:puits parent=5-12 enfant=puits flot=0 capacite=13
+ID=5-3:5-2 parent=5-3 enfant=5-2 flot=0 capacite=0
+ID=5-3:5-4 parent=5-3 enfant=5-4 flot=0 capacite=9
+ID=14-14:13-14 parent=14-14 enfant=13-14 flot=0 capacite=0
+ID=7-1:8-1 parent=7-1 enfant=8-1 flot=0 capacite=0
+ID=7-12:7-11 parent=7-12 enfant=7-11 flot=0 capacite=9
+ID=7-12:7-13 parent=7-12 enfant=7-13 flot=0 capacite=0
+ID=2-2:1-2 parent=2-2 enfant=1-2 flot=12 capacite=12
+ID=source:7-14 parent=source enfant=7-14 flot=1 capacite=1
+ID=14-14:puits parent=14-14 enfant=puits flot=13 capacite=13
+ID=source:7-15 parent=source enfant=7-15 flot=24 capacite=13
+ID=7-2:7-3 parent=7-2 enfant=7-3 flot=0 capacite=0
+ID=0-1:0-2 parent=0-1 enfant=0-2 flot=0 capacite=0
+ID=7-2:7-1 parent=7-2 enfant=7-1 flot=0 capacite=0
+ID=0-1:0-0 parent=0-1 enfant=0-0 flot=0 capacite=0
+ID=9-1:9-0 parent=9-1 enfant=9-0 flot=0 capacite=3
+ID=11-12:puits parent=11-12 enfant=puits flot=0 capacite=1
+ID=7-8:6-8 parent=7-8 enfant=6-8 flot=0 capacite=0
+ID=1-3:1-2 parent=1-3 enfant=1-2 flot=0 capacite=12
+ID=source:7-12 parent=source enfant=7-12 flot=1 capacite=1
+ID=1-3:1-4 parent=1-3 enfant=1-4 flot=0 capacite=0
+ID=source:7-13 parent=source enfant=7-13 flot=1 capacite=1
+ID=source:7-10 parent=source enfant=7-10 flot=1 capacite=1
+ID=source:7-11 parent=source enfant=7-11 flot=8 capacite=10
+ID=2-5:3-5 parent=2-5 enfant=3-5 flot=0 capacite=0
+ID=9-13:8-13 parent=9-13 enfant=8-13 flot=9 capacite=9
+ID=15-15:puits parent=15-15 enfant=puits flot=1 capacite=13
+ID=10-1:11-1 parent=10-1 enfant=11-1 flot=0 capacite=3
+ID=12-7:12-8 parent=12-7 enfant=12-8 flot=0 capacite=0
+ID=12-7:12-6 parent=12-7 enfant=12-6 flot=0 capacite=12
+ID=15-7:14-7 parent=15-7 enfant=14-7 flot=12 capacite=12
+ID=3-7:puits parent=3-7 enfant=puits flot=4 capacite=4
+ID=2-8:3-8 parent=2-8 enfant=3-8 flot=0 capacite=0
+ID=3-12:2-12 parent=3-12 enfant=2-12 flot=0 capacite=3
+ID=11-0:11-1 parent=11-0 enfant=11-1 flot=0 capacite=0
+ID=10-7:11-7 parent=10-7 enfant=11-7 flot=12 capacite=12
+ID=7-3:8-3 parent=7-3 enfant=8-3 flot=0 capacite=9
+ID=3-3:puits parent=3-3 enfant=puits flot=4 capacite=4
+ID=5-4:5-5 parent=5-4 enfant=5-5 flot=0 capacite=0
+ID=15-10:15-9 parent=15-10 enfant=15-9 flot=0 capacite=0
+ID=13-1:14-1 parent=13-1 enfant=14-1 flot=0 capacite=0
+ID=2-15:3-15 parent=2-15 enfant=3-15 flot=0 capacite=0
+ID=3-10:4-10 parent=3-10 enfant=4-10 flot=0 capacite=9
+ID=5-4:5-3 parent=5-4 enfant=5-3 flot=9 capacite=9
+ID=0-12:0-11 parent=0-12 enfant=0-11 flot=0 capacite=0
+ID=0-12:0-13 parent=0-12 enfant=0-13 flot=0 capacite=0
+ID=5-10:5-11 parent=5-10 enfant=5-11 flot=0 capacite=0
+ID=3-8:2-8 parent=3-8 enfant=2-8 flot=0 capacite=0
+ID=1-1:2-1 parent=1-1 enfant=2-1 flot=0 capacite=0
+ID=7-15:puits parent=7-15 enfant=puits flot=1 capacite=1
+ID=10-2:11-2 parent=10-2 enfant=11-2 flot=0 capacite=3
+ID=10-4:puits parent=10-4 enfant=puits flot=1 capacite=1
+ID=3-9:4-9 parent=3-9 enfant=4-9 flot=0 capacite=0
+ID=10-6:10-5 parent=10-6 enfant=10-5 flot=0 capacite=0
+ID=10-6:10-7 parent=10-6 enfant=10-7 flot=0 capacite=0
+ID=7-10:7-9 parent=7-10 enfant=7-9 flot=0 capacite=0
+ID=15-6:14-6 parent=15-6 enfant=14-6 flot=12 capacite=12
+ID=13-1:12-1 parent=13-1 enfant=12-1 flot=0 capacite=12
+ID=13-2:puits parent=13-2 enfant=puits flot=1 capacite=1
+ID=0-11:puits parent=0-11 enfant=puits flot=0 capacite=13
+ID=3-5:2-5 parent=3-5 enfant=2-5 flot=0 capacite=0
+ID=15-14:puits parent=15-14 enfant=puits flot=1 capacite=13
+ID=7-0:puits parent=7-0 enfant=puits flot=1 capacite=1
+ID=13-15:12-15 parent=13-15 enfant=12-15 flot=0 capacite=0
+ID=4-13:3-13 parent=4-13 enfant=3-13 flot=1 capacite=12
+ID=1-5:puits parent=1-5 enfant=puits flot=0 capacite=1
+ID=11-11:12-11 parent=11-11 enfant=12-11 flot=0 capacite=0
+ID=8-3:9-3 parent=8-3 enfant=9-3 flot=0 capacite=0
+ID=14-6:14-5 parent=14-6 enfant=14-5 flot=0 capacite=0
+ID=14-4:puits parent=14-4 enfant=puits flot=12 capacite=13
+ID=14-6:14-7 parent=14-6 enfant=14-7 flot=0 capacite=0
+ID=10-13:11-13 parent=10-13 enfant=11-13 flot=1 capacite=3
+ID=9-14:puits parent=9-14 enfant=puits flot=0 capacite=4
+ID=2-9:puits parent=2-9 enfant=puits flot=0 capacite=13
+ID=8-4:7-4 parent=8-4 enfant=7-4 flot=0 capacite=0
+ID=9-7:puits parent=9-7 enfant=puits flot=13 capacite=13
+ID=source:5-13 parent=source enfant=5-13 flot=1 capacite=1
+ID=source:5-12 parent=source enfant=5-12 flot=0 capacite=1
+ID=1-9:1-8 parent=1-9 enfant=1-8 flot=1 capacite=9
+ID=4-3:5-3 parent=4-3 enfant=5-3 flot=9 capacite=9
+ID=source:5-15 parent=source enfant=5-15 flot=0 capacite=13
+ID=source:5-14 parent=source enfant=5-14 flot=24 capacite=13
+ID=7-1:6-1 parent=7-1 enfant=6-1 flot=0 capacite=0
+ID=5-1:5-0 parent=5-1 enfant=5-0 flot=0 capacite=0
+ID=10-0:puits parent=10-0 enfant=puits flot=1 capacite=1
+ID=10-10:9-10 parent=10-10 enfant=9-10 flot=0 capacite=3
+ID=9-2:9-1 parent=9-2 enfant=9-1 flot=0 capacite=0
+ID=13-14:13-13 parent=13-14 enfant=13-13 flot=0 capacite=12
+ID=4-0:5-0 parent=4-0 enfant=5-0 flot=0 capacite=12
+ID=9-2:9-3 parent=9-2 enfant=9-3 flot=0 capacite=0
+ID=5-1:5-2 parent=5-1 enfant=5-2 flot=13 capacite=12
+ID=13-14:13-15 parent=13-14 enfant=13-15 flot=0 capacite=0
+ID=11-3:11-4 parent=11-3 enfant=11-4 flot=24 capacite=12
+ID=4-7:5-7 parent=4-7 enfant=5-7 flot=9 capacite=9
+ID=source:5-11 parent=source enfant=5-11 flot=0 capacite=10
+ID=11-3:11-2 parent=11-3 enfant=11-2 flot=0 capacite=0
+ID=source:5-10 parent=source enfant=5-10 flot=4 capacite=9
+ID=13-3:puits parent=13-3 enfant=puits flot=14 capacite=13
+ID=4-0:3-0 parent=4-0 enfant=3-0 flot=0 capacite=0
+ID=4-2:4-3 parent=4-2 enfant=4-3 flot=0 capacite=9
+ID=3-5:4-5 parent=3-5 enfant=4-5 flot=0 capacite=9
+ID=4-2:4-1 parent=4-2 enfant=4-1 flot=0 capacite=12
+ID=8-8:7-8 parent=8-8 enfant=7-8 flot=0 capacite=0
+ID=12-13:12-14 parent=12-13 enfant=12-14 flot=0 capacite=0
+ID=12-13:12-12 parent=12-13 enfant=12-12 flot=12 capacite=12
+ID=0-9:1-9 parent=0-9 enfant=1-9 flot=0 capacite=12
+ID=12-14:13-14 parent=12-14 enfant=13-14 flot=0 capacite=12
+ID=3-3:3-2 parent=3-3 enfant=3-2 flot=0 capacite=3
+ID=4-14:4-15 parent=4-14 enfant=4-15 flot=0 capacite=12
+ID=4-8:5-8 parent=4-8 enfant=5-8 flot=9 capacite=9
+ID=4-11:5-11 parent=4-11 enfant=5-11 flot=0 capacite=0
+ID=0-13:puits parent=0-13 enfant=puits flot=1 capacite=13
+ID=4-14:4-13 parent=4-14 enfant=4-13 flot=0 capacite=12
+ID=2-6:2-7 parent=2-6 enfant=2-7 flot=4 capacite=9
+ID=1-15:2-15 parent=1-15 enfant=2-15 flot=0 capacite=0
+ID=2-6:2-5 parent=2-6 enfant=2-5 flot=0 capacite=0
+ID=4-5:4-6 parent=4-5 enfant=4-6 flot=0 capacite=0
+ID=11-7:10-7 parent=11-7 enfant=10-7 flot=1 capacite=12
+ID=4-5:4-4 parent=4-5 enfant=4-4 flot=0 capacite=0
+ID=6-1:puits parent=6-1 enfant=puits flot=1 capacite=13
+ID=3-3:3-4 parent=3-3 enfant=3-4 flot=6 capacite=9
+ID=2-12:3-12 parent=2-12 enfant=3-12 flot=0 capacite=3
+ID=4-10:puits parent=4-10 enfant=puits flot=0 capacite=4
+ID=11-14:10-14 parent=11-14 enfant=10-14 flot=0 capacite=3
+ID=10-9:10-8 parent=10-9 enfant=10-8 flot=0 capacite=0
+ID=source:14-1 parent=source enfant=14-1 flot=1 capacite=1
+ID=12-12:puits parent=12-12 enfant=puits flot=0 capacite=13
+ID=source:14-2 parent=source enfant=14-2 flot=12 capacite=13
+ID=6-10:puits parent=6-10 enfant=puits flot=9 capacite=13
+ID=source:14-0 parent=source enfant=14-0 flot=1 capacite=1
+ID=13-12:12-12 parent=13-12 enfant=12-12 flot=0 capacite=0
+ID=source:14-5 parent=source enfant=14-5 flot=1 capacite=1
+ID=5-8:4-8 parent=5-8 enfant=4-8 flot=1 capacite=9
+ID=source:14-6 parent=source enfant=14-6 flot=0 capacite=1
+ID=source:14-3 parent=source enfant=14-3 flot=13 capacite=13
+ID=6-5:5-5 parent=6-5 enfant=5-5 flot=0 capacite=9
+ID=source:14-4 parent=source enfant=14-4 flot=0 capacite=1
+ID=source:14-9 parent=source enfant=14-9 flot=0 capacite=1
+ID=14-9:14-8 parent=14-9 enfant=14-8 flot=0 capacite=0
+ID=1-12:0-12 parent=1-12 enfant=0-12 flot=12 capacite=12
+ID=source:14-7 parent=source enfant=14-7 flot=1 capacite=1
+ID=source:14-8 parent=source enfant=14-8 flot=1 capacite=1
+ID=6-9:puits parent=6-9 enfant=puits flot=1 capacite=13
+ID=1-14:puits parent=1-14 enfant=puits flot=1 capacite=13
+ID=12-3:12-4 parent=12-3 enfant=12-4 flot=0 capacite=0
+ID=14-4:14-3 parent=14-4 enfant=14-3 flot=0 capacite=12
+ID=12-3:12-2 parent=12-3 enfant=12-2 flot=1 capacite=12
+ID=14-4:14-5 parent=14-4 enfant=14-5 flot=0 capacite=0
+ID=8-13:7-13 parent=8-13 enfant=7-13 flot=0 capacite=0
+ID=6-12:6-11 parent=6-12 enfant=6-11 flot=0 capacite=9
+ID=6-12:6-13 parent=6-12 enfant=6-13 flot=0 capacite=0
+ID=1-14:0-14 parent=1-14 enfant=0-14 flot=0 capacite=0
+ID=0-5:1-5 parent=0-5 enfant=1-5 flot=0 capacite=0
+ID=6-15:6-14 parent=6-15 enfant=6-14 flot=12 capacite=12
+ID=13-9:13-10 parent=13-9 enfant=13-10 flot=0 capacite=0
+ID=5-8:puits parent=5-8 enfant=puits flot=9 capacite=13
+ID=5-1:puits parent=5-1 enfant=puits flot=0 capacite=1
+ID=15-8:14-8 parent=15-8 enfant=14-8 flot=12 capacite=12
+ID=6-6:puits parent=6-6 enfant=puits flot=1 capacite=13
+ID=3-6:3-7 parent=3-6 enfant=3-7 flot=0 capacite=0
+ID=3-6:3-5 parent=3-6 enfant=3-5 flot=0 capacite=9
+ID=9-15:8-15 parent=9-15 enfant=8-15 flot=0 capacite=0
+ID=10-0:11-0 parent=10-0 enfant=11-0 flot=0 capacite=0
+ID=3-0:3-1 parent=3-0 enfant=3-1 flot=0 capacite=12
+ID=2-4:1-4 parent=2-4 enfant=1-4 flot=3 capacite=12
+ID=5-5:4-5 parent=5-5 enfant=4-5 flot=0 capacite=0
+ID=0-14:1-14 parent=0-14 enfant=1-14 flot=0 capacite=0
+ID=9-11:10-11 parent=9-11 enfant=10-11 flot=0 capacite=3
+ID=10-15:puits parent=10-15 enfant=puits flot=0 capacite=1
+ID=14-2:15-2 parent=14-2 enfant=15-2 flot=1 capacite=12
+ID=13-15:puits parent=13-15 enfant=puits flot=1 capacite=13
+ID=7-14:8-14 parent=7-14 enfant=8-14 flot=0 capacite=0
+ID=14-8:15-8 parent=14-8 enfant=15-8 flot=0 capacite=12
+ID=7-10:7-11 parent=7-10 enfant=7-11 flot=0 capacite=9
+ID=8-0:8-1 parent=8-0 enfant=8-1 flot=0 capacite=12
+ID=2-4:3-4 parent=2-4 enfant=3-4 flot=0 capacite=0
+ID=8-1:7-1 parent=8-1 enfant=7-1 flot=0 capacite=0
+ID=4-10:4-11 parent=4-10 enfant=4-11 flot=0 capacite=0
+ID=1-10:2-10 parent=1-10 enfant=2-10 flot=0 capacite=12
+ID=8-1:puits parent=8-1 enfant=puits flot=0 capacite=13
+ID=9-7:10-7 parent=9-7 enfant=10-7 flot=0 capacite=12
+ID=10-10:10-11 parent=10-10 enfant=10-11 flot=0 capacite=0
+ID=source:11-10 parent=source enfant=11-10 flot=1 capacite=1
+ID=2-8:1-8 parent=2-8 enfant=1-8 flot=0 capacite=0
+ID=source:11-11 parent=source enfant=11-11 flot=0 capacite=1
+ID=source:11-12 parent=source enfant=11-12 flot=0 capacite=13
+ID=4-13:5-13 parent=4-13 enfant=5-13 flot=0 capacite=0
+ID=14-5:13-5 parent=14-5 enfant=13-5 flot=0 capacite=0
+ID=2-6:puits parent=2-6 enfant=puits flot=0 capacite=13
+ID=2-3:2-2 parent=2-3 enfant=2-2 flot=0 capacite=0
+ID=13-3:14-3 parent=13-3 enfant=14-3 flot=0 capacite=12
+ID=9-3:10-3 parent=9-3 enfant=10-3 flot=6 capacite=3
+ID=2-3:2-4 parent=2-3 enfant=2-4 flot=3 capacite=12
+ID=1-0:2-0 parent=1-0 enfant=2-0 flot=0 capacite=0
+ID=7-8:8-8 parent=7-8 enfant=8-8 flot=0 capacite=0
+ID=0-13:1-13 parent=0-13 enfant=1-13 flot=0 capacite=0
+ID=12-2:puits parent=12-2 enfant=puits flot=1 capacite=1
+ID=8-9:8-10 parent=8-9 enfant=8-10 flot=0 capacite=0
+ID=source:11-14 parent=source enfant=11-14 flot=0 capacite=13
+ID=2-1:2-2 parent=2-1 enfant=2-2 flot=1 capacite=12
+ID=1-2:1-1 parent=1-2 enfant=1-1 flot=0 capacite=0
+ID=source:11-13 parent=source enfant=11-13 flot=0 capacite=13
+ID=2-1:2-0 parent=2-1 enfant=2-0 flot=0 capacite=0
+ID=1-2:1-3 parent=1-2 enfant=1-3 flot=12 capacite=12
+ID=source:11-15 parent=source enfant=11-15 flot=1 capacite=13
+ID=12-1:12-2 parent=12-1 enfant=12-2 flot=0 capacite=0
+ID=5-10:puits parent=5-10 enfant=puits flot=0 capacite=4
+ID=15-5:14-5 parent=15-5 enfant=14-5 flot=12 capacite=12
+ID=12-1:12-0 parent=12-1 enfant=12-0 flot=0 capacite=12
+ID=6-2:puits parent=6-2 enfant=puits flot=1 capacite=13
+ID=9-6:puits parent=9-6 enfant=puits flot=0 capacite=13
+ID=15-13:puits parent=15-13 enfant=puits flot=0 capacite=13
+ID=7-11:6-11 parent=7-11 enfant=6-11 flot=0 capacite=0
+ID=12-14:puits parent=12-14 enfant=puits flot=0 capacite=1
+ID=2-3:3-3 parent=2-3 enfant=3-3 flot=10 capacite=3
+ID=13-3:13-4 parent=13-3 enfant=13-4 flot=0 capacite=0
+ID=11-3:12-3 parent=11-3 enfant=12-3 flot=1 capacite=12
+ID=13-3:13-2 parent=13-3 enfant=13-2 flot=12 capacite=12
+ID=2-9:3-9 parent=2-9 enfant=3-9 flot=0 capacite=9
+ID=3-12:4-12 parent=3-12 enfant=4-12 flot=0 capacite=0
+ID=6-9:5-9 parent=6-9 enfant=5-9 flot=0 capacite=0
+ID=1-1:0-1 parent=1-1 enfant=0-1 flot=0 capacite=0
+ID=1-9:0-9 parent=1-9 enfant=0-9 flot=0 capacite=12
+ID=14-6:puits parent=14-6 enfant=puits flot=12 capacite=13
+ID=9-5:8-5 parent=9-5 enfant=8-5 flot=1 capacite=9
+ID=8-10:puits parent=8-10 enfant=puits flot=10 capacite=13
+ID=2-11:2-12 parent=2-11 enfant=2-12 flot=0 capacite=12
+ID=11-13:12-13 parent=11-13 enfant=12-13 flot=0 capacite=0
+ID=2-11:2-10 parent=2-11 enfant=2-10 flot=0 capacite=0
+ID=source:5-9 parent=source enfant=5-9 flot=0 capacite=1
+ID=8-10:8-9 parent=8-10 enfant=8-9 flot=0 capacite=0
+ID=source:5-7 parent=source enfant=5-7 flot=1 capacite=1
+ID=source:5-8 parent=source enfant=5-8 flot=1 capacite=1
+ID=9-9:9-10 parent=9-9 enfant=9-10 flot=0 capacite=9
+ID=1-5:0-5 parent=1-5 enfant=0-5 flot=0 capacite=0
+ID=14-2:14-3 parent=14-2 enfant=14-3 flot=0 capacite=0
+ID=5-15:puits parent=5-15 enfant=puits flot=1 capacite=1
+ID=14-2:14-1 parent=14-2 enfant=14-1 flot=24 capacite=12
+ID=9-5:puits parent=9-5 enfant=puits flot=0 capacite=4
+ID=15-4:15-5 parent=15-4 enfant=15-5 flot=0 capacite=0
+ID=15-4:15-3 parent=15-4 enfant=15-3 flot=0 capacite=0
+ID=8-14:7-14 parent=8-14 enfant=7-14 flot=0 capacite=0
+ID=10-11:9-11 parent=10-11 enfant=9-11 flot=0 capacite=3
+ID=6-0:6-1 parent=6-0 enfant=6-1 flot=12 capacite=12
+ID=4-12:3-12 parent=4-12 enfant=3-12 flot=0 capacite=0
+ID=11-10:10-10 parent=11-10 enfant=10-10 flot=0 capacite=12
+ID=9-14:9-15 parent=9-14 enfant=9-15 flot=0 capacite=3
+ID=7-15:6-15 parent=7-15 enfant=6-15 flot=0 capacite=0
+ID=10-2:puits parent=10-2 enfant=puits flot=6 capacite=4
+ID=12-8:11-8 parent=12-8 enfant=11-8 flot=0 capacite=0
+ID=9-14:9-13 parent=9-14 enfant=9-13 flot=0 capacite=0
+ID=5-5:6-5 parent=5-5 enfant=6-5 flot=0 capacite=9
+ID=1-10:0-10 parent=1-10 enfant=0-10 flot=0 capacite=0
+ID=11-9:11-8 parent=11-9 enfant=11-8 flot=1 capacite=12
+ID=13-5:14-5 parent=13-5 enfant=14-5 flot=0 capacite=0
+ID=11-12:10-12 parent=11-12 enfant=10-12 flot=0 capacite=0
+ID=11-15:11-14 parent=11-15 enfant=11-14 flot=0 capacite=0
+ID=source:5-0 parent=source enfant=5-0 flot=13 capacite=13
+ID=8-7:8-8 parent=8-7 enfant=8-8 flot=0 capacite=0
+ID=15-8:puits parent=15-8 enfant=puits flot=1 capacite=1
+ID=source:5-2 parent=source enfant=5-2 flot=1 capacite=1
+ID=14-13:puits parent=14-13 enfant=puits flot=0 capacite=1
+ID=source:5-1 parent=source enfant=5-1 flot=0 capacite=13
+ID=8-7:8-6 parent=8-7 enfant=8-6 flot=0 capacite=0
+ID=0-15:puits parent=0-15 enfant=puits flot=1 capacite=13
+ID=source:5-4 parent=source enfant=5-4 flot=13 capacite=9
+ID=6-10:6-11 parent=6-10 enfant=6-11 flot=1 capacite=9
+ID=source:5-3 parent=source enfant=5-3 flot=1 capacite=1
+ID=12-8:13-8 parent=12-8 enfant=13-8 flot=0 capacite=0
+ID=source:5-6 parent=source enfant=5-6 flot=1 capacite=1
+ID=14-3:puits parent=14-3 enfant=puits flot=1 capacite=1
+ID=source:5-5 parent=source enfant=5-5 flot=13 capacite=9
+ID=4-4:5-4 parent=4-4 enfant=5-4 flot=0 capacite=0
+ID=8-9:puits parent=8-9 enfant=puits flot=1 capacite=13
+ID=6-0:puits parent=6-0 enfant=puits flot=1 capacite=1
+ID=8-6:9-6 parent=8-6 enfant=9-6 flot=0 capacite=0
+ID=12-9:12-10 parent=12-9 enfant=12-10 flot=12 capacite=12
+ID=2-10:3-10 parent=2-10 enfant=3-10 flot=0 capacite=0
+ID=1-13:1-12 parent=1-13 enfant=1-12 flot=0 capacite=12
+ID=4-6:3-6 parent=4-6 enfant=3-6 flot=0 capacite=0
+ID=7-13:puits parent=7-13 enfant=puits flot=1 capacite=13
+ID=1-13:1-14 parent=1-13 enfant=1-14 flot=0 capacite=0
+ID=3-9:3-10 parent=3-9 enfant=3-10 flot=0 capacite=9
+ID=11-11:10-11 parent=11-11 enfant=10-11 flot=0 capacite=12
+ID=3-2:4-2 parent=3-2 enfant=4-2 flot=0 capacite=12
+ID=13-10:13-11 parent=13-10 enfant=13-11 flot=0 capacite=0
+ID=3-2:2-2 parent=3-2 enfant=2-2 flot=0 capacite=0
+ID=9-0:puits parent=9-0 enfant=puits flot=1 capacite=1
+ID=8-4:9-4 parent=8-4 enfant=9-4 flot=0 capacite=0
+ID=4-4:3-4 parent=4-4 enfant=3-4 flot=9 capacite=9
+ID=8-8:8-7 parent=8-8 enfant=8-7 flot=0 capacite=0
+ID=4-6:5-6 parent=4-6 enfant=5-6 flot=9 capacite=9
+ID=13-0:14-0 parent=13-0 enfant=14-0 flot=0 capacite=0
+ID=8-10:8-11 parent=8-10 enfant=8-11 flot=0 capacite=9
+ID=12-1:13-1 parent=12-1 enfant=13-1 flot=12 capacite=12
+ID=8-8:8-9 parent=8-8 enfant=8-9 flot=0 capacite=0
+ID=0-2:1-2 parent=0-2 enfant=1-2 flot=0 capacite=0
+ID=1-11:2-11 parent=1-11 enfant=2-11 flot=0 capacite=12
+ID=1-8:1-7 parent=1-8 enfant=1-7 flot=0 capacite=0
+ID=2-13:puits parent=2-13 enfant=puits flot=1 capacite=1
+ID=1-8:1-9 parent=1-8 enfant=1-9 flot=0 capacite=9
+ID=6-8:6-9 parent=6-8 enfant=6-9 flot=0 capacite=0
+ID=4-8:puits parent=4-8 enfant=puits flot=1 capacite=4
+ID=14-9:14-10 parent=14-9 enfant=14-10 flot=0 capacite=0
+ID=12-13:puits parent=12-13 enfant=puits flot=1 capacite=1
+ID=13-0:12-0 parent=13-0 enfant=12-0 flot=0 capacite=0
+ID=6-8:6-7 parent=6-8 enfant=6-7 flot=0 capacite=0
+ID=6-3:5-3 parent=6-3 enfant=5-3 flot=0 capacite=0
+ID=12-15:11-15 parent=12-15 enfant=11-15 flot=0 capacite=12
+ID=4-13:puits parent=4-13 enfant=puits flot=0 capacite=13
+ID=6-2:7-2 parent=6-2 enfant=7-2 flot=0 capacite=0
+ID=9-12:10-12 parent=9-12 enfant=10-12 flot=0 capacite=3
+ID=9-0:10-0 parent=9-0 enfant=10-0 flot=0 capacite=0
+ID=15-11:15-10 parent=15-11 enfant=15-10 flot=0 capacite=0
+ID=0-13:0-14 parent=0-13 enfant=0-14 flot=0 capacite=0
+ID=15-11:15-12 parent=15-11 enfant=15-12 flot=0 capacite=0
+ID=9-7:8-7 parent=9-7 enfant=8-7 flot=0 capacite=0
+ID=0-13:0-12 parent=0-13 enfant=0-12 flot=0 capacite=0
+ID=6-12:7-12 parent=6-12 enfant=7-12 flot=0 capacite=0
+ID=4-3:puits parent=4-3 enfant=puits flot=1 capacite=4
+ID=11-6:10-6 parent=11-6 enfant=10-6 flot=0 capacite=0
+ID=8-2:8-3 parent=8-2 enfant=8-3 flot=0 capacite=9
+ID=4-2:puits parent=4-2 enfant=puits flot=0 capacite=13
+ID=5-15:6-15 parent=5-15 enfant=6-15 flot=0 capacite=0
+ID=11-1:10-1 parent=11-1 enfant=10-1 flot=1 capacite=3
+ID=5-12:6-12 parent=5-12 enfant=6-12 flot=0 capacite=0
+ID=7-13:8-13 parent=7-13 enfant=8-13 flot=0 capacite=0
+ID=8-12:puits parent=8-12 enfant=puits flot=5 capacite=4
+ID=6-6:6-5 parent=6-6 enfant=6-5 flot=0 capacite=0
+ID=6-2:5-2 parent=6-2 enfant=5-2 flot=0 capacite=0
+ID=6-6:6-7 parent=6-6 enfant=6-7 flot=0 capacite=0
+ID=11-15:puits parent=11-15 enfant=puits flot=1 capacite=1
+ID=3-4:puits parent=3-4 enfant=puits flot=9 capacite=13
+ID=14-10:puits parent=14-10 enfant=puits flot=12 capacite=13
+ID=5-9:5-10 parent=5-9 enfant=5-10 flot=0 capacite=9
+ID=10-14:9-14 parent=10-14 enfant=9-14 flot=0 capacite=0
+ID=9-12:9-13 parent=9-12 enfant=9-13 flot=0 capacite=0
+ID=9-10:8-10 parent=9-10 enfant=8-10 flot=0 capacite=9
+ID=9-12:9-11 parent=9-12 enfant=9-11 flot=0 capacite=0
+ID=7-4:8-4 parent=7-4 enfant=8-4 flot=0 capacite=0
+ID=8-2:8-1 parent=8-2 enfant=8-1 flot=0 capacite=0
+ID=5-2:4-2 parent=5-2 enfant=4-2 flot=0 capacite=0
+ID=4-15:puits parent=4-15 enfant=puits flot=0 capacite=13
+ID=10-6:11-6 parent=10-6 enfant=11-6 flot=0 capacite=0
+ID=5-13:6-13 parent=5-13 enfant=6-13 flot=0 capacite=0
+ID=13-7:13-6 parent=13-7 enfant=13-6 flot=0 capacite=0
+ID=0-8:1-8 parent=0-8 enfant=1-8 flot=0 capacite=3
+ID=3-14:2-14 parent=3-14 enfant=2-14 flot=25 capacite=12
+ID=13-7:13-8 parent=13-7 enfant=13-8 flot=0 capacite=0
+ID=source:3-10 parent=source enfant=3-10 flot=0 capacite=1
+ID=8-14:8-15 parent=8-14 enfant=8-15 flot=0 capacite=12
+ID=source:3-11 parent=source enfant=3-11 flot=1 capacite=1
+ID=10-3:10-2 parent=10-3 enfant=10-2 flot=6 capacite=3
+ID=source:3-12 parent=source enfant=3-12 flot=13 capacite=9
+ID=10-14:10-15 parent=10-14 enfant=10-15 flot=0 capacite=3
+ID=8-14:8-13 parent=8-14 enfant=8-13 flot=0 capacite=0
+ID=10-8:puits parent=10-8 enfant=puits flot=0 capacite=1
+ID=3-10:puits parent=3-10 enfant=puits flot=0 capacite=13
+ID=source:3-13 parent=source enfant=3-13 flot=0 capacite=13
+ID=10-3:10-4 parent=10-3 enfant=10-4 flot=0 capacite=0
+ID=5-2:6-2 parent=5-2 enfant=6-2 flot=0 capacite=0
+ID=source:3-14 parent=source enfant=3-14 flot=24 capacite=13
+ID=9-4:9-3 parent=9-4 enfant=9-3 flot=0 capacite=0
+ID=7-3:puits parent=7-3 enfant=puits flot=0 capacite=13
+ID=3-2:puits parent=3-2 enfant=puits flot=1 capacite=1
+ID=source:3-15 parent=source enfant=3-15 flot=1 capacite=1
+ID=14-5:15-5 parent=14-5 enfant=15-5 flot=0 capacite=12
+ID=9-4:9-5 parent=9-4 enfant=9-5 flot=0 capacite=0
+ID=7-7:puits parent=7-7 enfant=puits flot=1 capacite=13
+ID=2-4:puits parent=2-4 enfant=puits flot=24 capacite=13
+ID=11-15:12-15 parent=11-15 enfant=12-15 flot=0 capacite=12
+ID=15-10:15-11 parent=15-10 enfant=15-11 flot=0 capacite=0
+ID=10-14:10-13 parent=10-14 enfant=10-13 flot=0 capacite=0
+ID=10-7:puits parent=10-7 enfant=puits flot=1 capacite=1
+ID=5-10:6-10 parent=5-10 enfant=6-10 flot=0 capacite=9
+ID=6-5:7-5 parent=6-5 enfant=7-5 flot=0 capacite=0
+ID=1-12:puits parent=1-12 enfant=puits flot=1 capacite=1
+ID=4-10:5-10 parent=4-10 enfant=5-10 flot=0 capacite=0
+ID=9-9:9-8 parent=9-9 enfant=9-8 flot=0 capacite=0
+ID=9-13:puits parent=9-13 enfant=puits flot=0 capacite=4
+ID=7-4:puits parent=7-4 enfant=puits flot=0 capacite=4
+ID=1-9:puits parent=1-9 enfant=puits flot=0 capacite=13
+ID=4-14:puits parent=4-14 enfant=puits flot=0 capacite=1
+ID=8-11:7-11 parent=8-11 enfant=7-11 flot=0 capacite=0
+ID=14-7:13-7 parent=14-7 enfant=13-7 flot=0 capacite=0
+ID=15-7:15-6 parent=15-7 enfant=15-6 flot=0 capacite=0
+ID=15-7:15-8 parent=15-7 enfant=15-8 flot=0 capacite=0
+ID=11-7:12-7 parent=11-7 enfant=12-7 flot=0 capacite=0
+ID=6-4:puits parent=6-4 enfant=puits flot=1 capacite=4
+ID=12-9:13-9 parent=12-9 enfant=13-9 flot=0 capacite=12
+ID=15-9:15-8 parent=15-9 enfant=15-8 flot=0 capacite=0
+ID=10-1:puits parent=10-1 enfant=puits flot=0 capacite=4
+ID=8-11:8-10 parent=8-11 enfant=8-10 flot=9 capacite=9
+ID=8-11:8-12 parent=8-11 enfant=8-12 flot=0 capacite=0
+ID=13-8:13-7 parent=13-8 enfant=13-7 flot=0 capacite=0
+ID=3-13:4-13 parent=3-13 enfant=4-13 flot=0 capacite=12
+ID=13-8:13-9 parent=13-8 enfant=13-9 flot=0 capacite=0
+ID=14-3:14-2 parent=14-3 enfant=14-2 flot=0 capacite=0
+ID=3-7:3-6 parent=3-7 enfant=3-6 flot=0 capacite=0
+ID=14-3:14-4 parent=14-3 enfant=14-4 flot=0 capacite=12
+ID=13-15:13-14 parent=13-15 enfant=13-14 flot=0 capacite=0
+ID=12-3:puits parent=12-3 enfant=puits flot=0 capacite=13
+ID=12-15:13-15 parent=12-15 enfant=13-15 flot=0 capacite=0
+ID=12-9:puits parent=12-9 enfant=puits flot=0 capacite=1
+ID=2-14:2-13 parent=2-14 enfant=2-13 flot=1 capacite=12
+ID=7-5:8-5 parent=7-5 enfant=8-5 flot=0 capacite=0
+ID=2-14:2-15 parent=2-14 enfant=2-15 flot=0 capacite=0
+ID=7-1:7-2 parent=7-1 enfant=7-2 flot=0 capacite=0
+ID=7-7:7-8 parent=7-7 enfant=7-8 flot=0 capacite=0
+ID=7-1:7-0 parent=7-1 enfant=7-0 flot=0 capacite=12
+ID=7-7:7-6 parent=7-7 enfant=7-6 flot=0 capacite=0
+ID=source:7-9 parent=source enfant=7-9 flot=1 capacite=1
+ID=source:7-7 parent=source enfant=7-7 flot=1 capacite=1
+ID=source:7-8 parent=source enfant=7-8 flot=1 capacite=1
+ID=source:7-5 parent=source enfant=7-5 flot=0 capacite=1
+ID=source:7-6 parent=source enfant=7-6 flot=1 capacite=1
+ID=3-15:2-15 parent=3-15 enfant=2-15 flot=0 capacite=0
+ID=3-1:3-2 parent=3-1 enfant=3-2 flot=0 capacite=0
+ID=12-5:12-4 parent=12-5 enfant=12-4 flot=0 capacite=0
+ID=3-15:puits parent=3-15 enfant=puits flot=1 capacite=13
+ID=12-5:12-6 parent=12-5 enfant=12-6 flot=0 capacite=12
+ID=1-8:puits parent=1-8 enfant=puits flot=0 capacite=4
+ID=source:3-9 parent=source enfant=3-9 flot=0 capacite=9
+ID=3-1:3-0 parent=3-1 enfant=3-0 flot=13 capacite=12
+ID=2-9:2-10 parent=2-9 enfant=2-10 flot=0 capacite=0
+ID=6-4:6-5 parent=6-4 enfant=6-5 flot=0 capacite=9
+ID=15-0:14-0 parent=15-0 enfant=14-0 flot=0 capacite=0
+ID=9-13:9-12 parent=9-13 enfant=9-12 flot=0 capacite=0
+ID=5-9:6-9 parent=5-9 enfant=6-9 flot=0 capacite=0
+ID=9-13:9-14 parent=9-13 enfant=9-14 flot=0 capacite=0
+ID=10-4:11-4 parent=10-4 enfant=11-4 flot=1 capacite=12
+ID=9-5:10-5 parent=9-5 enfant=10-5 flot=0 capacite=3
+ID=4-14:3-14 parent=4-14 enfant=3-14 flot=0 capacite=0
+ID=6-8:puits parent=6-8 enfant=puits flot=1 capacite=13
+ID=10-11:puits parent=10-11 enfant=puits flot=0 capacite=1
+ID=4-13:4-14 parent=4-13 enfant=4-14 flot=0 capacite=12
+ID=4-13:4-12 parent=4-13 enfant=4-12 flot=0 capacite=9
+ID=0-3:0-2 parent=0-3 enfant=0-2 flot=0 capacite=0
+ID=0-3:0-4 parent=0-3 enfant=0-4 flot=0 capacite=0
+ID=15-13:15-14 parent=15-13 enfant=15-14 flot=0 capacite=0
+ID=6-4:6-3 parent=6-4 enfant=6-3 flot=9 capacite=9
+ID=0-10:puits parent=0-10 enfant=puits flot=1 capacite=1
+ID=12-0:13-0 parent=12-0 enfant=13-0 flot=0 capacite=0
+ID=11-11:11-12 parent=11-11 enfant=11-12 flot=0 capacite=12
+ID=15-13:15-12 parent=15-13 enfant=15-12 flot=0 capacite=12
+ID=source:3-3 parent=source enfant=3-3 flot=0 capacite=9
+ID=source:3-4 parent=source enfant=3-4 flot=0 capacite=1
+ID=13-10:14-10 parent=13-10 enfant=14-10 flot=0 capacite=0
+ID=source:3-1 parent=source enfant=3-1 flot=1 capacite=13
+ID=source:3-2 parent=source enfant=3-2 flot=0 capacite=13
+ID=source:3-7 parent=source enfant=3-7 flot=4 capacite=9
+ID=source:3-8 parent=source enfant=3-8 flot=4 capacite=9
+ID=source:3-5 parent=source enfant=3-5 flot=0 capacite=1
+ID=14-12:13-12 parent=14-12 enfant=13-12 flot=12 capacite=12
+ID=source:3-6 parent=source enfant=3-6 flot=0 capacite=9
+ID=12-0:11-0 parent=12-0 enfant=11-0 flot=0 capacite=12
+ID=13-11:12-11 parent=13-11 enfant=12-11 flot=0 capacite=0
+ID=1-1:puits parent=1-1 enfant=puits flot=1 capacite=13
+ID=source:3-0 parent=source enfant=3-0 flot=0 capacite=1
+ID=5-6:5-7 parent=5-6 enfant=5-7 flot=0 capacite=0
+ID=5-6:5-5 parent=5-6 enfant=5-5 flot=0 capacite=9
+ID=source:7-0 parent=source enfant=7-0 flot=13 capacite=13
+ID=source:7-2 parent=source enfant=7-2 flot=1 capacite=1
+ID=source:7-1 parent=source enfant=7-1 flot=1 capacite=1
+ID=1-4:1-3 parent=1-4 enfant=1-3 flot=0 capacite=0
+ID=5-14:4-14 parent=5-14 enfant=4-14 flot=0 capacite=0
+ID=source:7-4 parent=source enfant=7-4 flot=0 capacite=9
+ID=source:7-3 parent=source enfant=7-3 flot=0 capacite=1
+ID=1-4:1-5 parent=1-4 enfant=1-5 flot=0 capacite=0
+ID=8-6:7-6 parent=8-6 enfant=7-6 flot=0 capacite=0
+ID=9-3:8-3 parent=9-3 enfant=8-3 flot=0 capacite=0
+ID=3-1:puits parent=3-1 enfant=puits flot=0 capacite=1
+ID=2-5:1-5 parent=2-5 enfant=1-5 flot=0 capacite=12
+ID=10-12:10-13 parent=10-12 enfant=10-13 flot=0 capacite=3
+ID=10-12:10-11 parent=10-12 enfant=10-11 flot=0 capacite=0
+ID=4-3:3-3 parent=4-3 enfant=3-3 flot=0 capacite=0
+ID=14-1:15-1 parent=14-1 enfant=15-1 flot=0 capacite=0
+ID=13-5:12-5 parent=13-5 enfant=12-5 flot=0 capacite=0
+ID=11-11:11-10 parent=11-11 enfant=11-10 flot=0 capacite=0
+ID=11-5:11-6 parent=11-5 enfant=11-6 flot=1 capacite=12
+ID=5-14:5-15 parent=5-14 enfant=5-15 flot=0 capacite=0
+ID=11-5:11-4 parent=11-5 enfant=11-4 flot=0 capacite=0
+ID=5-14:5-13 parent=5-14 enfant=5-13 flot=24 capacite=12
+ID=source:6-15 parent=source enfant=6-15 flot=13 capacite=13
+ID=source:6-14 parent=source enfant=6-14 flot=1 capacite=1
+ID=source:6-13 parent=source enfant=6-13 flot=1 capacite=1
+ID=source:6-12 parent=source enfant=6-12 flot=1 capacite=1
+ID=source:6-11 parent=source enfant=6-11 flot=18 capacite=10
+ID=source:6-10 parent=source enfant=6-10 flot=1 capacite=1
+ID=8-4:puits parent=8-4 enfant=puits flot=0 capacite=4
+ID=3-7:3-8 parent=3-7 enfant=3-8 flot=0 capacite=0
+ID=11-2:puits parent=11-2 enfant=puits flot=1 capacite=1
+ID=0-4:0-3 parent=0-4 enfant=0-3 flot=0 capacite=0
+ID=0-4:0-5 parent=0-4 enfant=0-5 flot=0 capacite=12
+ID=13-10:puits parent=13-10 enfant=puits flot=1 capacite=13
+ID=3-4:3-3 parent=3-4 enfant=3-3 flot=0 capacite=9
+ID=3-4:3-5 parent=3-4 enfant=3-5 flot=0 capacite=0
+ID=11-1:12-1 parent=11-1 enfant=12-1 flot=0 capacite=0
+ID=15-4:puits parent=15-4 enfant=puits flot=1 capacite=1
+ID=8-15:8-14 parent=8-15 enfant=8-14 flot=12 capacite=12
+ID=2-2:3-2 parent=2-2 enfant=3-2 flot=0 capacite=0
+ID=15-10:puits parent=15-10 enfant=puits flot=1 capacite=1
+ID=15-12:puits parent=15-12 enfant=puits flot=1 capacite=1
+ID=13-9:12-9 parent=13-9 enfant=12-9 flot=0 capacite=12
+ID=1-4:puits parent=1-4 enfant=puits flot=0 capacite=1
+ID=10-13:puits parent=10-13 enfant=puits flot=0 capacite=4
+ID=4-7:puits parent=4-7 enfant=puits flot=1 capacite=4
+ID=13-6:14-6 parent=13-6 enfant=14-6 flot=0 capacite=0
+ID=10-8:10-7 parent=10-8 enfant=10-7 flot=0 capacite=0
+ID=11-6:12-6 parent=11-6 enfant=12-6 flot=0 capacite=0
+ID=10-8:10-9 parent=10-8 enfant=10-9 flot=0 capacite=0
+ID=9-10:puits parent=9-10 enfant=puits flot=0 capacite=4
+ID=15-6:puits parent=15-6 enfant=puits flot=1 capacite=1
+ID=11-4:10-4 parent=11-4 enfant=10-4 flot=0 capacite=12
+ID=13-0:puits parent=13-0 enfant=puits flot=1 capacite=13
+ID=0-10:1-10 parent=0-10 enfant=1-10 flot=0 capacite=0
+ID=8-10:9-10 parent=8-10 enfant=9-10 flot=0 capacite=9
+ID=11-4:12-4 parent=11-4 enfant=12-4 flot=0 capacite=0
+ID=6-14:5-14 parent=6-14 enfant=5-14 flot=0 capacite=12
+ID=1-12:1-11 parent=1-12 enfant=1-11 flot=0 capacite=0
+ID=1-12:1-13 parent=1-12 enfant=1-13 flot=0 capacite=12
+ID=7-9:8-9 parent=7-9 enfant=8-9 flot=0 capacite=0
+ID=3-11:4-11 parent=3-11 enfant=4-11 flot=0 capacite=9
+ID=6-15:puits parent=6-15 enfant=puits flot=1 capacite=1
+ID=14-7:15-7 parent=14-7 enfant=15-7 flot=0 capacite=12
+ID=2-0:2-1 parent=2-0 enfant=2-1 flot=0 capacite=0
+ID=12-10:12-9 parent=12-10 enfant=12-9 flot=0 capacite=12
+ID=13-2:13-1 parent=13-2 enfant=13-1 flot=24 capacite=12
+ID=4-4:puits parent=4-4 enfant=puits flot=6 capacite=4
+ID=13-2:13-3 parent=13-2 enfant=13-3 flot=13 capacite=12
+ID=7-4:6-4 parent=7-4 enfant=6-4 flot=0 capacite=0
+ID=source:1-6 parent=source enfant=1-6 flot=1 capacite=1
+ID=10-5:10-6 parent=10-5 enfant=10-6 flot=0 capacite=0
+ID=source:1-5 parent=source enfant=1-5 flot=0 capacite=13
+ID=source:1-4 parent=source enfant=1-4 flot=24 capacite=13
+ID=10-5:10-4 parent=10-5 enfant=10-4 flot=0 capacite=0
+ID=source:1-3 parent=source enfant=1-3 flot=12 capacite=13
+ID=4-1:5-1 parent=4-1 enfant=5-1 flot=0 capacite=0
+ID=source:1-9 parent=source enfant=1-9 flot=0 capacite=1
+ID=1-7:0-7 parent=1-7 enfant=0-7 flot=0 capacite=3
+ID=source:1-8 parent=source enfant=1-8 flot=0 capacite=10
+ID=15-12:14-12 parent=15-12 enfant=14-12 flot=0 capacite=0
+ID=source:1-7 parent=source enfant=1-7 flot=0 capacite=9
+ID=11-1:puits parent=11-1 enfant=puits flot=0 capacite=1
+ID=5-0:5-1 parent=5-0 enfant=5-1 flot=0 capacite=0
+ID=source:1-2 parent=source enfant=1-2 flot=1 capacite=1
+ID=14-15:14-14 parent=14-15 enfant=14-14 flot=0 capacite=0
+ID=7-10:6-10 parent=7-10 enfant=6-10 flot=0 capacite=0
+ID=source:1-1 parent=source enfant=1-1 flot=1 capacite=1
+ID=source:1-0 parent=source enfant=1-0 flot=1 capacite=1
+ID=11-8:10-8 parent=11-8 enfant=10-8 flot=0 capacite=12
+ID=3-6:puits parent=3-6 enfant=puits flot=0 capacite=4
+ID=9-15:puits parent=9-15 enfant=puits flot=0 capacite=1
+ID=9-12:8-12 parent=9-12 enfant=8-12 flot=0 capacite=0
+ID=5-11:4-11 parent=5-11 enfant=4-11 flot=0 capacite=0
+ID=13-13:14-13 parent=13-13 enfant=14-13 flot=0 capacite=0
+ID=10-10:11-10 parent=10-10 enfant=11-10 flot=0 capacite=12
+ID=6-1:6-0 parent=6-1 enfant=6-0 flot=0 capacite=12
+ID=6-1:6-2 parent=6-1 enfant=6-2 flot=0 capacite=0
+ID=7-10:8-10 parent=7-10 enfant=8-10 flot=0 capacite=0
+ID=1-7:2-7 parent=1-7 enfant=2-7 flot=0 capacite=0
+ID=1-2:puits parent=1-2 enfant=puits flot=1 capacite=13
+ID=2-13:3-13 parent=2-13 enfant=3-13 flot=0 capacite=0
+ID=10-5:9-5 parent=10-5 enfant=9-5 flot=0 capacite=3
+ID=4-9:3-9 parent=4-9 enfant=3-9 flot=0 capacite=0
+ID=2-2:puits parent=2-2 enfant=puits flot=1 capacite=1
+ID=9-2:10-2 parent=9-2 enfant=10-2 flot=0 capacite=0

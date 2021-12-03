@@ -4,6 +4,12 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.Path;
+
 public class Reseau {
   private HashMap<String, Noeud> noeuds;
   private HashMap<String, Arc> arcs;
@@ -74,5 +80,26 @@ public class Reseau {
   // get edge by id
   public Arc getArcParId(String id) {
     return this.arcs.get(id);
+  }
+
+  public void saveForVisualization() {
+    List<String> textFile = new ArrayList<String>();
+
+    for (Noeud noeud : this.getNoeuds()) {
+      textFile.add("ID=" + noeud.getId() + " a=" + noeud.getA() + " b=" + noeud.getB());
+    }
+
+    for (Arc arc : this.getArcs()) {
+      textFile.add("ID=" + arc.getId() + " parent=" + arc.getParent().getId() + " enfant="
+          + arc.getEnfant().getId() + " flot=" + arc.getFlot() + " capacite=" + arc.getCapacite());
+    }
+
+    try {
+      // Write lines of text to a file.
+      Path file = Paths.get("./graph.txt");
+      Files.write(file, textFile, StandardCharsets.UTF_8);
+    } catch (Exception e) {
+      e.printStackTrace();
+    }
   }
 }

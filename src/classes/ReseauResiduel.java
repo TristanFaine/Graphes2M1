@@ -21,6 +21,14 @@ public class ReseauResiduel extends Reseau {
     for (Noeud noeud : reseau.getNoeuds()) {
       Noeud noeudResiduel = new Noeud(noeud.getId(), noeud.getA(), noeud.getB());
       this.ajouterNoeud(noeudResiduel);
+
+      if (noeud.getId().equals(reseau.getSource().getId())) {
+        this.setSource(noeudResiduel);
+      }
+
+      if (noeud.getId().equals(reseau.getPuits().getId())) {
+        this.setPuits(noeudResiduel);
+      }
     }
 
     for (Arc arc : reseau.getArcs()) {
@@ -52,8 +60,5 @@ public class ReseauResiduel extends Reseau {
       }
       // this.arcs.put(arc.getId(), arc);
     }
-
-    new Source(this);
-    new Puits(this);
   }
 }
