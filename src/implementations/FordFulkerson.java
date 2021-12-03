@@ -28,9 +28,10 @@ public class FordFulkerson {
     List<String> chemin = this.trouverCheminCroissance(reseauResiduel);
 
     while (chemin != null) {
-      int capaciteMinimum = this.capaciteMinimumChemin(reseau, chemin);
-      System.out.println("Tour : " + tours + " \n- Chemin : " + chemin + " \n- Capacité minimum : "
-          + capaciteMinimum + "\n\n");
+      int capaciteMinimum = this.capaciteMinimumChemin(reseauResiduel, chemin);
+      // System.out.println("Tour : " + tours + " \n- Chemin : " + chemin + " \n- Capacité minimum :
+      // "
+      // + capaciteMinimum + "\n\n");
 
       for (int i = 0; i < chemin.size() - 1; i++) {
         String identifiantParent = chemin.get(i);
@@ -38,11 +39,14 @@ public class FordFulkerson {
 
         String identifiantArc = identifiantParent + ":" + identifiantEnfant;
         Arc arc = reseau.getArcParId(identifiantArc);
-        arc.setFlot(arc.getFlot() + capaciteMinimum);
 
-        // TODO: Gérer le cas des arcs retours où on soustrait
-        // la capacité minimum (actuellement le flot
-        // retourné dépasse la capacité parfois)
+        Arc arcResiduel = reseauResiduel.getArcParId(identifiantArc);
+
+        if (arcResiduel.getCapacite() < 0) {
+          arc.setFlot(arc.getFlot() - capaciteMinimum);
+        } else {
+          arc.setFlot(arc.getFlot() + capaciteMinimum);
+        }
       }
 
       reseauResiduel = new ReseauResiduel(reseau);
@@ -58,9 +62,6 @@ public class FordFulkerson {
       flotMax += arcFinal.getFlot();
     }
 
-    System.out.println("FLOT MAXIMAL: " + flotMax);
-    reseau.saveForVisualization();
-
     return flotMax;
   }
 
@@ -74,9 +75,7 @@ public class FordFulkerson {
       String identifiantArc = identifiantParent + ":" + identifiantEnfant;
       Arc arc = reseau.getArcParId(identifiantArc);
 
-      System.out.println(arc.getId() + " : " + arc.getFlot() + " / " + arc.getCapacite());
-
-      min = Math.min(min, arc.getCapacite());
+      min = Math.min(min, Math.abs(arc.getCapacite()));
     }
 
     return min;

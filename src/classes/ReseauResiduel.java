@@ -53,7 +53,7 @@ public class ReseauResiduel extends Reseau {
         Noeud enfant = this.getNoeudParId(arc.getEnfant().getId());
 
         // Inversion normale car on veut faire un arc retour
-        Arc arcResiduelRetour = new Arc(enfant, parent, arc.getFlot());
+        Arc arcResiduelRetour = new Arc(enfant, parent, -arc.getFlot());
         // arcResiduelRetour.setFlot(arc.getFlot()); si nécessaire
 
         this.ajouterArc(arcResiduelRetour);
