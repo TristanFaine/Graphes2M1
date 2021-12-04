@@ -113,7 +113,11 @@ public class FordFulkerson {
       chemin = new ArrayList<>();
     }
 
-    this.visites.add(noeud.getId());
+    // Pour éviter les doublons lors du min-cut
+    if (!this.visites.contains(noeud.getId())) {
+      this.visites.add(noeud.getId());
+    }
+
     chemin.add(noeud.getId());
 
     // Si on fait la recherche à l'envers
