@@ -1,6 +1,7 @@
 package src.implementations;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import src.classes.Arc;
 import src.classes.Noeud;
@@ -13,7 +14,8 @@ public class FordFulkerson {
 
   // Return le reseau avec son flot maximal
   // Algorithme de Ford Fulkerson
-  public int calculFlotMax(ReseauTransport reseau) throws CloneNotSupportedException {
+  public HashMap<String, Object> calculFlotMax(ReseauTransport reseau)
+      throws CloneNotSupportedException {
     // Commencer à partir de la source:
     // Tant qu'il existe un arc sortant avec flot < capacité:
     // Passer la sauce (ajouter val flot)
@@ -25,7 +27,7 @@ public class FordFulkerson {
     int tours = 0;
 
     ReseauResiduel reseauResiduel = new ReseauResiduel(reseau);
-    List<String> chemin = this.trouverCheminCroissance(reseauResiduel);
+    List<String> chemin = this.trouverCheminCroissance(reseauResiduel, null, false);
 
     while (chemin != null) {
       int capaciteMinimum = this.capaciteMinimumChemin(reseauResiduel, chemin);
@@ -50,7 +52,7 @@ public class FordFulkerson {
       }
 
       reseauResiduel = new ReseauResiduel(reseau);
-      chemin = this.trouverCheminCroissance(reseauResiduel);
+      chemin = this.trouverCheminCroissance(reseauResiduel, null, false);
 
       tours++;
     }
@@ -62,7 +64,11 @@ public class FordFulkerson {
       flotMax += arcFinal.getFlot();
     }
 
-    return flotMax;
+    HashMap<String, Object> results = new HashMap<String, Object>();
+    results.put("flotMax", flotMax);
+    results.put("reseau", reseau);
+
+    return results;
   }
 
   public int capaciteMinimumChemin(Reseau reseau, List<String> chemin) {
@@ -81,12 +87,16 @@ public class FordFulkerson {
     return min;
   }
 
-  public List<String> trouverCheminCroissance(Reseau reseau) {
+  public List<String> trouverCheminCroissance(Reseau reseau, Noeud depart, boolean basEnHaut) {
     this.visites = new ArrayList<>();
     List<String> chemin;
 
+    if (depart == null) {
+      depart = reseau.getSource();
+    }
+
     for (Noeud noeud : reseau.getNoeuds()) {
-      chemin = this.parcoursProfondeur(reseau, reseau.getSource(), null);
+      chemin = this.parcoursProfondeur(reseau, depart, null, basEnHaut);
 
       if (chemin != null) {
         return chemin;
@@ -96,7 +106,9 @@ public class FordFulkerson {
     return null;
   }
 
-  public List<String> parcoursProfondeur(Reseau reseau, Noeud noeud, List<String> chemin) {
+  public List<String> parcoursProfondeur(Reseau reseau, Noeud noeud, List<String> chemin,
+      boolean basEnHaut) {
+
     if (chemin == null) {
       chemin = new ArrayList<>();
     }
@@ -104,7 +116,10 @@ public class FordFulkerson {
     this.visites.add(noeud.getId());
     chemin.add(noeud.getId());
 
-    for (Arc arcSortant : noeud.getArcsSortants()) {
+    // Si on fait la recherche à l'envers
+    List<Arc> arcsExplorables = basEnHaut ? noeud.getArcsEntrants() : noeud.getArcsSortants();
+
+    for (Arc arcSortant : arcsExplorables) {
       Noeud voisin = arcSortant.getEnfant();
 
       if (voisin.getId() == "puits") {
@@ -113,10 +128,14 @@ public class FordFulkerson {
       }
 
       if (!this.visites.contains(voisin.getId())) {
-        return this.parcoursProfondeur(reseau, voisin, chemin);
+        return this.parcoursProfondeur(reseau, voisin, chemin, basEnHaut);
       }
     }
 
     return null;
+  }
+
+  public List<String> getVisites() {
+    return this.visites;
   }
 }

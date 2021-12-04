@@ -3,6 +3,10 @@
 ## Compile
 
 ```
+rm ./src/*/*.class && javac src/*.java && java src/App
+```
+
+```
 javac src/*.java
 ```
 
