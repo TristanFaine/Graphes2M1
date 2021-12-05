@@ -54,6 +54,7 @@ public class App {
 
   static public void CalculCoupeMin(ReseauTransport reseauMax) throws CloneNotSupportedException {
     ReseauResiduel reseauResiduelMax = new ReseauResiduel(reseauMax);
+    reseauResiduelMax.saveForVisualization();
 
     FordFulkerson utilitaire = new FordFulkerson();
 
@@ -62,15 +63,38 @@ public class App {
     utilitaire.trouverCheminCroissance(reseauResiduelMax, reseauResiduelMax.getSource(), false);
     List<String> partieSource = utilitaire.getVisites();
 
-    // Faire un trouverChemin basenhaut true depuis le puits
-    // puis get les visites
-    utilitaire.trouverCheminCroissance(reseauResiduelMax, reseauResiduelMax.getPuits(), true);
-    List<String> partiePuits = utilitaire.getVisites();
+    List<String> partiePuits = new ArrayList<>();
+    for (Noeud noeud : reseauResiduelMax.getNoeuds()) {
+      if (!partieSource.contains(noeud.getId())) {
+        partiePuits.add(noeud.getId());
+      }
+    }
 
     System.out.println("Partie source : " + partieSource);
     System.out.println("\n\n\n");
     System.out.println("Partie puits : " + partiePuits);
-
+    System.out.println("Total size : " + (partieSource.size() + partiePuits.size()));
+    /*
+     * int x = 0; int y = 0; for (String idNoeudParent : partieSource) { for (String idNoeudEnfant :
+     * partiePuits) {
+     * 
+     * Arc potentielArc = reseauResiduelMax.getArcParId(idNoeudParent + ":" + idNoeudEnfant);
+     * 
+     * if (potentielArc != null) { System.out.println(potentielArc); System.out.println(
+     * "Arc correspondant: " + reseauMax.getArcParId(idNoeudParent + ":" + idNoeudEnfant));
+     * System.out.println("\n"); x++; } else { y++; } } }
+     * 
+     * System.out.println("Size partie source : " + partieSource.size() + " Size partie puits : " +
+     * partiePuits.size()); System.out.println("Arcs trouvés : " + x + " Arcs non trouvés : " + y);
+     * 
+     * System.out.println("Source"); System.out.println(reseauResiduelMax.getSource());
+     * 
+     * System.out.println("\n\n"); System.out.println("Puits");
+     * System.out.println(reseauResiduelMax.getPuits());
+     * 
+     * System.out.println("\n\n\n"); System.out.println("0-3");
+     * System.out.println(reseauResiduelMax.getNoeudParId("0-3"));
+     */
     // imo on est cense avoir 2 ensembles totalement distincts
     // TODO: supprimer les doublons puis calculer faire une recherche sur tous les arcs qui vont
     // d'un point de l'ensemble A

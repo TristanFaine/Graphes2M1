@@ -126,7 +126,7 @@ public class FordFulkerson {
     for (Arc arcSortant : arcsExplorables) {
       Noeud voisin = arcSortant.getEnfant();
 
-      if (voisin.getId() == "puits") {
+      if ((!basEnHaut && voisin.getId() == "puits") || (basEnHaut && voisin.getId() == "source")) {
         chemin.add("puits");
         return chemin;
       }
