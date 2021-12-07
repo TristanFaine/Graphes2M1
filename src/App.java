@@ -2,8 +2,12 @@ package src;
 
 import java.util.List;
 import java.util.HashMap;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
-
+import java.util.Arrays;
 import src.classes.Arc;
 import src.classes.Noeud;
 import src.utils.Lecteur;
@@ -74,6 +78,24 @@ public class App {
     System.out.println("\n\n\n");
     System.out.println("Partie puits : " + partiePuits);
     System.out.println("Total size : " + (partieSource.size() + partiePuits.size()));
+
+    List<String> textFile = new ArrayList<String>();
+
+    for (Object x : partieSource) {
+      textFile.add("Plan1:" + x.toString());
+    }
+
+    for (Object x : partiePuits) {
+      textFile.add("Plan2:" + x.toString());
+    }
+
+    try {
+      // Write lines of text to a file.
+      Path file = Paths.get("./graph.txt");
+      Files.write(file, textFile, StandardCharsets.UTF_8);
+    } catch (Exception e) {
+      e.printStackTrace();
+    }
     /*
      * int x = 0; int y = 0; for (String idNoeudParent : partieSource) { for (String idNoeudEnfant :
      * partiePuits) {
@@ -108,18 +130,33 @@ public class App {
   public static void main(String[] args) {
     // new Loader().load()
     // Get command line arguments
-    ReseauTransport reseau = ConstructionReseau("data/instance_16_16.txt");
 
-    try {
-      HashMap<String, Object> resultatsMax = CalculFlotMax(reseau);
+    if (args.length > 0) {
+      List<String> arguments = Arrays.asList(args);
+      StringBuilder path = new StringBuilder();
 
-      int flotMax = (int) resultatsMax.get("flotMax");
-      System.out.println("Flot max : " + flotMax);
+      for (String argument : arguments) {
+        path.append(argument);
+      }
 
-      ReseauTransport reseauMax = (ReseauTransport) resultatsMax.get("reseau");
-      CalculCoupeMin(reseauMax);
-    } catch (CloneNotSupportedException e) {
-      e.printStackTrace();
+      System.out.println("Chargement des données depuis le fichier : " + path.toString());
+      ReseauTransport reseau = ConstructionReseau(path.toString());
+
+      try {
+        HashMap<String, Object> resultatsMax = CalculFlotMax(reseau);
+
+        int flotMax = (int) resultatsMax.get("flotMax");
+        System.out.println("Flot max : " + flotMax);
+
+        ReseauTransport reseauMax = (ReseauTransport) resultatsMax.get("reseau");
+        CalculCoupeMin(reseauMax);
+      } catch (CloneNotSupportedException e) {
+        e.printStackTrace();
+      }
+    } else {
+      System.out.println("Usage: java -jar BinarisationImage.jar <path-vers-fichier-donnees>");
     }
+
+
   }
 }
