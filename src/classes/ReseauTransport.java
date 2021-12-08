@@ -1,7 +1,5 @@
 package src.classes;
 
-import java.util.List;
-import java.util.ArrayList;
 import java.util.HashMap;
 
 public class ReseauTransport extends Reseau {
@@ -22,10 +20,6 @@ public class ReseauTransport extends Reseau {
     // pour la création des noeuds
     // avec les valeurs de A[i][j] et B[i][j]
 
-    // Triple condition pour créer arcs en même temps :
-    // Si j > 1, alors création arcs "horizontaux", entre (i,j-1) et (i,j)
-    // Si i > 1, alors création arcs "verticaux", entre (i-1,j) et (i,j)
-
     for (int i = 0; i < n; i++) {
       for (int j = 0; j < m; j++) {
         String identifiantNoeud = String.valueOf(i) + "-" + String.valueOf(j);
@@ -39,7 +33,7 @@ public class ReseauTransport extends Reseau {
     // pénalités en ligne
     for (int i = 0; i < n; i++) {
       for (int j = 0; j < m - 1; j++) {
-        // couple (i,j |i+1,j) ou (i,j |i,j+1)
+        // couple (i,j |i,j+1)
         String identifiantParent = String.valueOf(i) + "-" + String.valueOf(j);
         String identifiantEnfant = String.valueOf(i) + "-" + String.valueOf(j + 1);
 
@@ -57,7 +51,7 @@ public class ReseauTransport extends Reseau {
     // pénalités en colonne
     for (int i = 0; i < n - 1; i++) {
       for (int j = 0; j < m; j++) {
-        // couple (i,j |i+1,j) ou (i,j |i,j+1)
+        // couple (i,j |i+1,j)
         String identifiantParent = String.valueOf(i) + "-" + String.valueOf(j);
         String identifiantEnfant = String.valueOf(i + 1) + "-" + String.valueOf(j);
 

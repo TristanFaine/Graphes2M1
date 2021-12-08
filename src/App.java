@@ -40,7 +40,6 @@ public class App {
 
     ReseauTransport reseau = new ReseauTransport(n, m, A, B, PLigne, PColonne);
 
-    // System.out.println(reseau);
     // En extraire les nodes & arcs
     // return new Network();
 
@@ -50,11 +49,11 @@ public class App {
   // Calculer le flot max avec Ford Fulkerson
   static public HashMap<String, Object> CalculFlotMax(ReseauTransport reseau)
       throws CloneNotSupportedException {
-    // TODO: Faire un type générique implémentation et charger en fonction
-    // d'un parametre ?
     FordFulkerson implementation = new FordFulkerson();
     return implementation.calculFlotMax(reseau);
   }
+
+  
 
   static public void CalculCoupeMin(ReseauTransport reseauMax) throws CloneNotSupportedException {
     ReseauResiduel reseauResiduelMax = new ReseauResiduel(reseauMax);
@@ -73,11 +72,12 @@ public class App {
         partiePuits.add(noeud.getId());
       }
     }
+    partieSource.remove("source");
+    partiePuits.remove("puits");
 
-    System.out.println("Partie source : " + partieSource);
-    System.out.println("\n\n\n");
-    System.out.println("Partie puits : " + partiePuits);
-    System.out.println("Total size : " + (partieSource.size() + partiePuits.size()));
+    System.out.println("Premier plan : " + partieSource);
+    System.out.println("\n");
+    System.out.println("Second plan : " + partiePuits);
 
     List<String> textFile = new ArrayList<String>();
 
@@ -96,41 +96,29 @@ public class App {
     } catch (Exception e) {
       e.printStackTrace();
     }
-    /*
-     * int x = 0; int y = 0; for (String idNoeudParent : partieSource) { for (String idNoeudEnfant :
-     * partiePuits) {
-     * 
-     * Arc potentielArc = reseauResiduelMax.getArcParId(idNoeudParent + ":" + idNoeudEnfant);
-     * 
-     * if (potentielArc != null) { System.out.println(potentielArc); System.out.println(
-     * "Arc correspondant: " + reseauMax.getArcParId(idNoeudParent + ":" + idNoeudEnfant));
-     * System.out.println("\n"); x++; } else { y++; } } }
-     * 
-     * System.out.println("Size partie source : " + partieSource.size() + " Size partie puits : " +
-     * partiePuits.size()); System.out.println("Arcs trouvés : " + x + " Arcs non trouvés : " + y);
-     * 
-     * System.out.println("Source"); System.out.println(reseauResiduelMax.getSource());
-     * 
-     * System.out.println("\n\n"); System.out.println("Puits");
-     * System.out.println(reseauResiduelMax.getPuits());
-     * 
-     * System.out.println("\n\n\n"); System.out.println("0-3");
-     * System.out.println(reseauResiduelMax.getNoeudParId("0-3"));
-     */
-    // imo on est cense avoir 2 ensembles totalement distincts
-    // TODO: supprimer les doublons puis calculer faire une recherche sur tous les arcs qui vont
-    // d'un point de l'ensemble A
-    // vers un point de l'ensemble B (en checkant si parent appartient à A et enfant à B)
-    // si c'est le cas sommer le flot / ou la capacite
-    // et retourner un int coupeMin ou qqchose du genre
-
   }
 
+  static public void ResoudreBinMin(String filepath) {
+    System.out.println("Chargement des données depuis le fichier : " + filepath.toString());
+    ReseauTransport reseau = ConstructionReseau(filepath.toString());
 
+    try {
+      HashMap<String, Object> resultatsMax = CalculFlotMax(reseau);
+
+      int flotMax = (int) resultatsMax.get("flotMax");
+      System.out.println("Flot max : " + flotMax);
+
+      ReseauTransport reseauMax = (ReseauTransport) resultatsMax.get("reseau");
+      CalculCoupeMin(reseauMax);
+    } catch (CloneNotSupportedException e) {
+      e.printStackTrace();
+    }
+
+
+  }
   public static void main(String[] args) {
     // new Loader().load()
     // Get command line arguments
-
     if (args.length > 0) {
       List<String> arguments = Arrays.asList(args);
       StringBuilder path = new StringBuilder();
@@ -139,21 +127,9 @@ public class App {
         path.append(argument);
       }
 
-      System.out.println("Chargement des données depuis le fichier : " + path.toString());
-      ReseauTransport reseau = ConstructionReseau(path.toString());
-
-      try {
-        HashMap<String, Object> resultatsMax = CalculFlotMax(reseau);
-
-        int flotMax = (int) resultatsMax.get("flotMax");
-        System.out.println("Flot max : " + flotMax);
-
-        ReseauTransport reseauMax = (ReseauTransport) resultatsMax.get("reseau");
-        CalculCoupeMin(reseauMax);
-      } catch (CloneNotSupportedException e) {
-        e.printStackTrace();
-      }
-    } else {
+      ResoudreBinMin(path.toString()); 
+    }
+    else {
       System.out.println("Usage: java -jar BinarisationImage.jar <path-vers-fichier-donnees>");
     }
 

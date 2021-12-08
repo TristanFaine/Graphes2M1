@@ -9,9 +9,6 @@ public class Arc {
   private Noeud enfant;
 
   public Arc(Noeud parent, Noeud enfant, int capacite) {
-    // System.out.println(parent);
-    // System.out.println(enfant);
-    // System.out.println(parent.getId() + ":" + enfant.getId());
     this.id = parent.getId() + ":" + enfant.getId();
     this.capacite = capacite;
     this.parent = parent;

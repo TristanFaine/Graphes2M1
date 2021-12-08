@@ -2,3 +2,6 @@
 data/graph.txt
 graph.txt
 .DS_Store
+build
+*.jar
+build/BinarisationImage.jar
