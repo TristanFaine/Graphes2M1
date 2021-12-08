@@ -56,6 +56,8 @@ public class App {
     return implementation.calculFlotMax(reseau);
   }
 
+  
+
   static public void CalculCoupeMin(ReseauTransport reseauMax) throws CloneNotSupportedException {
     ReseauResiduel reseauResiduelMax = new ReseauResiduel(reseauMax);
     reseauResiduelMax.saveForVisualization();
@@ -126,11 +128,27 @@ public class App {
 
   }
 
+  static public void ResoudreBinMin(String filepath) {
+    System.out.println("Chargement des données depuis le fichier : " + filepath.toString());
+    ReseauTransport reseau = ConstructionReseau(filepath.toString());
 
+    try {
+      HashMap<String, Object> resultatsMax = CalculFlotMax(reseau);
+
+      int flotMax = (int) resultatsMax.get("flotMax");
+      System.out.println("Flot max : " + flotMax);
+
+      ReseauTransport reseauMax = (ReseauTransport) resultatsMax.get("reseau");
+      CalculCoupeMin(reseauMax);
+    } catch (CloneNotSupportedException e) {
+      e.printStackTrace();
+    }
+
+
+  }
   public static void main(String[] args) {
     // new Loader().load()
     // Get command line arguments
-
     if (args.length > 0) {
       List<String> arguments = Arrays.asList(args);
       StringBuilder path = new StringBuilder();
@@ -139,21 +157,9 @@ public class App {
         path.append(argument);
       }
 
-      System.out.println("Chargement des données depuis le fichier : " + path.toString());
-      ReseauTransport reseau = ConstructionReseau(path.toString());
-
-      try {
-        HashMap<String, Object> resultatsMax = CalculFlotMax(reseau);
-
-        int flotMax = (int) resultatsMax.get("flotMax");
-        System.out.println("Flot max : " + flotMax);
-
-        ReseauTransport reseauMax = (ReseauTransport) resultatsMax.get("reseau");
-        CalculCoupeMin(reseauMax);
-      } catch (CloneNotSupportedException e) {
-        e.printStackTrace();
-      }
-    } else {
+      ResoudreBinMin(path.toString()); 
+    }
+    else {
       System.out.println("Usage: java -jar BinarisationImage.jar <path-vers-fichier-donnees>");
     }
 
