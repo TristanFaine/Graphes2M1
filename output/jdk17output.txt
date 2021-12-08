@@ -1,0 +1,88 @@
+Tour : 0
+- Chemin : [source, 2-1, 1-1, 1-2, 2-2, 2-3, puits]
+- CapacitÃ© minimum :5
+
+
+Tour : 1
+- Chemin : [source, 2-2, 2-1, 1-1, 1-2, 0-2, 0-1, puits]
+- CapacitÃ© minimum :10
+
+
+Tour : 2
+- Chemin : [source, 1-1, 2-1, 2-2, 1-2, 1-3, puits]
+- CapacitÃ© minimum :5
+
+
+Tour : 3
+- Chemin : [source, 1-2, 1-1, 2-1, 2-2, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 4
+- Chemin : [source, 0-0, 1-0, 2-0, 3-0, 3-1, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 5
+- Chemin : [source, 0-1, 0-2, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 6
+- Chemin : [source, 0-2, 0-3, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 7
+- Chemin : [source, 0-3, 1-3, 2-3, 3-3, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 8
+- Chemin : [source, 1-0, 0-0, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 9
+- Chemin : [source, 1-3, 0-3, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 10
+- Chemin : [source, 2-0, 1-0, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 11
+- Chemin : [source, 2-3, 1-3, 0-3, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 12
+- Chemin : [source, 3-0, 2-0, 1-0, 0-0, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 13
+- Chemin : [source, 3-1, 3-0, 2-0, 1-0, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 14
+- Chemin : [source, 3-2, puits]
+- CapacitÃ© minimum :1
+
+
+Tour : 15
+- Chemin : [source, 3-3, 3-2, puits]
+- CapacitÃ© minimum :1
+
+
+Flot max : 33
+Partie source : [source, 1-2, 1-1, 2-1, 2-2]
+
+
+
+
+Partie puits : [puits, 0-0, 0-1, 1-0, 0-2, 2-0, 0-3, 3-0, 1-3, 3-1, 2-3, 3-2, 3-3]
+Total size : 18

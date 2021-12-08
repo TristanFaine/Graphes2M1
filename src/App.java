@@ -67,7 +67,7 @@ public class App {
     utilitaire.trouverCheminCroissance(reseauResiduelMax, reseauResiduelMax.getSource(), false);
     List<String> partieSource = utilitaire.getVisites();
 
-    List<String> partiePuits = new ArrayList<>();
+    List<String> partiePuits = new ArrayList<String>();
     for (Noeud noeud : reseauResiduelMax.getNoeuds()) {
       if (!partieSource.contains(noeud.getId())) {
         partiePuits.add(noeud.getId());

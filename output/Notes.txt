@@ -1,0 +1,29 @@
+Dans notre réseau il faut... minimiser les bij.. minimiser les aij... minimiser les pénalités entre trucs..
+
+Et en vrai il faut... maximiser a.. maximiser b... moins les pénalités.
+
+.. le point principal est : pénalités elevées entre trucs = faut les connecter.
+Pénalités faibles entre points = capacité faible => congestion => coupe
+
+Le flot maximal... le flot maximal...
+Rentrer dans noir, sortir blanc, ignorer blanc?
+
+Notre flot max comment on l'a? j'ai oublié..
+
+ok on a genre un reseauresiduelmax pour la coupe.
+donc.. on rentre là où c'est gros
+
+ok brute :
+faire le plus de parcours ENTRE TRUCS QUI SE RESSEMBLENT
+quand on prends a faible => trucs de pénalité élevées se ressemble => on prends la sortie(puits) quand on a
+que des voisins valides dont la pénalité est faible (b > pnl)
+quand on prends a fort = > trucs de pénalité élevées se ressemble => on prends la sortie(puits) quand on a
+que des voisins valides dont la pénalité est faible (autrement dit, quand b > pnl)
+
+
+
+Sort1
+
+Sort2:
+JDK 7 : 1159
+JDK17 : 
