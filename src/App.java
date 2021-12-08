@@ -53,9 +53,10 @@ public class App {
     return implementation.calculFlotMax(reseau);
   }
 
-  
 
-  static public void CalculCoupeMin(ReseauTransport reseauMax) throws CloneNotSupportedException {
+
+  static public HashMap<String, Object> CalculCoupeMin(ReseauTransport reseauMax)
+      throws CloneNotSupportedException {
     ReseauResiduel reseauResiduelMax = new ReseauResiduel(reseauMax);
     reseauResiduelMax.saveForVisualization();
 
@@ -72,6 +73,7 @@ public class App {
         partiePuits.add(noeud.getId());
       }
     }
+
     partieSource.remove("source");
     partiePuits.remove("puits");
 
@@ -96,6 +98,12 @@ public class App {
     } catch (Exception e) {
       e.printStackTrace();
     }
+
+    HashMap<String, Object> resultats = new HashMap<String, Object>();
+    resultats.put("partieSource", partieSource);
+    resultats.put("partiePuits", partiePuits);
+
+    return resultats;
   }
 
   static public void ResoudreBinMin(String filepath) {
@@ -109,13 +117,64 @@ public class App {
       System.out.println("Flot max : " + flotMax);
 
       ReseauTransport reseauMax = (ReseauTransport) resultatsMax.get("reseau");
-      CalculCoupeMin(reseauMax);
+      HashMap<String, Object> resultats = CalculCoupeMin(reseauMax);
+
+      List<String> partieSource = (List<String>) resultats.get("partieSource");
+      List<String> partiePuits = (List<String>) resultats.get("partiePuits");
+
+      int dimX = 0;
+      int dimY = 0;
+
+      for (String s : partieSource) {
+        int x = Integer.parseInt(s.substring(s.indexOf("-") + 1));
+        int y = Integer.parseInt(s.substring(0, s.indexOf("-")));
+
+        dimX = Math.max(dimX, x);
+        dimY = Math.max(dimY, y);
+      }
+
+      for (String s : partiePuits) {
+        int x = Integer.parseInt(s.substring(s.indexOf("-") + 1));
+        int y = Integer.parseInt(s.substring(0, s.indexOf("-")));
+
+        dimX = Math.max(dimX, x);
+        dimY = Math.max(dimY, y);
+      }
+
+      dimX += 1;
+      dimY += 1;
+
+
+      String[][] matrice = new String[dimX][dimY];
+
+      for (int i = 0; i < dimX; i++) {
+        for (int j = 0; j < dimY; j++) {
+          matrice[i][j] = " ";
+        }
+      }
+
+      for (String s : partieSource) {
+        int x = Integer.parseInt(s.substring(s.indexOf("-") + 1));
+        int y = Integer.parseInt(s.substring(0, s.indexOf("-")));
+
+        matrice[x][y] = "-";
+      }
+
+      // Print matrice
+      for (int i = 0; i < dimX; i++) {
+        for (int j = 0; j < dimY; j++) {
+          System.out.print(matrice[i][j] + " ");
+        }
+        System.out.println();
+      }
+
     } catch (CloneNotSupportedException e) {
       e.printStackTrace();
     }
 
 
   }
+
   public static void main(String[] args) {
     // new Loader().load()
     // Get command line arguments
@@ -127,12 +186,9 @@ public class App {
         path.append(argument);
       }
 
-      ResoudreBinMin(path.toString()); 
-    }
-    else {
+      ResoudreBinMin(path.toString());
+    } else {
       System.out.println("Usage: java -jar BinarisationImage.jar <path-vers-fichier-donnees>");
     }
-
-
   }
 }

@@ -90,7 +90,7 @@ public class FordFulkerson {
       depart = reseau.getSource();
     }
 
-    //dans chaque noeud du reseau faire un parcours en profondeur depuis le noeud source
+    // dans chaque noeud du reseau faire un parcours en profondeur depuis le noeud source
     for (Noeud noeud : reseau.getNoeuds()) {
       chemin = this.parcoursProfondeur(reseau, depart, null, basEnHaut);
 
@@ -118,61 +118,60 @@ public class FordFulkerson {
     // Si on fait la recherche à l'envers
     List<Arc> arcsExplorables = basEnHaut ? noeud.getArcsEntrants() : noeud.getArcsSortants();
 
-    if (arcsExplorables.get(0).getParent().getId() == "source") {
-      Collections.sort(arcsExplorables, new Comparator<Arc>(){
-        public int compare(Arc a1, Arc a2) {
-          int c;
-          c = Math.abs(a1.getCapacite()) < Math.abs(a2.getCapacite()) ? -1
-           : Math.abs(a1.getCapacite()) > Math.abs(a2.getCapacite()) ? 1
-           : 0;
-          if (c == 0)
-          c = a1.getEnfant().getId().compareTo(a2.getEnfant().getId());
-          return c;
-
-        }
-      });
-    }
-     else {
-      if (arcsExplorables.get(0).getParent().getA() < arcsExplorables.get(0).getParent().getB()) {
-        Collections.sort(arcsExplorables, new Comparator<Arc>(){
-          public int compare(Arc a1, Arc a2) {
-            int c;
-            c = Math.abs(a1.getCapacite()) < Math.abs(a2.getCapacite()) ? 1
-             : Math.abs(a1.getCapacite()) > Math.abs(a2.getCapacite()) ? -1
-             : 0;
-            if (c == 0)
-            c = a1.getEnfant().getId().compareTo(a2.getEnfant().getId());
-            return c;
-  
-          }
-        });
-      } else {
-        Collections.sort(arcsExplorables, new Comparator<Arc>(){
+    if (arcsExplorables.size() > 0) {
+      if (arcsExplorables.get(0).getParent().getId() == "source") {
+        Collections.sort(arcsExplorables, new Comparator<Arc>() {
           public int compare(Arc a1, Arc a2) {
             int c;
             c = Math.abs(a1.getCapacite()) < Math.abs(a2.getCapacite()) ? -1
-             : Math.abs(a1.getCapacite()) > Math.abs(a2.getCapacite()) ? 1
-             : 0;
+                : Math.abs(a1.getCapacite()) > Math.abs(a2.getCapacite()) ? 1 : 0;
             if (c == 0)
-            c = a1.getEnfant().getId().compareTo(a2.getEnfant().getId());
+              c = a1.getEnfant().getId().compareTo(a2.getEnfant().getId());
             return c;
-  
+
           }
         });
+      } else {
+        if (arcsExplorables.get(0).getParent().getA() < arcsExplorables.get(0).getParent().getB()) {
+          Collections.sort(arcsExplorables, new Comparator<Arc>() {
+            public int compare(Arc a1, Arc a2) {
+              int c;
+              c = Math.abs(a1.getCapacite()) < Math.abs(a2.getCapacite()) ? 1
+                  : Math.abs(a1.getCapacite()) > Math.abs(a2.getCapacite()) ? -1 : 0;
+              if (c == 0)
+                c = a1.getEnfant().getId().compareTo(a2.getEnfant().getId());
+              return c;
+
+            }
+          });
+        } else {
+          Collections.sort(arcsExplorables, new Comparator<Arc>() {
+            public int compare(Arc a1, Arc a2) {
+              int c;
+              c = Math.abs(a1.getCapacite()) < Math.abs(a2.getCapacite()) ? -1
+                  : Math.abs(a1.getCapacite()) > Math.abs(a2.getCapacite()) ? 1 : 0;
+              if (c == 0)
+                c = a1.getEnfant().getId().compareTo(a2.getEnfant().getId());
+              return c;
+
+            }
+          });
+        }
+
       }
-      
     }
+
 
     for (Arc arcSortant : arcsExplorables) {
       Noeud voisin = arcSortant.getEnfant();
 
-      //S'arrêter quand on atteint la fin du chemin
+      // S'arrêter quand on atteint la fin du chemin
       if ((!basEnHaut && voisin.getId() == "puits") || (basEnHaut && voisin.getId() == "source")) {
         chemin.add("puits");
         return chemin;
       }
 
-      //Passer au voisin suivant
+      // Passer au voisin suivant
       if (!this.visites.contains(voisin.getId())) {
         return this.parcoursProfondeur(reseau, voisin, chemin, basEnHaut);
       }
