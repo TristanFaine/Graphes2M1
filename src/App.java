@@ -24,7 +24,7 @@ public class App {
    * ConstructionReseau Une fonction qui nous permet de construire le réseau de transport à partir
    * d'un fichier de données.
    */
-  static public ReseauTransport ConstructionReseau(String chemin) {
+  static public HashMap<String, Object> ConstructionReseau(String chemin) {
     // Lire le fichier de données
     HashMap<String, Object> donnees = new Lecteur().chargerDonnees(chemin);
 
@@ -43,7 +43,12 @@ public class App {
     // En extraire les nodes & arcs
     // return new Network();
 
-    return reseau;
+    HashMap<String, Object> resultats = new HashMap<String, Object>();
+    resultats.put("n", n);
+    resultats.put("m", m);
+    resultats.put("reseau", reseau);
+
+    return resultats;
   }
 
   // Calculer le flot max avec Ford Fulkerson
@@ -64,7 +69,7 @@ public class App {
 
     // Faire un trouverChemin basenhaut false depuis la source
     // Puis get les visites
-    utilitaire.trouverCheminCroissance(reseauResiduelMax, reseauResiduelMax.getSource(), false);
+    utilitaire.trouverChemin(reseauResiduelMax);
     List<String> partieSource = utilitaire.getVisites();
 
     List<String> partiePuits = new ArrayList<String>();
@@ -108,7 +113,12 @@ public class App {
 
   static public void ResoudreBinMin(String filepath) {
     System.out.println("Chargement des données depuis le fichier : " + filepath.toString());
-    ReseauTransport reseau = ConstructionReseau(filepath.toString());
+    HashMap<String, Object> resultatsConstructionReseau = ConstructionReseau(filepath.toString());
+
+    ReseauTransport reseau = (ReseauTransport) resultatsConstructionReseau.get("reseau");
+
+    int n = (int) resultatsConstructionReseau.get("n");
+    int m = (int) resultatsConstructionReseau.get("m");
 
     try {
       HashMap<String, Object> resultatsMax = CalculFlotMax(reseau);
@@ -122,48 +132,15 @@ public class App {
       List<String> partieSource = (List<String>) resultats.get("partieSource");
       List<String> partiePuits = (List<String>) resultats.get("partiePuits");
 
-      int dimX = 0;
-      int dimY = 0;
-
-      for (String s : partieSource) {
-        int x = Integer.parseInt(s.substring(s.indexOf("-") + 1));
-        int y = Integer.parseInt(s.substring(0, s.indexOf("-")));
-
-        dimX = Math.max(dimX, x);
-        dimY = Math.max(dimY, y);
-      }
-
-      for (String s : partiePuits) {
-        int x = Integer.parseInt(s.substring(s.indexOf("-") + 1));
-        int y = Integer.parseInt(s.substring(0, s.indexOf("-")));
-
-        dimX = Math.max(dimX, x);
-        dimY = Math.max(dimY, y);
-      }
-
-      dimX += 1;
-      dimY += 1;
-
-
-      String[][] matrice = new String[dimX][dimY];
-
-      for (int i = 0; i < dimX; i++) {
-        for (int j = 0; j < dimY; j++) {
-          matrice[i][j] = " ";
-        }
-      }
-
-      for (String s : partieSource) {
-        int x = Integer.parseInt(s.substring(s.indexOf("-") + 1));
-        int y = Integer.parseInt(s.substring(0, s.indexOf("-")));
-
-        matrice[x][y] = "-";
-      }
-
       // Print matrice
-      for (int i = 0; i < dimX; i++) {
-        for (int j = 0; j < dimY; j++) {
-          System.out.print(matrice[i][j] + " ");
+      for (int i = 0; i < n; i++) {
+        for (int j = 0; j < m; j++) {
+          String id = i + "-" + j;
+          if (partieSource.contains(id)) {
+            System.out.print("- ");
+          } else {
+            System.out.print("  ");
+          }
         }
         System.out.println();
       }
@@ -171,8 +148,6 @@ public class App {
     } catch (CloneNotSupportedException e) {
       e.printStackTrace();
     }
-
-
   }
 
   public static void main(String[] args) {

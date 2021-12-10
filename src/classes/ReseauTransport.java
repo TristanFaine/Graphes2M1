@@ -16,6 +16,9 @@ public class ReseauTransport extends Reseau {
     this.noeuds = new HashMap<String, Noeud>();
     this.arcs = new HashMap<String, Arc>();
 
+    new Source(this);
+    new Puits(this);
+
     // Double boucle i,j de n a m
     // pour la création des noeuds
     // avec les valeurs de A[i][j] et B[i][j]
@@ -26,6 +29,12 @@ public class ReseauTransport extends Reseau {
         Noeud noeud = new Noeud(identifiantNoeud, A[i][j], B[i][j]);
 
         this.ajouterNoeud(noeud);
+
+        Arc arcSource = new Arc(this.getSource(), noeud, A[i][j]);
+        Arc arcPuits = new Arc(noeud, this.getPuits(), B[i][j]);
+
+        this.ajouterArc(arcSource);
+        this.ajouterArc(arcPuits);
       }
     }
 
@@ -42,6 +51,7 @@ public class ReseauTransport extends Reseau {
 
         Arc arc = new Arc(parent, enfant, PLigne[i][j]);
         Arc arcRetour = new Arc(enfant, parent, PLigne[i][j]);
+
         this.ajouterArc(arc);
         this.ajouterArc(arcRetour);
       }
@@ -60,13 +70,10 @@ public class ReseauTransport extends Reseau {
 
         Arc arc = new Arc(parent, enfant, PColonne[i][j]);
         Arc arcRetour = new Arc(enfant, parent, PColonne[i][j]);
+
         this.ajouterArc(arc);
         this.ajouterArc(arcRetour);
       }
     }
-
-    new Source(this);
-    new Puits(this);
-
   }
 }
